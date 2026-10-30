@@ -3,8 +3,8 @@
   "version": "0.11.0",
   "files": {
     "README.md": {
-      "sha256": "fe7fe235716dc810fcf39f25067c3384cd90820662c5f5a0e8e4adc890317c9b",
-      "bytes": 3280
+      "sha256": "369ddebe090cfb0fc2211ef6066a1c69b854ffe7128ca1cf3eaadd5877ab792b",
+      "bytes": 3811
     },
     "analysis/assemble-final.log": {
       "sha256": "38672c2a5db25b1d7ca79840e39fd5056412372da35c4d0caeda9704766babc1",
@@ -2119,8 +2119,8 @@
       "bytes": 2009
     },
     "catalog.json": {
-      "sha256": "ad097558b5f2f025d1b9a3c72a6ca6782bbf79a498e53f32643c164e6561412c",
-      "bytes": 372806
+      "sha256": "265518fe47481ab57345f2dada482fb6b1ea717b3724eb52bf1ea39e6712c320",
+      "bytes": 373222
     },
     "diagrams/comparison-matrix/editable.pptx": {
       "sha256": "80440319e31ee4f35e432dad5aed6ee906ceed82d4efbfadafe432cefa5ed419",
@@ -10805,6 +10805,38 @@
     "layouts/content-p086/motion.json": {
       "sha256": "b9ddb12911413335f0e1c9efc5f373de6cafdbd2531fe4660908e0bf9f7813e8",
       "bytes": 891
+    },
+    "layouts/content-p057/motion.json": {
+      "sha256": "71abb31ba6cb301044ef22dffa6c95ef931c4f4dbf994c05369a6ee93218ea92",
+      "bytes": 1203
+    },
+    "layouts/content-p063/motion.json": {
+      "sha256": "a6e5c7ec36afec7e5b6c37803b4ca41a87657918dc8d66e526dbc6ae66b6698f",
+      "bytes": 874
+    },
+    "layouts/content-p071/motion.json": {
+      "sha256": "0d4892a3725b7ef14a47d3fbdb318fa6cf755089ac920ffcd9c6ed2791d2c79b",
+      "bytes": 1010
+    },
+    "layouts/content-p105/motion.json": {
+      "sha256": "ffff96a8348849ca285bbc8f35fdeda119855b40bcc89522aa3c8381342bb1bf",
+      "bytes": 934
+    },
+    "layouts/content-p133/motion.json": {
+      "sha256": "371a993bed35f8e6a376e317955736d3aab55005e7b1b7e8e674f3c02fde5308",
+      "bytes": 516
+    },
+    "layouts/content-p134/motion.json": {
+      "sha256": "40a57584096829336ecac2a1ddf482650e1549eaefbd1159489b98c959786ad8",
+      "bytes": 795
+    },
+    "layouts/content-p152/motion.json": {
+      "sha256": "dd7fbd09ab90b7fe3e87586bf9fc2fa41ca4cd6c6d23d486efd9c9c98c07e7a1",
+      "bytes": 612
+    },
+    "layouts/content-p153/motion.json": {
+      "sha256": "94b314b8eb9e87f92fa3c6ea9af6dc1db0c256252a4440fada89713fff556070",
+      "bytes": 731
     }
   },
   "layouts": {
@@ -11597,7 +11629,8 @@
       "core": [
         "layouts/content-p057/blank.pptx",
         "layouts/content-p057/bindings.json",
-        "layouts/content-p057/spec.md"
+        "layouts/content-p057/spec.md",
+        "layouts/content-p057/motion.json"
       ],
       "preview": [
         "layouts/content-p057/preview.png",
@@ -11681,7 +11714,8 @@
       "core": [
         "layouts/content-p063/blank.pptx",
         "layouts/content-p063/bindings.json",
-        "layouts/content-p063/spec.md"
+        "layouts/content-p063/spec.md",
+        "layouts/content-p063/motion.json"
       ],
       "preview": [
         "layouts/content-p063/preview.png",
@@ -11793,7 +11827,8 @@
       "core": [
         "layouts/content-p071/blank.pptx",
         "layouts/content-p071/bindings.json",
-        "layouts/content-p071/spec.md"
+        "layouts/content-p071/spec.md",
+        "layouts/content-p071/motion.json"
       ],
       "preview": [
         "layouts/content-p071/preview.png",
@@ -12272,7 +12307,8 @@
       "core": [
         "layouts/content-p105/blank.pptx",
         "layouts/content-p105/bindings.json",
-        "layouts/content-p105/spec.md"
+        "layouts/content-p105/spec.md",
+        "layouts/content-p105/motion.json"
       ],
       "preview": [
         "layouts/content-p105/preview.png",
@@ -12664,7 +12700,8 @@
       "core": [
         "layouts/content-p133/blank.pptx",
         "layouts/content-p133/bindings.json",
-        "layouts/content-p133/spec.md"
+        "layouts/content-p133/spec.md",
+        "layouts/content-p133/motion.json"
       ],
       "preview": [
         "layouts/content-p133/preview.png",
@@ -12678,7 +12715,8 @@
       "core": [
         "layouts/content-p134/blank.pptx",
         "layouts/content-p134/bindings.json",
-        "layouts/content-p134/spec.md"
+        "layouts/content-p134/spec.md",
+        "layouts/content-p134/motion.json"
       ],
       "preview": [
         "layouts/content-p134/preview.png",
@@ -12931,7 +12969,8 @@
       "core": [
         "layouts/content-p152/blank.pptx",
         "layouts/content-p152/bindings.json",
-        "layouts/content-p152/spec.md"
+        "layouts/content-p152/spec.md",
+        "layouts/content-p152/motion.json"
       ],
       "preview": [
         "layouts/content-p152/preview.png",
@@ -12945,7 +12984,8 @@
       "core": [
         "layouts/content-p153/blank.pptx",
         "layouts/content-p153/bindings.json",
-        "layouts/content-p153/spec.md"
+        "layouts/content-p153/spec.md",
+        "layouts/content-p153/motion.json"
       ],
       "preview": [
         "layouts/content-p153/preview.png",

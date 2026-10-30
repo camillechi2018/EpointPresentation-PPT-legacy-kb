@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "layout_id": "content-p105",
+  "preset": "step-reveal",
+  "effect": "fade",
+  "trigger": "on-click",
+  "duration_seconds": 0.35,
+  "review_status": "assistant_blank_playback_reviewed_pending_filled_content",
+  "groups": [
+    {
+      "step": 1,
+      "label": "Step 1",
+      "shape_ids": [
+        31,
+        15,
+        3,
+        35
+      ]
+    },
+    {
+      "step": 2,
+      "label": "Step 2",
+      "shape_ids": [
+        54,
+        55,
+        16,
+        4,
+        30
+      ]
+    },
+    {
+      "step": 3,
+      "label": "Step 3",
+      "shape_ids": [
+        37,
+        17,
+        9,
+        34
+      ]
+    },
+    {
+      "step": 4,
+      "label": "Step 4",
+      "shape_ids": [
+        56,
+        57,
+        23,
+        10,
+        33
+      ]
+    },
+    {
+      "step": 5,
+      "label": "Step 5",
+      "shape_ids": [
+        39,
+        24,
+        11,
+        32
+      ]
+    }
+  ]
+}
