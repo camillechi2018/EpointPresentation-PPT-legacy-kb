@@ -19,3 +19,7 @@
 # 扩充主题色系
 
 新增背景先在 `image-catalog.json/backgrounds` 登记图片来源、角色、配套可编辑版式、颜色标签与视觉分数；运行 `python analysis/build_background_colorway_index.py` 重建索引，运行同脚本的 `--check` 校验。发布前更新 `knowledge-manifest.json` 中变更文件的 SHA-256 和大小，再提交到当前 Git 仓库。Skill 用目标主题色先找同色系背景，按视觉冲击力排序，中性背景仅作为后备；没有直接匹配时返回 `color_match_gap=true`。标签不会将原图换色，需要另行编辑原生结构、导出 SVG 变体或新增背景。
+
+# 首批动效标注
+
+`content-p175/p186/p195/p075/p147/p056/p078/p086` 八个组件的 `motion.json` 登记节点分组、形状 ID 和点击揭示顺序；`catalog.json` 的 `motion` 字段可定位标注，`knowledge-manifest.json` 将它们列入组件核心文件。Skill 在整套 PPTX 组装完成后读取标注并添加原生 PowerPoint 淡入效果。标注状态为助手结构复核、待放映验收；其他组件不自动加对象动画。添加新动效时先确认图形和文字的形状 ID、讲述顺序及是否在版式母版层，不能仅按字段后缀或坐标推断业务顺序。

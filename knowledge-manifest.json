@@ -3,8 +3,8 @@
   "version": "0.11.0",
   "files": {
     "README.md": {
-      "sha256": "71fa432f685ed65c255ed20a3becdb04740d041e8c999c16485a95a35d2d316c",
-      "bytes": 2671
+      "sha256": "fe7fe235716dc810fcf39f25067c3384cd90820662c5f5a0e8e4adc890317c9b",
+      "bytes": 3280
     },
     "analysis/assemble-final.log": {
       "sha256": "38672c2a5db25b1d7ca79840e39fd5056412372da35c4d0caeda9704766babc1",
@@ -2119,8 +2119,8 @@
       "bytes": 2009
     },
     "catalog.json": {
-      "sha256": "4f0be9665dd59fbcc16cec369111416db90e5122769e63aa339d7b29c95260a8",
-      "bytes": 385683
+      "sha256": "ad097558b5f2f025d1b9a3c72a6ca6782bbf79a498e53f32643c164e6561412c",
+      "bytes": 372806
     },
     "diagrams/comparison-matrix/editable.pptx": {
       "sha256": "80440319e31ee4f35e432dad5aed6ee906ceed82d4efbfadafe432cefa5ed419",
@@ -10773,6 +10773,38 @@
     "总览/默认主题四页组合.pptx": {
       "sha256": "bb4dc1787c28f42460fe35be6539abb087cdc33bf80d9241c9d9ca79392afa07",
       "bytes": 133780
+    },
+    "layouts/content-p175/motion.json": {
+      "sha256": "d93694e2a8c7011f9cfe7fb85f82aa99e472086cdefa8195e31a0f867c300e65",
+      "bytes": 764
+    },
+    "layouts/content-p186/motion.json": {
+      "sha256": "0bbf9b4437a61fa170f0cca3d297631e9620b6ae9a21040594d43ad55e456f16",
+      "bytes": 1005
+    },
+    "layouts/content-p195/motion.json": {
+      "sha256": "249867b64160cfe135513c40421376ffb21b995093c5e608e684cbbe26f8083f",
+      "bytes": 889
+    },
+    "layouts/content-p075/motion.json": {
+      "sha256": "be3ec2f26f006928c7af589e8e20b67cd1c9f17a785a91b63a514086c0717ad7",
+      "bytes": 812
+    },
+    "layouts/content-p147/motion.json": {
+      "sha256": "2aa4918807c47c931edfd8ad2e5ed83bc1fe09323ce53ca0542fd8c3cb57e811",
+      "bytes": 841
+    },
+    "layouts/content-p056/motion.json": {
+      "sha256": "e7eb43094f8272b82665c5328f4dc0c1f8ec71ccaa3a612ee2eb7c979c8293a3",
+      "bytes": 817
+    },
+    "layouts/content-p078/motion.json": {
+      "sha256": "dcec15185448e76db476c21bbf506c5b23e37ced9f0c08766d1d5cdec19bfb3d",
+      "bytes": 719
+    },
+    "layouts/content-p086/motion.json": {
+      "sha256": "b9ddb12911413335f0e1c9efc5f373de6cafdbd2531fe4660908e0bf9f7813e8",
+      "bytes": 891
     }
   },
   "layouts": {
@@ -11550,7 +11582,8 @@
       "core": [
         "layouts/content-p056/blank.pptx",
         "layouts/content-p056/bindings.json",
-        "layouts/content-p056/spec.md"
+        "layouts/content-p056/spec.md",
+        "layouts/content-p056/motion.json"
       ],
       "preview": [
         "layouts/content-p056/preview.png",
@@ -11816,7 +11849,8 @@
       "core": [
         "layouts/content-p075/blank.pptx",
         "layouts/content-p075/bindings.json",
-        "layouts/content-p075/spec.md"
+        "layouts/content-p075/spec.md",
+        "layouts/content-p075/motion.json"
       ],
       "preview": [
         "layouts/content-p075/preview.png",
@@ -11858,7 +11892,8 @@
       "core": [
         "layouts/content-p078/blank.pptx",
         "layouts/content-p078/bindings.json",
-        "layouts/content-p078/spec.md"
+        "layouts/content-p078/spec.md",
+        "layouts/content-p078/motion.json"
       ],
       "preview": [
         "layouts/content-p078/preview.png",
@@ -11970,7 +12005,8 @@
       "core": [
         "layouts/content-p086/blank.pptx",
         "layouts/content-p086/bindings.json",
-        "layouts/content-p086/spec.md"
+        "layouts/content-p086/spec.md",
+        "layouts/content-p086/motion.json"
       ],
       "preview": [
         "layouts/content-p086/preview.png",
@@ -12824,7 +12860,8 @@
       "core": [
         "layouts/content-p147/blank.pptx",
         "layouts/content-p147/bindings.json",
-        "layouts/content-p147/spec.md"
+        "layouts/content-p147/spec.md",
+        "layouts/content-p147/motion.json"
       ],
       "preview": [
         "layouts/content-p147/preview.png",
@@ -13216,7 +13253,8 @@
       "core": [
         "layouts/content-p175/blank.pptx",
         "layouts/content-p175/bindings.json",
-        "layouts/content-p175/spec.md"
+        "layouts/content-p175/spec.md",
+        "layouts/content-p175/motion.json"
       ],
       "preview": [
         "layouts/content-p175/preview.png",
@@ -13370,7 +13408,8 @@
       "core": [
         "layouts/content-p186/blank.pptx",
         "layouts/content-p186/bindings.json",
-        "layouts/content-p186/spec.md"
+        "layouts/content-p186/spec.md",
+        "layouts/content-p186/motion.json"
       ],
       "preview": [
         "layouts/content-p186/preview.png",
@@ -13496,7 +13535,8 @@
       "core": [
         "layouts/content-p195/blank.pptx",
         "layouts/content-p195/bindings.json",
-        "layouts/content-p195/spec.md"
+        "layouts/content-p195/spec.md",
+        "layouts/content-p195/motion.json"
       ],
       "preview": [
         "layouts/content-p195/preview.png",

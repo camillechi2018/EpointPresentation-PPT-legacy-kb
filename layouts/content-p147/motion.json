@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "layout_id": "content-p147",
+  "preset": "step-reveal",
+  "effect": "fade",
+  "trigger": "on-click",
+  "duration_seconds": 0.35,
+  "review_status": "assistant_shape_review_pending_playback",
+  "groups": [
+    {
+      "step": 1,
+      "label": "第1步",
+      "shape_ids": [
+        12,
+        30,
+        31
+      ]
+    },
+    {
+      "step": 2,
+      "label": "第2步",
+      "shape_ids": [
+        21,
+        26,
+        27
+      ]
+    },
+    {
+      "step": 3,
+      "label": "第3步",
+      "shape_ids": [
+        22,
+        38,
+        39
+      ]
+    },
+    {
+      "step": 4,
+      "label": "第4步",
+      "shape_ids": [
+        23,
+        34,
+        35
+      ]
+    },
+    {
+      "step": 5,
+      "label": "第5步",
+      "shape_ids": [
+        24,
+        45,
+        46
+      ]
+    }
+  ]
+}

@@ -2618,7 +2618,8 @@
       ],
       "preserve_similar_variants": true,
       "requires_image_replacement": false,
-      "requires_chart_data": false
+      "requires_chart_data": false,
+      "motion": "layouts/content-p056/motion.json"
     },
     {
       "id": "content-p057",
@@ -3796,7 +3797,8 @@
       ],
       "preserve_similar_variants": true,
       "requires_image_replacement": false,
-      "requires_chart_data": false
+      "requires_chart_data": false,
+      "motion": "layouts/content-p075/motion.json"
     },
     {
       "id": "content-p076",
@@ -3976,7 +3978,8 @@
       ],
       "preserve_similar_variants": true,
       "requires_image_replacement": false,
-      "requires_chart_data": false
+      "requires_chart_data": false,
+      "motion": "layouts/content-p078/motion.json"
     },
     {
       "id": "content-p079",
@@ -4456,7 +4459,8 @@
       ],
       "preserve_similar_variants": true,
       "requires_image_replacement": false,
-      "requires_chart_data": false
+      "requires_chart_data": false,
+      "motion": "layouts/content-p086/motion.json"
     },
     {
       "id": "content-p087",
@@ -8204,7 +8208,8 @@
       ],
       "preserve_similar_variants": true,
       "requires_image_replacement": false,
-      "requires_chart_data": false
+      "requires_chart_data": false,
+      "motion": "layouts/content-p147/motion.json"
     },
     {
       "id": "content-p148",
@@ -9910,7 +9915,8 @@
       ],
       "preserve_similar_variants": true,
       "requires_image_replacement": false,
-      "requires_chart_data": false
+      "requires_chart_data": false,
+      "motion": "layouts/content-p175/motion.json"
     },
     {
       "id": "content-p176",
@@ -10593,7 +10599,8 @@
       ],
       "preserve_similar_variants": true,
       "requires_image_replacement": false,
-      "requires_chart_data": false
+      "requires_chart_data": false,
+      "motion": "layouts/content-p186/motion.json"
     },
     {
       "id": "content-p187",
@@ -11131,7 +11138,8 @@
       ],
       "preserve_similar_variants": true,
       "requires_image_replacement": false,
-      "requires_chart_data": false
+      "requires_chart_data": false,
+      "motion": "layouts/content-p195/motion.json"
     },
     {
       "id": "content-p196",
