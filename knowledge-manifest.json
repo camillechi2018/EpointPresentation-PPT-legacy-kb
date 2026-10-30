@@ -3,8 +3,8 @@
   "version": "0.11.0",
   "files": {
     "README.md": {
-      "sha256": "da6dd931ff7dd9ee41f3104db6d4acce58bfd9b30b8536ac91885dd21e84aa05",
-      "bytes": 1517
+      "sha256": "71fa432f685ed65c255ed20a3becdb04740d041e8c999c16485a95a35d2d316c",
+      "bytes": 2671
     },
     "analysis/assemble-final.log": {
       "sha256": "38672c2a5db25b1d7ca79840e39fd5056412372da35c4d0caeda9704766babc1",
@@ -23,8 +23,8 @@
       "bytes": 181
     },
     "analysis/build_background_colorway_index.py": {
-      "sha256": "ec85e919edbc31aaa2589983534027eaaf5a740338aa41e0cc96cf2d52ec4481",
-      "bytes": 1174
+      "sha256": "5d412b41e5e252e2d81d0481780e7f88bac519d13365ac890b23367f49212b0e",
+      "bytes": 4252
     },
     "analysis/content-extraction-audit.json": {
       "sha256": "e18b441555e37571237b426ea910725ba7252baee8caeac996f0f8ae21dc95fc",
@@ -2171,8 +2171,8 @@
       "bytes": 234
     },
     "image-catalog.json": {
-      "sha256": "8a5f0efecfdcb5c1f5db64c8a38f99d8006ebbd4f6456b00951207e58dc11250",
-      "bytes": 111319
+      "sha256": "7781e7c8a6fc245e63dd77ad2d141f65e448baaf11d7bb37df4d4cd9524dcb05",
+      "bytes": 161104
     },
     "layouts/agenda-four/bindings.json": {
       "sha256": "ab5aacf83844db649693fb254e65f98c2cdfc218574803febce39d2761f4b35e",
@@ -8915,8 +8915,8 @@
       "bytes": 111928
     },
     "theme-assets/background-colorway-index.json": {
-      "sha256": "32c08bc3f93a51ccd533dc90c1d79576fdac7b37c3815c3e3ae87aae4a3f96cf",
-      "bytes": 35921
+      "sha256": "646ee0d6bf9c46023e9cfcebb5f8e0ce0729f1702ae2bc237ca9f1b7f0cf12fb",
+      "bytes": 87784
     },
     "theme-assets/raster/01476828fdefbe9b.png": {
       "sha256": "01476828fdefbe9bfe9bd8b1dcde27d46c173012ad1b8f4e77130753baa3f41a",

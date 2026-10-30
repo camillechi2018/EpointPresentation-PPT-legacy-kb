@@ -6,6 +6,7 @@
 
 - [文件清单](knowledge-manifest.json)：记录文件的 SHA-256、大小、241个组件所需文件及主题素材索引。
 - [组件目录](catalog.json) 与 [主题图库](image-catalog.json)：供 Skill 先检索再按需获取。
+- 主题图库的每张背景在 `image-catalog.json/backgrounds` 中保留唯一颜色与视觉标签：强调色系、强调色值与占比、明暗、调色板、视觉冲击力及复核状态。`theme-assets/background-colorway-index.json` 由这些主记录自动生成，不单独手工修改。当前68张背景的视觉分数由助手对照预览复核，状态仍为 `assistant_preview_reviewed_pending_user`，不是用户确认的正式评级。
 - `layouts/<组件ID>/blank.pptx` 是生成用可编辑版；`example.pptx` 和大图总览只供识别版式。
 - [独立 Skill](../epoint-presentation-v0.11/SKILL.md) 在同级目录，通过自身 `knowledge-base.json` 连接此库。
 
@@ -14,3 +15,7 @@
 # SVG 颜色角色
 
 `theme-assets/svg-role-bindings.json` 逐素材登记源 SVG 的颜色角色，供技能按主题生成 SVG 变体并同步替换 PPTX 的 PNG 回退图。映射由模板颜色归纳，仍需视觉复核；没有登记的素材不自动猜测换色。
+
+# 扩充主题色系
+
+新增背景先在 `image-catalog.json/backgrounds` 登记图片来源、角色、配套可编辑版式、颜色标签与视觉分数；运行 `python analysis/build_background_colorway_index.py` 重建索引，运行同脚本的 `--check` 校验。发布前更新 `knowledge-manifest.json` 中变更文件的 SHA-256 和大小，再提交到当前 Git 仓库。Skill 用目标主题色先找同色系背景，按视觉冲击力排序，中性背景仅作为后备；没有直接匹配时返回 `color_match_gap=true`。标签不会将原图换色，需要另行编辑原生结构、导出 SVG 变体或新增背景。
