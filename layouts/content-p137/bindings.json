@@ -1,0 +1,104 @@
+{
+  "layout_id": "content-p137",
+  "source_page": 137,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 9,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 9,
+        "name": "Title 8",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 5,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 46,
+      "source_text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点，单击此处输入你的项正文",
+      "bounds_pt": {
+        "id": 5,
+        "name": "对象1",
+        "type": 5,
+        "text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点，单击此处输入你的项正文",
+        "left": 321.02502,
+        "top": 169.2,
+        "width": 584.1718,
+        "height": 101.39504
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 12,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 12,
+        "name": "对象12",
+        "type": 5,
+        "text": "添加项标题",
+        "left": 90.45551,
+        "top": 182.36795,
+        "width": 251.05583,
+        "height": 246.663
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 7,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 46,
+      "source_text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点，单击此处输入你的项正文",
+      "bounds_pt": {
+        "id": 7,
+        "name": "对象2",
+        "type": 5,
+        "text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点，单击此处输入你的项正文",
+        "left": 321.02496,
+        "top": 331.92,
+        "width": 584.225,
+        "height": 100.8
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [
+    {
+      "shape_id": 15,
+      "text": "01",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 3,
+      "text": "02",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

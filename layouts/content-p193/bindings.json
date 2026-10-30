@@ -1,0 +1,145 @@
+{
+  "layout_id": "content-p193",
+  "source_page": 193,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 10,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 10,
+        "name": "Title 9",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 48.0,
+        "top": 47.9,
+        "width": 308.8,
+        "height": 60.1
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 5,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 33,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。",
+      "bounds_pt": {
+        "id": 5,
+        "name": "Rectangle 4",
+        "type": 1,
+        "text": "单击此处添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。",
+        "left": 104.9,
+        "top": 132.0,
+        "width": 207.3,
+        "height": 103.85
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 7,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 22,
+      "source_sample_chars": 22,
+      "source_text": "单击此处添加正文内容，请言简意赅地阐述观点。",
+      "bounds_pt": {
+        "id": 7,
+        "name": "Rectangle 6",
+        "type": 1,
+        "text": "单击此处添加正文内容，请言简意赅地阐述观点。",
+        "left": 104.9,
+        "top": 260.05,
+        "width": 207.3,
+        "height": 103.85
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 18,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 33,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。",
+      "bounds_pt": {
+        "id": 18,
+        "name": "Rectangle 17",
+        "type": 1,
+        "text": "单击此处添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。",
+        "left": 104.9,
+        "top": 388.1,
+        "width": 207.3,
+        "height": 103.85
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [
+    {
+      "shape_id": 4,
+      "text": "01",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 6,
+      "text": "02",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 17,
+      "text": "03",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 22,
+        "shape_name": "field:image:22",
+        "required": true,
+        "bounds_pt": {
+          "id": 22,
+          "name": "Picture 21",
+          "type": 13,
+          "text": "",
+          "left": 346.71426,
+          "top": 0.0,
+          "width": 613.28577,
+          "height": 540.45
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 22,
+      "shape_name": "field:image:22",
+      "bounds_pt": {
+        "id": 22,
+        "name": "Picture 21",
+        "type": 13,
+        "text": "",
+        "left": 346.71426,
+        "top": 0.0,
+        "width": 613.28577,
+        "height": 540.45
+      },
+      "kind": "content-image",
+      "sha256": "d3b90932384079651a95c5cc58a7e3c10a5db892bf7a6ffba28012bfa6da3945",
+      "replace_required": true
+    }
+  ]
+}

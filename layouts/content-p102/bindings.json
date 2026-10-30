@@ -1,0 +1,124 @@
+{
+  "layout_id": "content-p102",
+  "source_page": 102,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 3,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Rectangle 2",
+        "type": 1,
+        "text": "添加标题",
+        "left": 530.6,
+        "top": 262.6,
+        "width": 348.9,
+        "height": 26.35
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 4,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 18,
+      "source_sample_chars": 18,
+      "source_text": "此处输入你的正文，文字是您思想的提炼",
+      "bounds_pt": {
+        "id": 4,
+        "name": "Rectangle 3",
+        "type": 1,
+        "text": "此处输入你的正文，文字是您思想的提炼",
+        "left": 530.6,
+        "top": 289.45,
+        "width": 348.95,
+        "height": 35.8
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 10,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 10,
+        "name": "Rectangle 9",
+        "type": 1,
+        "text": "添加标题",
+        "left": 530.6,
+        "top": 324.35,
+        "width": 348.9,
+        "height": 26.35
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 11,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 23,
+      "source_sample_chars": 23,
+      "source_text": "此处输入你的智能图形项正文，文字是您思想的提炼",
+      "bounds_pt": {
+        "id": 11,
+        "name": "Rectangle 10",
+        "type": 1,
+        "text": "此处输入你的智能图形项正文，文字是您思想的提炼",
+        "left": 530.6,
+        "top": 351.2,
+        "width": 348.95,
+        "height": 35.8
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [
+    {
+      "shape_id": 45,
+      "text": "01",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 46,
+      "text": "02",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

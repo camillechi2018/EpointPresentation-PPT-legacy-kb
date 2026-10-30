@@ -1,0 +1,288 @@
+{
+  "layout_id": "content-p097",
+  "source_page": 97,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 22,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "单击此处添加大标题内容",
+      "bounds_pt": {
+        "id": 22,
+        "name": "TextBox 21",
+        "type": 17,
+        "text": "单击此处添加大标题内容",
+        "left": 53.3,
+        "top": 23.55,
+        "width": 382.85,
+        "height": 38.7
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "subtitle_01",
+      "shape_id": 23,
+      "shape_name": "field:subtitle_01",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "单击此处添加副标题内容",
+      "bounds_pt": {
+        "id": 23,
+        "name": "TextBox 22",
+        "type": 17,
+        "text": "单击此处添加副标题内容",
+        "left": 54.3,
+        "top": 60.55,
+        "width": 381.9,
+        "height": 21.7
+      },
+      "semantic_role": "subtitle"
+    },
+    {
+      "field": "label_01",
+      "shape_id": 45,
+      "shape_name": "field:label_01",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "单击",
+      "bounds_pt": {
+        "id": 45,
+        "name": "TextBox 14",
+        "type": 17,
+        "text": "单击",
+        "left": 566.5,
+        "top": 140.55,
+        "width": 228.3,
+        "height": 43.55
+      },
+      "semantic_role": "label"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 44,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 44,
+        "name": "TextBox 14",
+        "type": 17,
+        "text": "添加标题",
+        "left": 566.5,
+        "top": 181.7,
+        "width": 228.3,
+        "height": 43.55
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 43,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "请添加小标题",
+      "bounds_pt": {
+        "id": 43,
+        "name": "TextBox 10",
+        "type": 17,
+        "text": "请添加小标题",
+        "left": 566.5,
+        "top": 287.15,
+        "width": 303.05,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 42,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 137,
+      "source_sample_chars": 137,
+      "source_text": "您的正文已经简明扼要，字字珠玑，但信息却错综复杂，需要用更多的文字来表述；但请您尽可能提炼思想的精髓，否则容易造成观者的阅读压力，适得其反单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点；根据需要可酌情增减文字，以便观者可以准确",
+      "bounds_pt": {
+        "id": 42,
+        "name": "Rectangle 12",
+        "type": 1,
+        "text": "您的正文已经简明扼要，字字珠玑，但信息却错综复杂，需要用更多的文字来表述；但请您尽可能提炼思想的精髓，否则容易造成观者的阅读压力，适得其反单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点；根据需要可酌情增减文字，以便观者可以准确",
+        "left": 566.5,
+        "top": 318.55,
+        "width": 303.1,
+        "height": 138.05
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 94,
+        "shape_name": "field:image:94",
+        "required": true,
+        "bounds_pt": {
+          "id": 94,
+          "name": "Picture 93",
+          "type": 13,
+          "text": "",
+          "left": 74.6,
+          "top": 300.6,
+          "width": 221.8,
+          "height": 147.35
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "field:image:3",
+        "required": true,
+        "bounds_pt": {
+          "id": 3,
+          "name": "Picture 2",
+          "type": 13,
+          "text": "",
+          "left": 309.5,
+          "top": 300.6,
+          "width": 223.6,
+          "height": 147.35
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 6,
+        "shape_name": "field:image:6",
+        "required": true,
+        "bounds_pt": {
+          "id": 6,
+          "name": "Picture 5",
+          "type": 13,
+          "text": "",
+          "left": 73.6,
+          "top": 140.55,
+          "width": 223.8,
+          "height": 147.35
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 7,
+        "shape_name": "field:image:7",
+        "required": true,
+        "bounds_pt": {
+          "id": 7,
+          "name": "Picture 6",
+          "type": 13,
+          "text": "",
+          "left": 311.65,
+          "top": 140.55,
+          "width": 219.35,
+          "height": 147.35
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 2,
+      "shape_name": "图片 1",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Picture 1",
+        "type": 13,
+        "text": "",
+        "left": -0.05,
+        "top": -11.25,
+        "width": 960.05,
+        "height": 540.0
+      },
+      "kind": "background",
+      "sha256": "913a94747b569f6e68d4fb8a6598c2d5f5f657601a3118460d9e37a2ac7bcbc4",
+      "replace_required": false
+    },
+    {
+      "shape_id": 94,
+      "shape_name": "field:image:94",
+      "bounds_pt": {
+        "id": 94,
+        "name": "Picture 93",
+        "type": 13,
+        "text": "",
+        "left": 74.6,
+        "top": 300.6,
+        "width": 221.8,
+        "height": 147.35
+      },
+      "kind": "content-image",
+      "sha256": "b7ff46a21a06c9eea1f4023c5a013e2d40233e042949b3fa8b1e8554373856ff",
+      "replace_required": true
+    },
+    {
+      "shape_id": 3,
+      "shape_name": "field:image:3",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Picture 2",
+        "type": 13,
+        "text": "",
+        "left": 309.5,
+        "top": 300.6,
+        "width": 223.6,
+        "height": 147.35
+      },
+      "kind": "content-image",
+      "sha256": "c279afeac53eec866a430501bc9ad2ad19d4cdcfdee0daa4015a9c5a771f64c9",
+      "replace_required": true
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "field:image:6",
+      "bounds_pt": {
+        "id": 6,
+        "name": "Picture 5",
+        "type": 13,
+        "text": "",
+        "left": 73.6,
+        "top": 140.55,
+        "width": 223.8,
+        "height": 147.35
+      },
+      "kind": "content-image",
+      "sha256": "f71b5905eb2b9f9b85b4c1dee0cdbb8ae4bce43d2df92ac77aacab0402860388",
+      "replace_required": true
+    },
+    {
+      "shape_id": 7,
+      "shape_name": "field:image:7",
+      "bounds_pt": {
+        "id": 7,
+        "name": "Picture 6",
+        "type": 13,
+        "text": "",
+        "left": 311.65,
+        "top": 140.55,
+        "width": 219.35,
+        "height": 147.35
+      },
+      "kind": "content-image",
+      "sha256": "aa5b39e3f8874953db5b2cfaf4303e989daf05daf66c50c336b0897e6dba859c",
+      "replace_required": true
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "layout_id": "theme-cover-p013",
+  "fields": [
+    {
+      "field": "brand",
+      "shape_id": 6,
+      "shape_name": "field:brand",
+      "type": "text",
+      "max_chars": 4,
+      "bounds_pt": {
+        "id": 6,
+        "path": "13/6",
+        "name": "公司名",
+        "type": 14,
+        "text": "金山办公软件有限公司",
+        "left": 55.499844,
+        "top": 27.43504,
+        "width": 226.77165,
+        "height": 39.68504
+      }
+    },
+    {
+      "field": "subtitle",
+      "shape_id": 5,
+      "shape_name": "field:subtitle",
+      "type": "text",
+      "max_chars": 12,
+      "bounds_pt": {
+        "id": 5,
+        "path": "13/5",
+        "name": "副标题",
+        "type": 14,
+        "text": "SIMPLE",
+        "left": 52.05,
+        "top": 89.3,
+        "width": 672.45,
+        "height": 168.3
+      }
+    },
+    {
+      "field": "title",
+      "shape_id": 4,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "bounds_pt": {
+        "id": 4,
+        "path": "13/4",
+        "name": "标题",
+        "type": 14,
+        "text": "工作总结汇报模板",
+        "left": 52.05,
+        "top": 265.6,
+        "width": 672.45,
+        "height": 142.7
+      }
+    },
+    {
+      "field": "presenter",
+      "shape_id": 10,
+      "shape_name": "field:presenter",
+      "type": "text",
+      "max_chars": 3,
+      "bounds_pt": {
+        "id": 10,
+        "path": "13/10",
+        "name": "署名",
+        "type": 14,
+        "text": "汇报人：WPS",
+        "left": 94.47835,
+        "top": 414.39676,
+        "width": 226.77165,
+        "height": 39.68504
+      }
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

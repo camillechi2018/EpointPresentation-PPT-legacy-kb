@@ -1,0 +1,253 @@
+{
+  "layout_id": "content-p083",
+  "source_page": 83,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 29,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 29,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加标题",
+        "left": 75.65,
+        "top": 165.45,
+        "width": 120.0,
+        "height": 28.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 31,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 31,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加标题",
+        "left": 247.6,
+        "top": 165.6,
+        "width": 120.0,
+        "height": 28.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 36,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 36,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加标题",
+        "left": 419.7,
+        "top": 165.85,
+        "width": 120.0,
+        "height": 28.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 39,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 39,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加标题",
+        "left": 591.7,
+        "top": 166.0,
+        "width": 120.0,
+        "height": 28.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_05",
+      "shape_id": 41,
+      "shape_name": "field:item_title_05",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 41,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加标题",
+        "left": 763.65,
+        "top": 166.3,
+        "width": 120.0,
+        "height": 28.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 34,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 38,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字内容",
+      "bounds_pt": {
+        "id": 34,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字内容",
+        "left": 75.65,
+        "top": 196.1,
+        "width": 120.1,
+        "height": 154.85
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 32,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 38,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字内容",
+      "bounds_pt": {
+        "id": 32,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字内容",
+        "left": 247.6,
+        "top": 196.25,
+        "width": 120.1,
+        "height": 154.85
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 37,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 38,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字内容",
+      "bounds_pt": {
+        "id": 37,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字内容",
+        "left": 419.7,
+        "top": 196.5,
+        "width": 120.1,
+        "height": 154.85
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 40,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 38,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字内容",
+      "bounds_pt": {
+        "id": 40,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字内容",
+        "left": 591.65,
+        "top": 196.65,
+        "width": 120.1,
+        "height": 154.85
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 42,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 38,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字内容",
+      "bounds_pt": {
+        "id": 42,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字内容",
+        "left": 763.6,
+        "top": 196.95,
+        "width": 120.1,
+        "height": 154.85
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_06",
+      "shape_id": 28,
+      "shape_name": "field:body_06",
+      "type": "text",
+      "max_chars": 14,
+      "source_sample_chars": 14,
+      "source_text": "单击此处添加你的标题具体内容",
+      "bounds_pt": {
+        "id": 28,
+        "name": "标题",
+        "type": 17,
+        "text": "单击此处添加你的标题具体内容",
+        "left": 247.85,
+        "top": 383.9,
+        "width": 464.35,
+        "height": 63.3
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

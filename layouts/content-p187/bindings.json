@@ -1,0 +1,240 @@
+{
+  "layout_id": "content-p187",
+  "source_page": 187,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 6,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 6,
+        "name": "Title 5",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 5,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 5,
+        "name": "Rectangle 4",
+        "type": 1,
+        "text": "单击添加标题",
+        "left": 449.2,
+        "top": 142.5,
+        "width": 430.4,
+        "height": 27.6
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 4,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 52,
+      "source_text": "单击此处输入正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击输入正文，请尽量言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 4,
+        "name": "Rectangle 3",
+        "type": 1,
+        "text": "单击此处输入正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击输入正文，请尽量言简意赅的阐述观点。",
+        "left": 449.2,
+        "top": 170.3,
+        "width": 430.4,
+        "height": 51.95
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 24,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 24,
+        "name": "Rectangle 23",
+        "type": 1,
+        "text": "单击添加标题",
+        "left": 449.2,
+        "top": 272.1,
+        "width": 430.4,
+        "height": 27.6
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 23,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 58,
+      "source_text": "单击此处添加文本具体内容，请简明扼要地阐述您的内容观点。根据需要可酌情增减文字，以便观者能够准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 23,
+        "name": "Rectangle 22",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，请简明扼要地阐述您的内容观点。根据需要可酌情增减文字，以便观者能够准确地理解您传达的思想。",
+        "left": 449.2,
+        "top": 299.9,
+        "width": 430.4,
+        "height": 51.95
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 20,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 20,
+        "name": "Rectangle 19",
+        "type": 1,
+        "text": "单击添加标题",
+        "left": 449.2,
+        "top": 401.75,
+        "width": 430.4,
+        "height": 27.6
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 19,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 52,
+      "source_text": "单击此处输入正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击输入正文，请尽量言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 19,
+        "name": "Rectangle 18",
+        "type": 1,
+        "text": "单击此处输入正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击输入正文，请尽量言简意赅的阐述观点。",
+        "left": 449.2,
+        "top": 429.55,
+        "width": 430.4,
+        "height": 51.95
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 29,
+        "shape_name": "field:image:29",
+        "required": true,
+        "bounds_pt": {
+          "id": 29,
+          "name": "Picture 28",
+          "type": 13,
+          "text": "",
+          "left": 67.45,
+          "top": 146.25,
+          "width": 247.15,
+          "height": 349.85
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 29,
+      "shape_name": "field:image:29",
+      "bounds_pt": {
+        "id": 29,
+        "name": "Picture 28",
+        "type": 13,
+        "text": "",
+        "left": 67.45,
+        "top": 146.25,
+        "width": 247.15,
+        "height": 349.85
+      },
+      "kind": "content-image",
+      "sha256": "74578a6a8f6cf9e4df393fb813681d847a7c3d269bb5e5cf9a2d9ef9654bdff8",
+      "replace_required": true
+    },
+    {
+      "shape_id": 10,
+      "shape_name": "图片 9",
+      "bounds_pt": {
+        "id": 10,
+        "name": "图片 9",
+        "type": 28,
+        "text": "",
+        "left": 377.91913,
+        "top": 299.19418,
+        "width": 25.51181,
+        "height": 25.51181
+      },
+      "kind": "template-decoration",
+      "sha256": "c0e05bb02a2cc74807f6c32f4822b1f11e969b4928408a732130b7429c34e1d8",
+      "replace_required": false
+    },
+    {
+      "shape_id": 11,
+      "shape_name": "图片 10",
+      "bounds_pt": {
+        "id": 11,
+        "name": "图片 10",
+        "type": 28,
+        "text": "",
+        "left": 377.91913,
+        "top": 169.59418,
+        "width": 25.51181,
+        "height": 25.51181
+      },
+      "kind": "template-decoration",
+      "sha256": "d7a3616bea610013384958d2fde12167ff8f524a0c259f1ed7a35f4b7192365e",
+      "replace_required": false
+    },
+    {
+      "shape_id": 13,
+      "shape_name": "图片 12",
+      "bounds_pt": {
+        "id": 13,
+        "name": "图片 12",
+        "type": 28,
+        "text": "",
+        "left": 377.9,
+        "top": 428.84418,
+        "width": 25.51181,
+        "height": 25.51181
+      },
+      "kind": "template-decoration",
+      "sha256": "21a56bdf99bbb8b228c34474db28e81828256ba85144b366fe55bf2f000ca1fb",
+      "replace_required": false
+    }
+  ]
+}

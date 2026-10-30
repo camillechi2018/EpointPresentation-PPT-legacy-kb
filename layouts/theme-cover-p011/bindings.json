@@ -1,0 +1,46 @@
+{
+  "layout_id": "theme-cover-p011",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 4,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 11,
+      "bounds_pt": {
+        "id": 4,
+        "path": "11/4",
+        "name": "标题",
+        "type": 14,
+        "text": "蓝色简约通用PPT模板",
+        "left": 62.362206,
+        "top": 208.91339,
+        "width": 600.9449,
+        "height": 128.94566
+      }
+    },
+    {
+      "field": "presenter",
+      "shape_id": 10,
+      "shape_name": "field:presenter",
+      "type": "text",
+      "max_chars": 3,
+      "bounds_pt": {
+        "id": 10,
+        "path": "11/10",
+        "name": "署名",
+        "type": 14,
+        "text": "汇报人：WPS",
+        "left": 68.314964,
+        "top": 343.55905,
+        "width": 226.77165,
+        "height": 45.354332
+      }
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

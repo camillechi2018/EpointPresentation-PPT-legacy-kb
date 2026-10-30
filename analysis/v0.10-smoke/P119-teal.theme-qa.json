@@ -1,0 +1,17 @@
+{
+  "layout_id": "content-p119",
+  "theme_id": "teal-example",
+  "source": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\layouts\\content-p119\\blank.pptx",
+  "output": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\analysis\\v0.10-smoke\\P119-teal.pptx",
+  "counts": {
+    "theme_slots": 29,
+    "gradient_color_nodes": 0,
+    "table_color_nodes": 0
+  },
+  "unmodified": [
+    "embedded SVG and its raster fallback",
+    "raster images",
+    "unmapped explicit shape/text colors"
+  ],
+  "visual_qa": "not_run"
+}

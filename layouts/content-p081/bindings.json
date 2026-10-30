@@ -1,0 +1,154 @@
+{
+  "layout_id": "content-p081",
+  "source_page": 81,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 4,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 4,
+        "name": "Title 3",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 42,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 34,
+      "source_text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+      "bounds_pt": {
+        "id": 42,
+        "name": "对象11",
+        "type": 5,
+        "text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+        "left": 54.80307,
+        "top": 164.45,
+        "width": 373.88858,
+        "height": 121.5
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 26,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 34,
+      "source_text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+      "bounds_pt": {
+        "id": 26,
+        "name": "对象7",
+        "type": 5,
+        "text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+        "left": 531.30835,
+        "top": 163.6,
+        "width": 373.86487,
+        "height": 121.5
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 16,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 16,
+        "name": "对象12",
+        "type": 5,
+        "text": "添加项标题",
+        "left": 366.62418,
+        "top": 202.3926,
+        "width": 228.13638,
+        "height": 224.14441
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 41,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 34,
+      "source_text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+      "bounds_pt": {
+        "id": 41,
+        "name": "对象10",
+        "type": 5,
+        "text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+        "left": 56.128582,
+        "top": 342.51953,
+        "width": 372.56308,
+        "height": 121.97008
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 43,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 34,
+      "source_text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+      "bounds_pt": {
+        "id": 43,
+        "name": "对象2",
+        "type": 5,
+        "text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+        "left": 532.6574,
+        "top": 341.66953,
+        "width": 372.53946,
+        "height": 121.97008
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [
+    {
+      "shape_id": 2,
+      "text": "01",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 27,
+      "text": "03",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 9,
+      "text": "02",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 40,
+      "text": "04",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

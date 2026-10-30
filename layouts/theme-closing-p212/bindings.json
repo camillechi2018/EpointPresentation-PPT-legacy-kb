@@ -1,0 +1,100 @@
+{
+  "layout_id": "theme-closing-p212",
+  "fields": [
+    {
+      "field": "brand",
+      "shape_id": 6,
+      "shape_name": "field:brand",
+      "type": "text",
+      "max_chars": 4,
+      "bounds_pt": {
+        "id": 6,
+        "path": "212/6",
+        "name": "公司名",
+        "type": 14,
+        "text": "金山办公软件有限公司",
+        "left": 98.33646,
+        "top": 34.39181,
+        "width": 194.4352,
+        "height": 39.68504
+      }
+    },
+    {
+      "field": "subtitle",
+      "shape_id": 5,
+      "shape_name": "field:subtitle",
+      "type": "text",
+      "max_chars": 9,
+      "bounds_pt": {
+        "id": 5,
+        "path": "212/5",
+        "name": "副标题",
+        "type": 14,
+        "text": "THANKS",
+        "left": 86.93071,
+        "top": 166.78882,
+        "width": 469.35645,
+        "height": 76.53543
+      }
+    },
+    {
+      "field": "title",
+      "shape_id": 4,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 4,
+      "bounds_pt": {
+        "id": 4,
+        "path": "212/4",
+        "name": "标题",
+        "type": 14,
+        "text": "感谢观看",
+        "left": 86.930786,
+        "top": 247.41055,
+        "width": 469.35645,
+        "height": 89.26095
+      }
+    },
+    {
+      "field": "presenter",
+      "shape_id": 10,
+      "shape_name": "field:presenter",
+      "type": "text",
+      "max_chars": 3,
+      "bounds_pt": {
+        "id": 10,
+        "path": "212/10",
+        "name": "署名",
+        "type": 14,
+        "text": "汇报人：WPS",
+        "left": 86.930786,
+        "top": 353.01755,
+        "width": 175.74803,
+        "height": 39.68504
+      }
+    },
+    {
+      "field": "date",
+      "shape_id": 7,
+      "shape_name": "field:date",
+      "type": "text",
+      "max_chars": 10,
+      "bounds_pt": {
+        "id": 7,
+        "path": "212/7",
+        "name": "日期时间",
+        "type": 14,
+        "text": "20XX/01/01",
+        "left": 696.3492,
+        "top": 459.11795,
+        "width": 191.12488,
+        "height": 28.75
+      }
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "layout_id": "content-p202",
+  "source_page": 202,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 22,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "单击此处添加大标题内容",
+      "bounds_pt": {
+        "id": 22,
+        "name": "TextBox 21",
+        "type": 17,
+        "text": "单击此处添加大标题内容",
+        "left": 53.3,
+        "top": 23.55,
+        "width": 382.85,
+        "height": 38.7
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "subtitle_01",
+      "shape_id": 23,
+      "shape_name": "field:subtitle_01",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "单击此处添加副标题内容",
+      "bounds_pt": {
+        "id": 23,
+        "name": "TextBox 22",
+        "type": 17,
+        "text": "单击此处添加副标题内容",
+        "left": 54.3,
+        "top": 60.55,
+        "width": 381.9,
+        "height": 21.7
+      },
+      "semantic_role": "subtitle"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 13,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 78,
+      "source_text": "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点；根据需要可酌情增减文字，以便观者可以准确理解您所传达的信息。",
+      "bounds_pt": {
+        "id": 13,
+        "name": "TextBox 12",
+        "type": 17,
+        "text": "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点；根据需要可酌情增减文字，以便观者可以准确理解您所传达的信息。",
+        "left": 320.75,
+        "top": 129.0,
+        "width": 575.45,
+        "height": 45.05
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 34,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加小标题",
+      "bounds_pt": {
+        "id": 34,
+        "name": "TextBox 33",
+        "type": 17,
+        "text": "添加小标题",
+        "left": 108.8,
+        "top": 136.25,
+        "width": 135.3,
+        "height": 27.55
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 38,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加小标题",
+      "bounds_pt": {
+        "id": 38,
+        "name": "TextBox 37",
+        "type": 17,
+        "text": "添加小标题",
+        "left": 108.8,
+        "top": 256.25,
+        "width": 135.3,
+        "height": 27.55
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 20,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 78,
+      "source_text": "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点；根据需要可酌情增减文字，以便观者可以准确理解您所传达的信息。",
+      "bounds_pt": {
+        "id": 20,
+        "name": "TextBox 19",
+        "type": 17,
+        "text": "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点；根据需要可酌情增减文字，以便观者可以准确理解您所传达的信息。",
+        "left": 320.75,
+        "top": 251.25,
+        "width": 575.45,
+        "height": 45.05
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 14,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 78,
+      "source_text": "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点；根据需要可酌情增减文字，以便观者可以准确理解您所传达的信息。",
+      "bounds_pt": {
+        "id": 14,
+        "name": "TextBox 13",
+        "type": 17,
+        "text": "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点；根据需要可酌情增减文字，以便观者可以准确理解您所传达的信息。",
+        "left": 320.75,
+        "top": 368.9,
+        "width": 575.45,
+        "height": 45.05
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 39,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加小标题",
+      "bounds_pt": {
+        "id": 39,
+        "name": "TextBox 38",
+        "type": 17,
+        "text": "添加小标题",
+        "left": 108.8,
+        "top": 376.25,
+        "width": 135.3,
+        "height": 27.55
+      },
+      "semantic_role": "item_title"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 2,
+      "shape_name": "图片 1",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Picture 1",
+        "type": 13,
+        "text": "",
+        "left": -0.05,
+        "top": -11.25,
+        "width": 960.05,
+        "height": 540.0
+      },
+      "kind": "background",
+      "sha256": "913a94747b569f6e68d4fb8a6598c2d5f5f657601a3118460d9e37a2ac7bcbc4",
+      "replace_required": false
+    }
+  ]
+}

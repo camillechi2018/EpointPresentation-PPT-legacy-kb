@@ -1,0 +1,26 @@
+{
+  "layout_id": "comparison-matrix",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "max_chars": 24
+    },
+    {
+      "field": "conclusion",
+      "shape_id": 5,
+      "max_chars": 80
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [
+      {
+        "shape_id": 11,
+        "rows": 6,
+        "columns": 5
+      }
+    ],
+    "images": []
+  }
+}

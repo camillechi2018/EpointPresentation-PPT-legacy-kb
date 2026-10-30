@@ -1,0 +1,193 @@
+{
+  "layout_id": "content-p179",
+  "source_page": 179,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 23,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "项标题",
+      "bounds_pt": {
+        "id": 23,
+        "name": "Rectangle 22",
+        "type": 1,
+        "text": "项标题",
+        "left": 306.7,
+        "top": 160.05,
+        "width": 150.6,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 25,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "项标题",
+      "bounds_pt": {
+        "id": 25,
+        "name": "Rectangle 24",
+        "type": 1,
+        "text": "项标题",
+        "left": 502.8,
+        "top": 160.05,
+        "width": 150.6,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 21,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 13,
+      "source_sample_chars": 13,
+      "source_text": "单击此处输入你的项正文内容",
+      "bounds_pt": {
+        "id": 21,
+        "name": "Rectangle 20",
+        "type": 1,
+        "text": "单击此处输入你的项正文内容",
+        "left": 306.7,
+        "top": 198.5,
+        "width": 150.6,
+        "height": 55.55
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 24,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 17,
+      "source_sample_chars": 17,
+      "source_text": "单击此处输入你的项正文文本具体内容",
+      "bounds_pt": {
+        "id": 24,
+        "name": "Rectangle 23",
+        "type": 1,
+        "text": "单击此处输入你的项正文文本具体内容",
+        "left": 502.8,
+        "top": 198.5,
+        "width": 150.6,
+        "height": 55.55
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 3,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "项标题",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Rectangle 2",
+        "type": 1,
+        "text": "项标题",
+        "left": 110.6,
+        "top": 216.7,
+        "width": 150.6,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 9,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "项标题",
+      "bounds_pt": {
+        "id": 9,
+        "name": "Rectangle 8",
+        "type": 1,
+        "text": "项标题",
+        "left": 698.85,
+        "top": 216.7,
+        "width": 150.6,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 2,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 17,
+      "source_sample_chars": 17,
+      "source_text": "单击此处输入你的项正文文本具体内容",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Rectangle 1",
+        "type": 1,
+        "text": "单击此处输入你的项正文文本具体内容",
+        "left": 110.6,
+        "top": 255.15,
+        "width": 150.6,
+        "height": 55.55
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 4,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 13,
+      "source_sample_chars": 13,
+      "source_text": "单击此处输入你的项正文内容",
+      "bounds_pt": {
+        "id": 4,
+        "name": "Rectangle 3",
+        "type": 1,
+        "text": "单击此处输入你的项正文内容",
+        "left": 698.85,
+        "top": 255.15,
+        "width": 150.6,
+        "height": 55.55
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

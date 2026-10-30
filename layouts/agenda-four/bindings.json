@@ -1,0 +1,55 @@
+{
+  "layout_id": "agenda-four",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 13,
+      "max_chars": 12
+    },
+    {
+      "field": "section_1",
+      "shape_id": 60,
+      "max_chars": 6
+    },
+    {
+      "field": "section_2",
+      "shape_id": 143,
+      "max_chars": 6
+    },
+    {
+      "field": "section_3",
+      "shape_id": 151,
+      "max_chars": 6
+    },
+    {
+      "field": "section_4",
+      "shape_id": 159,
+      "max_chars": 6
+    },
+    {
+      "field": "en_1",
+      "shape_id": 61,
+      "max_chars": 25
+    },
+    {
+      "field": "en_2",
+      "shape_id": 144,
+      "max_chars": 25
+    },
+    {
+      "field": "en_3",
+      "shape_id": 152,
+      "max_chars": 25
+    },
+    {
+      "field": "en_4",
+      "shape_id": 160,
+      "max_chars": 25
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "schema_version": "1.1",
+  "id": "template-v2-base",
+  "status": "provided_template_reference_not_approved_vi",
+  "source": {
+    "file": "完整模版示例v2.pptx",
+    "sha256": "0D1203882A99F3FCE94C0E7300F9E55D96224FB67D90C93BF7553A724BA2893C",
+    "slides": 217,
+    "inventory": "../../analysis/style-inventory.json"
+  },
+  "canvas": {
+    "ratio": "16:9",
+    "width_pt": 960,
+    "height_pt": 540
+  },
+  "colors": {
+    "brand_primary": "#087F83",
+    "brand_soft": "#A7DCDD",
+    "brand_deep": "#11444B",
+    "canvas": "#FFFFFF",
+    "surface": "#F2FAFA",
+    "surface_muted": "#F8F8F8",
+    "text_primary": "#262626",
+    "text_secondary": "#44546A",
+    "text_inverse": "#FFFFFF",
+    "border_soft": "#CEE9EA"
+  },
+  "color_role_status": "semantic_mapping_inferred_from_observed_values",
+  "typography": {
+    "font_policy": "source_components_keep_original; new_pages_use_roles_below",
+    "roles": {
+      "display_zh": {
+        "family": "思源黑体 CN Heavy",
+        "fallback": [
+          "微软雅黑"
+        ],
+        "evidence": "explicit_and_theme_font"
+      },
+      "heading_zh": {
+        "family": "思源黑体 CN Medium",
+        "fallback": [
+          "微软雅黑"
+        ],
+        "evidence": "explicit_font"
+      },
+      "body_zh": {
+        "family": "思源黑体 CN Light",
+        "fallback": [
+          "微软雅黑"
+        ],
+        "evidence": "explicit_font"
+      },
+      "latin_number": {
+        "family": "Arial",
+        "fallback": [
+          "Calibri"
+        ],
+        "evidence": "theme_and_explicit_font"
+      }
+    },
+    "observed_common_sizes_pt": [
+      12,
+      14,
+      16,
+      18,
+      20,
+      24,
+      28,
+      32,
+      40
+    ],
+    "new_page_size_guidance_pt": {
+      "title": [
+        30,
+        40
+      ],
+      "body": [
+        18,
+        22
+      ],
+      "table": [
+        13,
+        15
+      ]
+    },
+    "size_guidance_status": "new_page_guidance_not_pagewise_source_rule"
+  },
+  "layout": {
+    "spacing_scale": null,
+    "spacing_note": "原稿未形成可靠统一间距刻度；使用各组件登记坐标",
+    "image_crop_policy": "使用具体组件图片槽裁切约束"
+  },
+  "extension_contract": {
+    "variant_directory": "../themes",
+    "override_keys": [
+      "colors",
+      "typography.roles",
+      "theme_palette"
+    ],
+    "required_color_roles": [
+      "brand_primary",
+      "brand_soft",
+      "brand_deep",
+      "canvas",
+      "surface",
+      "surface_muted",
+      "text_primary",
+      "text_secondary",
+      "text_inverse",
+      "border_soft"
+    ],
+    "image_palette_roles": [
+      "brand_primary",
+      "brand_soft",
+      "surface",
+      "canvas"
+    ],
+    "application_scope": "AI image prompts, native theme palette and extracted SVG variants; theme-bound media are selected by registry, not recolored"
+  },
+  "theme_palette": {
+    "accent1": "#087F83",
+    "accent2": "#42AEB2",
+    "accent3": "#56CA95",
+    "accent4": "#FFBA55",
+    "accent5": "#F18870",
+    "accent6": "#EC5F74",
+    "dk1": "#000000",
+    "dk2": "#0F1423",
+    "folHlink": "#954D72",
+    "hlink": "#0563C1",
+    "lt1": "#FFFFFF",
+    "lt2": "#FFFFFF"
+  },
+  "native_gradients": {
+    "registry": "../../theme-assets/registry.json",
+    "recipe_count": 286,
+    "editable_properties": [
+      "stops.position",
+      "stops.color",
+      "stops.color.transforms",
+      "geometry"
+    ],
+    "binding": "PPTX gradient references theme palette; explicit source colors require role mapping"
+  },
+  "tables": {
+    "registry": "../../theme-assets/registry.json",
+    "style_count": 2,
+    "roles": [
+      "wholeTbl",
+      "firstRow",
+      "lastRow",
+      "firstCol",
+      "lastCol",
+      "band1H",
+      "band2H",
+      "band1V",
+      "band2V"
+    ],
+    "binding": "tableStyles.xml and per-cell tcPr; preserve merges and custom cell fills"
+  },
+  "svg": {
+    "registry": "../../theme-assets/registry.json",
+    "source_brand_color_to_role": {
+      "#376FFF": "brand_primary",
+      "#4096FF": "brand_primary"
+    },
+    "binding": "export reviewed SVG variant separately; embedded PowerPoint fallback must be updated before claiming PPTX SVG recolor"
+  },
+  "raster": {
+    "registry": "../../theme-assets/registry.json",
+    "selection_tags": [
+      "theme_binding",
+      "accent_hue",
+      "tone",
+      "source_pages"
+    ],
+    "binding": "choose compatible source image or new themed asset; pixels are not token values"
+  },
+  "theme": {
+    "id": "teal-example",
+    "name": "青绿色系示例",
+    "status": "example_not_from_template_not_approved_vi"
+  },
+  "image_palette": [
+    "#087F83",
+    "#A7DCDD",
+    "#F2FAFA",
+    "#FFFFFF"
+  ],
+  "contrast_checks": {
+    "text_primary_on_canvas": 15.13,
+    "text_primary_on_surface": 14.29,
+    "text_secondary_on_canvas": 7.71,
+    "text_inverse_on_brand_deep": 10.76
+  }
+}

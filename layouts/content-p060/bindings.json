@@ -1,0 +1,144 @@
+{
+  "layout_id": "content-p060",
+  "source_page": 60,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 7,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 7,
+        "name": "Rectangle 6",
+        "type": 1,
+        "text": "添加标题",
+        "left": 395.8215,
+        "top": 114.76354,
+        "width": 488.84985,
+        "height": 64.5637
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 8,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 104,
+      "source_sample_chars": 104,
+      "source_text": "单击此处输入你的智能图形项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入你的智能图形项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入你的智能图形项正文，文字是您思想的提炼。",
+      "bounds_pt": {
+        "id": 8,
+        "name": "Rectangle 7",
+        "type": 1,
+        "text": "单击此处输入你的智能图形项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入你的智能图形项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入你的智能图形项正文，文字是您思想的提炼。",
+        "left": 395.8215,
+        "top": 180.82724,
+        "width": 488.84985,
+        "height": 122.06937
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 20,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击添加\n项标题",
+      "bounds_pt": {
+        "id": 20,
+        "name": "Oval 19",
+        "type": 1,
+        "text": "单击添加\r项标题",
+        "left": 77.17457,
+        "top": 214.75961,
+        "width": 170.8,
+        "height": 170.8
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 3,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Rectangle 2",
+        "type": 1,
+        "text": "添加标题",
+        "left": 395.8215,
+        "top": 314.97693,
+        "width": 488.84985,
+        "height": 64.5637
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 10,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 104,
+      "source_sample_chars": 104,
+      "source_text": "单击此处输入你的智能图形项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入你的智能图形项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入你的智能图形项正文，文字是您思想的提炼。",
+      "bounds_pt": {
+        "id": 10,
+        "name": "Rectangle 9",
+        "type": 1,
+        "text": "单击此处输入你的智能图形项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入你的智能图形项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入你的智能图形项正文，文字是您思想的提炼。",
+        "left": 395.8215,
+        "top": 381.04062,
+        "width": 488.84985,
+        "height": 122.06937
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [
+    {
+      "shape_id": 33,
+      "text": "01",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 6,
+      "text": "02",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

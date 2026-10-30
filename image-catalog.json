@@ -1,0 +1,4325 @@
+{
+  "schema_version": "1.0",
+  "version": "0.11.0",
+  "source_file": "完整模版示例v2.pptx",
+  "source_sha256": "0d1203882a99f3fce94c0e7300f9e55d96224fb67d90c93bf7553a724ba2893c",
+  "default_family": "layered-paper",
+  "default_layouts": {
+    "cover": "theme-cover-p013",
+    "agenda": "theme-agenda-p035",
+    "chapter": "theme-chapter-p047",
+    "closing": "theme-closing-p213"
+  },
+  "families": [
+    {
+      "id": "gray-wave",
+      "name": "灰白波浪",
+      "source_slides": [
+        1,
+        16,
+        40,
+        203
+      ],
+      "available_roles": [
+        "agenda",
+        "chapter",
+        "closing",
+        "cover"
+      ]
+    },
+    {
+      "id": "architecture",
+      "name": "建筑蓝",
+      "source_slides": [
+        2,
+        19,
+        20,
+        42,
+        205
+      ],
+      "available_roles": [
+        "agenda",
+        "chapter",
+        "closing",
+        "cover"
+      ]
+    },
+    {
+      "id": "cube-growth",
+      "name": "立方生长",
+      "source_slides": [
+        3,
+        23,
+        32,
+        206
+      ],
+      "available_roles": [
+        "agenda",
+        "closing",
+        "cover"
+      ]
+    },
+    {
+      "id": "blue-staircase",
+      "name": "蓝色阶梯",
+      "source_slides": [
+        4,
+        18,
+        27,
+        41,
+        204,
+        207
+      ],
+      "available_roles": [
+        "agenda",
+        "chapter",
+        "closing",
+        "cover"
+      ]
+    },
+    {
+      "id": "line-cube",
+      "name": "线框立方",
+      "source_slides": [
+        5,
+        25,
+        50,
+        211
+      ],
+      "available_roles": [
+        "agenda",
+        "chapter",
+        "closing",
+        "cover"
+      ]
+    },
+    {
+      "id": "diffuse-orb",
+      "name": "弥散光球",
+      "source_slides": [
+        6,
+        21,
+        29
+      ],
+      "available_roles": [
+        "agenda",
+        "cover"
+      ]
+    },
+    {
+      "id": "blue-ribbon",
+      "name": "蓝色飘带",
+      "source_slides": [
+        7,
+        33,
+        217
+      ],
+      "available_roles": [
+        "agenda",
+        "closing",
+        "cover"
+      ]
+    },
+    {
+      "id": "diagonal-corners",
+      "name": "蓝色三角",
+      "source_slides": [
+        8,
+        28,
+        48,
+        215
+      ],
+      "available_roles": [
+        "agenda",
+        "chapter",
+        "closing",
+        "cover"
+      ]
+    },
+    {
+      "id": "blue-stripe",
+      "name": "蓝色斜带",
+      "source_slides": [
+        9,
+        24,
+        51,
+        209
+      ],
+      "available_roles": [
+        "agenda",
+        "chapter",
+        "closing",
+        "cover"
+      ]
+    },
+    {
+      "id": "industrial-frame",
+      "name": "工业边框",
+      "source_slides": [
+        10,
+        26,
+        46
+      ],
+      "available_roles": [
+        "agenda",
+        "chapter",
+        "cover"
+      ]
+    },
+    {
+      "id": "blue-chevron",
+      "name": "蓝色箭形",
+      "source_slides": [
+        11,
+        22
+      ],
+      "available_roles": [
+        "agenda",
+        "cover"
+      ]
+    },
+    {
+      "id": "monochrome",
+      "name": "黑白简约",
+      "source_slides": [
+        12,
+        45,
+        210
+      ],
+      "available_roles": [
+        "chapter",
+        "closing",
+        "cover"
+      ]
+    },
+    {
+      "id": "layered-paper",
+      "name": "层叠纸张",
+      "source_slides": [
+        13,
+        30,
+        35,
+        47,
+        213
+      ],
+      "available_roles": [
+        "agenda",
+        "chapter",
+        "closing",
+        "cover"
+      ]
+    },
+    {
+      "id": "violet-fold",
+      "name": "淡紫折纸",
+      "source_slides": [
+        14,
+        31,
+        37,
+        49,
+        208
+      ],
+      "available_roles": [
+        "agenda",
+        "chapter",
+        "closing",
+        "cover"
+      ]
+    },
+    {
+      "id": "arc-minimal",
+      "name": "弧线简约",
+      "source_slides": [
+        15,
+        36,
+        38,
+        39,
+        44,
+        53,
+        216
+      ],
+      "available_roles": [
+        "agenda",
+        "chapter",
+        "closing",
+        "cover"
+      ]
+    },
+    {
+      "id": "cyan-list",
+      "name": "青色目录",
+      "source_slides": [
+        17
+      ],
+      "available_roles": [
+        "agenda"
+      ]
+    },
+    {
+      "id": "white-wave",
+      "name": "白色波浪",
+      "source_slides": [
+        52,
+        214
+      ],
+      "available_roles": [
+        "chapter",
+        "closing"
+      ]
+    },
+    {
+      "id": "blue-orb",
+      "name": "深蓝球体",
+      "source_slides": [
+        212
+      ],
+      "available_roles": [
+        "closing"
+      ]
+    },
+    {
+      "id": "minimal-list",
+      "name": "简约列表",
+      "source_slides": [
+        34
+      ],
+      "available_roles": [
+        "agenda"
+      ]
+    },
+    {
+      "id": "chapter-geometric",
+      "name": "几何章节",
+      "source_slides": [
+        43
+      ],
+      "available_roles": [
+        "chapter"
+      ]
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": "background-p001",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "gray-wave",
+      "family_name": "灰白波浪",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 1,
+      "paired_layout_id": "theme-cover-p001",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P001.png",
+      "preview": "previews/source/P001.png",
+      "editable_source": "layouts/theme-cover-p001/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "brand",
+          "box": [
+            0.0577,
+            0.0862,
+            0.1457,
+            0.0402
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.0533,
+            0.256,
+            0.5297,
+            0.148
+          ]
+        },
+        {
+          "field": "title_2",
+          "box": [
+            0.0486,
+            0.3182,
+            0.6681,
+            0.2153
+          ]
+        },
+        {
+          "field": "title_3",
+          "box": [
+            0.9224,
+            0.3761,
+            0.0679,
+            0.0402
+          ]
+        },
+        {
+          "field": "title_4",
+          "box": [
+            0.9224,
+            0.634,
+            0.0679,
+            0.0402
+          ]
+        }
+      ],
+      "sha256": "9423105d114e1072e574d1a20ce2cbfa9f81f3cdf5cfb34b1a0f33e1082f8915",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p002",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "architecture",
+      "family_name": "建筑蓝",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 2,
+      "paired_layout_id": "theme-cover-p002",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P002.png",
+      "preview": "previews/source/P002.png",
+      "editable_source": "layouts/theme-cover-p002/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "date",
+          "box": [
+            0.0827,
+            0.2153,
+            0.5351,
+            0.1002
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.0827,
+            0.3465,
+            0.5351,
+            0.3138
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.0826,
+            0.6913,
+            0.219,
+            0.0838
+          ]
+        }
+      ],
+      "sha256": "4cf1e4229e20d36ab4efdbf02ce446dd543b54f8a0f9db639c9a78ad5ec57f6f",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p003",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "cube-growth",
+      "family_name": "立方生长",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 3,
+      "paired_layout_id": "theme-cover-p003",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P003.png",
+      "preview": "previews/source/P003.png",
+      "editable_source": "layouts/theme-cover-p003/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.0865,
+            0.2632,
+            0.4998,
+            0.3346
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.1406,
+            0.6743,
+            0.2362,
+            0.0787
+          ]
+        }
+      ],
+      "sha256": "e393db9008404f1c1985a84d8427d2015ae38ee31603e8de3bcd852ba49f3c8c",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p004",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "blue-staircase",
+      "family_name": "蓝色阶梯",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 4,
+      "paired_layout_id": "theme-cover-p004",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P004.png",
+      "preview": "previews/source/P004.png",
+      "editable_source": "layouts/theme-cover-p004/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.1043,
+            0.2327,
+            0.443,
+            0.3087
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.1179,
+            0.6825,
+            0.2362,
+            0.0735
+          ]
+        }
+      ],
+      "sha256": "2b606b5883574b15b3533d712e461cbbf89150c1820619570faf420fe9a40794",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p005",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "line-cube",
+      "family_name": "线框立方",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 5,
+      "paired_layout_id": "theme-cover-p005",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P005.png",
+      "preview": "previews/source/P005.png",
+      "editable_source": "layouts/theme-cover-p005/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "brand",
+          "box": [
+            0.1391,
+            0.1823,
+            0.2362,
+            0.0735
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.1393,
+            0.2945,
+            0.4628,
+            0.4073
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.1391,
+            0.7396,
+            0.2363,
+            0.0735
+          ]
+        }
+      ],
+      "sha256": "ecbe0bd9c3d8efb43b09bf94b3fce6113b8d5c25a388cb6cfb26f4ca43f42213",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p006",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "diffuse-orb",
+      "family_name": "弥散光球",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 6,
+      "paired_layout_id": "theme-cover-p006",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P006.png",
+      "preview": "previews/source/P006.png",
+      "editable_source": "layouts/theme-cover-p006/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "brand",
+          "box": [
+            0.6955,
+            0.0954,
+            0.2362,
+            0.0735
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.0865,
+            0.2318,
+            0.4998,
+            0.3346
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.1406,
+            0.6743,
+            0.2362,
+            0.0787
+          ]
+        }
+      ],
+      "sha256": "23a28f2617695c84b539a85bd4fda366dc0ac4f2d24b004d25a96534364831ff",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p007",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "blue-ribbon",
+      "family_name": "蓝色飘带",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 7,
+      "paired_layout_id": "theme-cover-p007",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P007.png",
+      "preview": "previews/source/P007.png",
+      "editable_source": "layouts/theme-cover-p007/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.3446,
+            0.421,
+            0.5824,
+            0.1818
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.704,
+            0.6718,
+            0.219,
+            0.0838
+          ]
+        }
+      ],
+      "sha256": "a211ab6d683d6a80afece2a00bd4e4789190fb26b21d4bc82dd63979d0cdcd54",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p008",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "diagonal-corners",
+      "family_name": "蓝色三角",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 8,
+      "paired_layout_id": "theme-cover-p008",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P008.png",
+      "preview": "previews/source/P008.png",
+      "editable_source": "layouts/theme-cover-p008/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "brand",
+          "box": [
+            0.0269,
+            0.0292,
+            0.1717,
+            0.0735
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.1535,
+            0.2818,
+            0.5693,
+            0.2675
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.1535,
+            0.6982,
+            0.189,
+            0.0787
+          ]
+        }
+      ],
+      "sha256": "5aa074fbb5c20d46b7a1888ac9ff81a3fdd53e67ed3d991df5b5decb5cfbba42",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p009",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "blue-stripe",
+      "family_name": "蓝色斜带",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 9,
+      "paired_layout_id": "theme-cover-p009",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P009.png",
+      "preview": "previews/source/P009.png",
+      "editable_source": "layouts/theme-cover-p009/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "brand",
+          "box": [
+            0.0492,
+            0.0862,
+            0.3111,
+            0.0735
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.0498,
+            0.194,
+            0.5148,
+            0.1738
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.0498,
+            0.3877,
+            0.5148,
+            0.2695
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.0946,
+            0.6613,
+            0.2657,
+            0.1256
+          ]
+        }
+      ],
+      "sha256": "ad5e0dcdef1e57a0e258b0f346d49cb34c3a3b38a55ddb7ec73cf0099607c868",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p010",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "industrial-frame",
+      "family_name": "工业边框",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 10,
+      "paired_layout_id": "theme-cover-p010",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P010.png",
+      "preview": "previews/source/P010.png",
+      "editable_source": "layouts/theme-cover-p010/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.0688,
+            0.2181,
+            0.8625,
+            0.2625
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.403,
+            0.6411,
+            0.1973,
+            0.0735
+          ]
+        },
+        {
+          "field": "brand",
+          "box": [
+            0.1185,
+            0.8464,
+            0.2362,
+            0.0356
+          ]
+        }
+      ],
+      "sha256": "59bfddec27f97a1dcba6867bf85bfabc74ca0e4af80b85bafcb715b5db73853d",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p011",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "blue-chevron",
+      "family_name": "蓝色箭形",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 11,
+      "paired_layout_id": "theme-cover-p011",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P011.png",
+      "preview": "previews/source/P011.png",
+      "editable_source": "layouts/theme-cover-p011/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.065,
+            0.3869,
+            0.626,
+            0.2388
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.0712,
+            0.6362,
+            0.2362,
+            0.084
+          ]
+        }
+      ],
+      "sha256": "8c5a7230d3e60fd8268e0c6234beb32183e4817e443a3f2eba5f8c2527b6120c",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p012",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "monochrome",
+      "family_name": "黑白简约",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 12,
+      "paired_layout_id": "theme-cover-p012",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P012.png",
+      "preview": "previews/source/P012.png",
+      "editable_source": "layouts/theme-cover-p012/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.072,
+            0.2373,
+            0.5847,
+            0.2331
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.072,
+            0.7528,
+            0.1988,
+            0.04
+          ]
+        }
+      ],
+      "sha256": "219504994b05883efafddb75fa42f1155208a7263ef7286450a6956ef8b970e5",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p013",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "layered-paper",
+      "family_name": "层叠纸张",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 13,
+      "paired_layout_id": "theme-cover-p013",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P013.png",
+      "preview": "previews/source/P013.png",
+      "editable_source": "layouts/theme-cover-p013/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "brand",
+          "box": [
+            0.0578,
+            0.0508,
+            0.2362,
+            0.0735
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.0542,
+            0.1654,
+            0.7005,
+            0.3117
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.0542,
+            0.4919,
+            0.7005,
+            0.2643
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.0984,
+            0.7674,
+            0.2362,
+            0.0735
+          ]
+        }
+      ],
+      "sha256": "19653d17e64611d5730de47a183ea196390d130059dd961879ad35e876c2d78c",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p014",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "violet-fold",
+      "family_name": "淡紫折纸",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 14,
+      "paired_layout_id": "theme-cover-p014",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P014.png",
+      "preview": "previews/source/P014.png",
+      "editable_source": "layouts/theme-cover-p014/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.1016,
+            0.3666,
+            0.7967,
+            0.1549
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.3605,
+            0.613,
+            0.279,
+            0.0838
+          ]
+        }
+      ],
+      "sha256": "22f7713b2cf897842f1c22ee7aaeae13c5bd942a6ce98ddddce3384c3151136a",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p015",
+      "kind": "background",
+      "role": "cover",
+      "family_id": "arc-minimal",
+      "family_name": "弧线简约",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 15,
+      "paired_layout_id": "theme-cover-p015",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P015.png",
+      "preview": "previews/source/P015.png",
+      "editable_source": "layouts/theme-cover-p015/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.0716,
+            0.2641,
+            0.4729,
+            0.3028
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.0688,
+            0.6167,
+            0.2178,
+            0.0884
+          ]
+        }
+      ],
+      "sha256": "0ffcb0b14b3779565de890f7399bf0e11a56d9fb29f8839d31fdcfe0d2bd44f1",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p016",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "gray-wave",
+      "family_name": "灰白波浪",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 16,
+      "paired_layout_id": "theme-agenda-p016",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P016.png",
+      "preview": "previews/source/P016.png",
+      "editable_source": "layouts/theme-agenda-p016/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.0274,
+            0.6175,
+            0.2304,
+            0.0761
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.2706,
+            0.6175,
+            0.2304,
+            0.0761
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.5112,
+            0.6175,
+            0.2304,
+            0.0761
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.7474,
+            0.6175,
+            0.2304,
+            0.0761
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.0274,
+            0.6783,
+            0.2304,
+            0.0537
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.2706,
+            0.6783,
+            0.2304,
+            0.0537
+          ]
+        },
+        {
+          "field": "section_7",
+          "box": [
+            0.5112,
+            0.6783,
+            0.2304,
+            0.0537
+          ]
+        },
+        {
+          "field": "section_8",
+          "box": [
+            0.7474,
+            0.6783,
+            0.2304,
+            0.0537
+          ]
+        }
+      ],
+      "sha256": "25bb7a3ca622dea6f89497031447b501f334722e29b4d490099781cfe38b2944",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p017",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "cyan-list",
+      "family_name": "青色目录",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 17,
+      "paired_layout_id": "theme-agenda-p017",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P017.png",
+      "preview": "previews/source/P017.png",
+      "editable_source": "layouts/theme-agenda-p017/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.4706,
+            0.1011,
+            0.3842,
+            0.1007
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.5093,
+            0.2409,
+            0.3842,
+            0.1007
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.529,
+            0.3808,
+            0.3842,
+            0.1007
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.529,
+            0.5206,
+            0.3842,
+            0.1007
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.5093,
+            0.6605,
+            0.3842,
+            0.1007
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.4706,
+            0.8003,
+            0.3842,
+            0.1007
+          ]
+        }
+      ],
+      "sha256": "21d15a23f1f8b4da8369cdc3bcc2793ad0d5e545e0f4f96852c9c3c6b0bee9a2",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p018",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "blue-staircase",
+      "family_name": "蓝色阶梯",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 18,
+      "paired_layout_id": "theme-agenda-p018",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P018.png",
+      "preview": "previews/source/P018.png",
+      "editable_source": "layouts/theme-agenda-p018/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.1947,
+            0.4117,
+            0.1395,
+            0.1916
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.5145,
+            0.4117,
+            0.1395,
+            0.1916
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.8343,
+            0.4117,
+            0.1395,
+            0.1916
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.0345,
+            0.4786,
+            0.1395,
+            0.1916
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.3543,
+            0.4786,
+            0.1395,
+            0.1916
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.6741,
+            0.4786,
+            0.1395,
+            0.1916
+          ]
+        }
+      ],
+      "sha256": "ee6f9c7bc98d57de820007e4dd56c1a2b440bccfdfbb3691669bad4d8df8c23d",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p019",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "architecture",
+      "family_name": "建筑蓝",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 19,
+      "paired_layout_id": "theme-agenda-p019",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P019.png",
+      "preview": "previews/source/P019.png",
+      "editable_source": "layouts/theme-agenda-p019/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.0809,
+            0.5567,
+            0.1752,
+            0.2081
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.3019,
+            0.5567,
+            0.1752,
+            0.2081
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.5229,
+            0.5567,
+            0.1752,
+            0.2081
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.7439,
+            0.5567,
+            0.1752,
+            0.2081
+          ]
+        }
+      ],
+      "sha256": "e432ba0129ae6d2fad1f13d0a8fdaa635d566990baedaa7d3189653b8dce457b",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p020",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "architecture",
+      "family_name": "建筑蓝",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 20,
+      "paired_layout_id": "theme-agenda-p020",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P020.png",
+      "preview": "previews/source/P020.png",
+      "editable_source": "layouts/theme-agenda-p020/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.5533,
+            0.2462,
+            0.3452,
+            0.103
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.5533,
+            0.4157,
+            0.3452,
+            0.103
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.5533,
+            0.5853,
+            0.3452,
+            0.103
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.5533,
+            0.7548,
+            0.3452,
+            0.103
+          ]
+        }
+      ],
+      "sha256": "4b38e73fe3b0672e5ff6a8e4c3af94815b4b161b28ea184699f6cae4e6566977",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p021",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "diffuse-orb",
+      "family_name": "弥散光球",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 21,
+      "paired_layout_id": "theme-agenda-p021",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P021.png",
+      "preview": "previews/source/P021.png",
+      "editable_source": "layouts/theme-agenda-p021/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.1783,
+            0.3295,
+            0.2935,
+            0.0992
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.6208,
+            0.3295,
+            0.2935,
+            0.0992
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.1783,
+            0.5188,
+            0.2935,
+            0.0992
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.6208,
+            0.5188,
+            0.2935,
+            0.0992
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.1783,
+            0.71,
+            0.2935,
+            0.0992
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.6208,
+            0.71,
+            0.2935,
+            0.0992
+          ]
+        }
+      ],
+      "sha256": "402b2c64c50b3555c086dc5dd5a34d6fd17df753a4acdd329b2de001fe94632e",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p022",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "blue-chevron",
+      "family_name": "蓝色箭形",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 22,
+      "paired_layout_id": "theme-agenda-p022",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P022.png",
+      "preview": "previews/source/P022.png",
+      "editable_source": "layouts/theme-agenda-p022/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.0324,
+            0.66,
+            0.1505,
+            0.2352
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.1893,
+            0.66,
+            0.1505,
+            0.2352
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.3463,
+            0.66,
+            0.1505,
+            0.2352
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.5032,
+            0.66,
+            0.1505,
+            0.2352
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.6601,
+            0.66,
+            0.1505,
+            0.2352
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.8171,
+            0.66,
+            0.1505,
+            0.2352
+          ]
+        }
+      ],
+      "sha256": "dde8368729d92c7e50ab1e52cea507cb01db8d01c7395a6e14d1404a6750e9d2",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p023",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "cube-growth",
+      "family_name": "立方生长",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 23,
+      "paired_layout_id": "theme-agenda-p023",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P023.png",
+      "preview": "previews/source/P023.png",
+      "editable_source": "layouts/theme-agenda-p023/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.0689,
+            0.6376,
+            0.1203,
+            0.1817
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.2173,
+            0.6376,
+            0.1203,
+            0.1817
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.3657,
+            0.6376,
+            0.1203,
+            0.1817
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.5141,
+            0.6376,
+            0.1203,
+            0.1817
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.6625,
+            0.6376,
+            0.1203,
+            0.1817
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.8109,
+            0.6376,
+            0.1203,
+            0.1817
+          ]
+        }
+      ],
+      "sha256": "a8f34d00e2b416ed6bc710163d92478ce6ddb1b4aaa4f80c2dc8d5c937e54b7a",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p024",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "blue-stripe",
+      "family_name": "蓝色斜带",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 24,
+      "paired_layout_id": "theme-agenda-p024",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P024.png",
+      "preview": "previews/source/P024.png",
+      "editable_source": "layouts/theme-agenda-p024/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.6566,
+            0.0597,
+            0.3017,
+            0.1103
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.636,
+            0.2114,
+            0.3017,
+            0.1103
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.6153,
+            0.363,
+            0.3017,
+            0.1103
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.5943,
+            0.5147,
+            0.3017,
+            0.1103
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.573,
+            0.6664,
+            0.3017,
+            0.1103
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.5523,
+            0.818,
+            0.3017,
+            0.1103
+          ]
+        }
+      ],
+      "sha256": "f6b841270f06efd2ddc5d90f0401c71d4e5d042549b5cf94b793b5ad46ae289d",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p025",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "line-cube",
+      "family_name": "线框立方",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 25,
+      "paired_layout_id": "theme-agenda-p025",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P025.png",
+      "preview": "previews/source/P025.png",
+      "editable_source": "layouts/theme-agenda-p025/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.5034,
+            0.1833,
+            0.3452,
+            0.105
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.5034,
+            0.2951,
+            0.3452,
+            0.105
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.5034,
+            0.4069,
+            0.3452,
+            0.105
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.5034,
+            0.5186,
+            0.3452,
+            0.105
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.5034,
+            0.6304,
+            0.3452,
+            0.105
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.5034,
+            0.7421,
+            0.3452,
+            0.105
+          ]
+        }
+      ],
+      "sha256": "2c4903d03eb1d2074fb2dfaed67159325dfc642f959b57531a066634178d319a",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p026",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "industrial-frame",
+      "family_name": "工业边框",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 26,
+      "paired_layout_id": "theme-agenda-p026",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P026.png",
+      "preview": "previews/source/P026.png",
+      "editable_source": "layouts/theme-agenda-p026/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.2028,
+            0.4116,
+            0.1535,
+            0.1391
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.4678,
+            0.4116,
+            0.1535,
+            0.1391
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.7329,
+            0.4116,
+            0.1535,
+            0.1391
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.2028,
+            0.6522,
+            0.1535,
+            0.1391
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.4678,
+            0.6522,
+            0.1535,
+            0.1391
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.7329,
+            0.6522,
+            0.1535,
+            0.1391
+          ]
+        }
+      ],
+      "sha256": "d738af3c3b73652319fba978c8056ea6d761e31f0fe7da0a8f9b127bbe48c0ec",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p027",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "blue-staircase",
+      "family_name": "蓝色阶梯",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 27,
+      "paired_layout_id": "theme-agenda-p027",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P027.png",
+      "preview": "previews/source/P027.png",
+      "editable_source": "layouts/theme-agenda-p027/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.2069,
+            0.4026,
+            0.2718,
+            0.0896
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.6398,
+            0.4026,
+            0.2718,
+            0.0896
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.2069,
+            0.559,
+            0.2718,
+            0.0896
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.6398,
+            0.559,
+            0.2718,
+            0.0896
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.2069,
+            0.7154,
+            0.2718,
+            0.0896
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.6398,
+            0.7154,
+            0.2718,
+            0.0896
+          ]
+        }
+      ],
+      "sha256": "adefb8793d399d488bd6ae271aa5cadd3f06335c07681d4d074a0c26ea286f36",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p028",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "diagonal-corners",
+      "family_name": "蓝色三角",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 28,
+      "paired_layout_id": "theme-agenda-p028",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P028.png",
+      "preview": "previews/source/P028.png",
+      "editable_source": "layouts/theme-agenda-p028/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.2258,
+            0.3902,
+            0.255,
+            0.1261
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.6383,
+            0.3902,
+            0.255,
+            0.1261
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.2258,
+            0.577,
+            0.255,
+            0.1261
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.6383,
+            0.577,
+            0.255,
+            0.1261
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.2258,
+            0.7637,
+            0.255,
+            0.1261
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.6383,
+            0.7637,
+            0.255,
+            0.1261
+          ]
+        }
+      ],
+      "sha256": "5968d0839b3493da86b19a81e5c3108b4c7a8e4e20543d0a87201f1c35e19a33",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p029",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "diffuse-orb",
+      "family_name": "弥散光球",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 29,
+      "paired_layout_id": "theme-agenda-p029",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P029.png",
+      "preview": "previews/source/P029.png",
+      "editable_source": "layouts/theme-agenda-p029/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.0689,
+            0.6376,
+            0.1203,
+            0.1817
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.2173,
+            0.6376,
+            0.1203,
+            0.1817
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.3657,
+            0.6376,
+            0.1203,
+            0.1817
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.5141,
+            0.6376,
+            0.1203,
+            0.1817
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.6625,
+            0.6376,
+            0.1203,
+            0.1817
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.8109,
+            0.6376,
+            0.1203,
+            0.1817
+          ]
+        }
+      ],
+      "sha256": "50880d803b5c7b31b134f60dcef4e7fcc6d3837e6bed336a0143b8052549b88b",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p030",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "layered-paper",
+      "family_name": "层叠纸张",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 30,
+      "paired_layout_id": "theme-agenda-p030",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P030.png",
+      "preview": "previews/source/P030.png",
+      "editable_source": "layouts/theme-agenda-p030/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.0646,
+            0.5622,
+            0.1211,
+            0.2063
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.2146,
+            0.5622,
+            0.1211,
+            0.2063
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.3645,
+            0.5622,
+            0.1211,
+            0.2063
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.5144,
+            0.5622,
+            0.1211,
+            0.2063
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.6644,
+            0.5622,
+            0.1211,
+            0.2063
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.8143,
+            0.5622,
+            0.1211,
+            0.2063
+          ]
+        }
+      ],
+      "sha256": "2f2974f92e277df412727bf2d7221511fa6cf88d0d01223bc64a698c60e3d1f0",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p031",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "violet-fold",
+      "family_name": "淡紫折纸",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 31,
+      "paired_layout_id": "theme-agenda-p031",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P031.png",
+      "preview": "previews/source/P031.png",
+      "editable_source": "layouts/theme-agenda-p031/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.2007,
+            0.4213,
+            0.1535,
+            0.1391
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.4658,
+            0.4213,
+            0.1535,
+            0.1391
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.7308,
+            0.4213,
+            0.1535,
+            0.1391
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.2007,
+            0.6619,
+            0.1535,
+            0.1391
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.4658,
+            0.6619,
+            0.1535,
+            0.1391
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.7308,
+            0.6619,
+            0.1535,
+            0.1391
+          ]
+        }
+      ],
+      "sha256": "af7256132e86789de7acc336e4d7ff6c084554aa6a02abd50ef861789fc5bb1c",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p032",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "cube-growth",
+      "family_name": "立方生长",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 32,
+      "paired_layout_id": "theme-agenda-p032",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P032.png",
+      "preview": "previews/source/P032.png",
+      "editable_source": "layouts/theme-agenda-p032/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.0488,
+            0.6377,
+            0.1976,
+            0.2049
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.2837,
+            0.6377,
+            0.1976,
+            0.2049
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.5187,
+            0.6377,
+            0.1976,
+            0.2049
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.7536,
+            0.6377,
+            0.1976,
+            0.2049
+          ]
+        }
+      ],
+      "sha256": "e816fe4b2074ae38eeba11ad5f675b51e59849f759c4bfda79d2332ef0d8edbf",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p033",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "blue-ribbon",
+      "family_name": "蓝色飘带",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 33,
+      "paired_layout_id": "theme-agenda-p033",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P033.png",
+      "preview": "previews/source/P033.png",
+      "editable_source": "layouts/theme-agenda-p033/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.5927,
+            0.1273,
+            0.3352,
+            0.105
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.5927,
+            0.2688,
+            0.3352,
+            0.105
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.5927,
+            0.4102,
+            0.3352,
+            0.105
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.5927,
+            0.5517,
+            0.3352,
+            0.105
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.5927,
+            0.6931,
+            0.3352,
+            0.105
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.5927,
+            0.8346,
+            0.3352,
+            0.105
+          ]
+        }
+      ],
+      "sha256": "11a7cf8ce9d025f87ac397e4ff2dcaacefe8c7573b54bbf8f87b2647d173c610",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p034",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "minimal-list",
+      "family_name": "简约列表",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 34,
+      "paired_layout_id": "theme-agenda-p034",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P034.png",
+      "preview": "previews/source/P034.png",
+      "editable_source": "layouts/theme-agenda-p034/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.0698,
+            0.6438,
+            0.2056,
+            0.1746
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.2887,
+            0.6438,
+            0.2056,
+            0.1746
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.5067,
+            0.6438,
+            0.2056,
+            0.1746
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.7237,
+            0.6438,
+            0.2056,
+            0.1746
+          ]
+        }
+      ],
+      "sha256": "2208e30dbe30846be89e0d3cfb4903d5917197839275b74e7110d6104e1e1e52",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p035",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "layered-paper",
+      "family_name": "层叠纸张",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 35,
+      "paired_layout_id": "theme-agenda-p035",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P035.png",
+      "preview": "previews/source/P035.png",
+      "editable_source": "layouts/theme-agenda-p035/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.0809,
+            0.5567,
+            0.1752,
+            0.2081
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.3019,
+            0.5567,
+            0.1752,
+            0.2081
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.5229,
+            0.5567,
+            0.1752,
+            0.2081
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.7439,
+            0.5567,
+            0.1752,
+            0.2081
+          ]
+        }
+      ],
+      "sha256": "c2f87d296728cd889933ffb4edd00695a785a37727ebea0f3edf561a86a9d1e6",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p036",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "arc-minimal",
+      "family_name": "弧线简约",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 36,
+      "paired_layout_id": "theme-agenda-p036",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P036.png",
+      "preview": "previews/source/P036.png",
+      "editable_source": "layouts/theme-agenda-p036/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.1344,
+            0.5064,
+            0.2953,
+            0.1239
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.575,
+            0.5071,
+            0.2953,
+            0.1239
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.1356,
+            0.7812,
+            0.2953,
+            0.1239
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.5756,
+            0.7809,
+            0.2953,
+            0.1239
+          ]
+        }
+      ],
+      "sha256": "920e43a4afdf58dbb5219003c7a6e4f1d031548e942d9d43d6725626da6de21d",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p037",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "violet-fold",
+      "family_name": "淡紫折纸",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 37,
+      "paired_layout_id": "theme-agenda-p037",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P037.png",
+      "preview": "previews/source/P037.png",
+      "editable_source": "layouts/theme-agenda-p037/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.2792,
+            0.4213,
+            0.1691,
+            0.1391
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.6528,
+            0.4213,
+            0.1691,
+            0.1391
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.2792,
+            0.6619,
+            0.1691,
+            0.1391
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.6528,
+            0.6619,
+            0.1691,
+            0.1391
+          ]
+        }
+      ],
+      "sha256": "af7256132e86789de7acc336e4d7ff6c084554aa6a02abd50ef861789fc5bb1c",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p038",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "arc-minimal",
+      "family_name": "弧线简约",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 38,
+      "paired_layout_id": "theme-agenda-p038",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P038.png",
+      "preview": "previews/source/P038.png",
+      "editable_source": "layouts/theme-agenda-p038/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.5884,
+            0.1561,
+            0.3014,
+            0.0735
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.6312,
+            0.3601,
+            0.3014,
+            0.0735
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.6312,
+            0.5634,
+            0.3014,
+            0.0735
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.5884,
+            0.7674,
+            0.3014,
+            0.0735
+          ]
+        }
+      ],
+      "sha256": "aa2e198d3f0e17ebc316f6d9c8f6baf85bc74e7001d1a6de520c27ace08d3401",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p039",
+      "kind": "background",
+      "role": "agenda",
+      "family_id": "arc-minimal",
+      "family_name": "弧线简约",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 39,
+      "paired_layout_id": "theme-agenda-p039",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P039.png",
+      "preview": "previews/source/P039.png",
+      "editable_source": "layouts/theme-agenda-p039/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "section_1",
+          "box": [
+            0.5871,
+            0.1146,
+            0.3014,
+            0.0735
+          ]
+        },
+        {
+          "field": "section_2",
+          "box": [
+            0.6163,
+            0.2536,
+            0.3014,
+            0.0735
+          ]
+        },
+        {
+          "field": "section_3",
+          "box": [
+            0.6298,
+            0.3926,
+            0.3014,
+            0.0735
+          ]
+        },
+        {
+          "field": "section_4",
+          "box": [
+            0.6298,
+            0.5309,
+            0.3014,
+            0.0735
+          ]
+        },
+        {
+          "field": "section_5",
+          "box": [
+            0.6149,
+            0.6699,
+            0.3014,
+            0.0735
+          ]
+        },
+        {
+          "field": "section_6",
+          "box": [
+            0.5836,
+            0.8089,
+            0.3014,
+            0.0735
+          ]
+        }
+      ],
+      "sha256": "756963b749fd4e1850794300c8b1a28d875e73e10c582306e2f2d4ea28e01351",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p040",
+      "kind": "background",
+      "role": "chapter",
+      "family_id": "gray-wave",
+      "family_name": "灰白波浪",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 40,
+      "paired_layout_id": "theme-chapter-p040",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P040.png",
+      "preview": "previews/source/P040.png",
+      "editable_source": "layouts/theme-chapter-p040/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "number",
+          "box": [
+            0.0798,
+            0.3308,
+            0.2638,
+            0.3723
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.3079,
+            0.3893,
+            0.3517,
+            0.1344
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.3083,
+            0.5558,
+            0.3051,
+            0.0671
+          ]
+        }
+      ],
+      "sha256": "3ed5c7c141fb61cd776374072929246cd91b46e939a1d1b158fe4084198e8159",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p041",
+      "kind": "background",
+      "role": "chapter",
+      "family_id": "blue-staircase",
+      "family_name": "蓝色阶梯",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 41,
+      "paired_layout_id": "theme-chapter-p041",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P041.png",
+      "preview": "previews/source/P041.png",
+      "editable_source": "layouts/theme-chapter-p041/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "number",
+          "box": [
+            0.1291,
+            0.2493,
+            0.4334,
+            0.1785
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.1252,
+            0.4453,
+            0.4334,
+            0.396
+          ]
+        }
+      ],
+      "sha256": "0ad0a636344603f81593c265c28a49d6ac99efb45fd8725768b29dcca6cf92d1",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p042",
+      "kind": "background",
+      "role": "chapter",
+      "family_id": "architecture",
+      "family_name": "建筑蓝",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 42,
+      "paired_layout_id": "theme-chapter-p042",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P042.png",
+      "preview": "previews/source/P042.png",
+      "editable_source": "layouts/theme-chapter-p042/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "number",
+          "box": [
+            0.0689,
+            0.2406,
+            0.5345,
+            0.1956
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.0689,
+            0.4494,
+            0.5345,
+            0.1481
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.0689,
+            0.612,
+            0.5345,
+            0.066
+          ]
+        }
+      ],
+      "sha256": "533d9d7c51f740f9d04c1bbc563f48dd4801820ebc97a87333c9f4547c503766",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p043",
+      "kind": "background",
+      "role": "chapter",
+      "family_id": "chapter-geometric",
+      "family_name": "几何章节",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 43,
+      "paired_layout_id": "theme-chapter-p043",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P043.png",
+      "preview": "previews/source/P043.png",
+      "editable_source": "layouts/theme-chapter-p043/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.3635,
+            0.2972,
+            0.4748,
+            0.2569
+          ]
+        },
+        {
+          "field": "number",
+          "box": [
+            0.1047,
+            0.3771,
+            0.198,
+            0.2629
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.3635,
+            0.5782,
+            0.4748,
+            0.1844
+          ]
+        }
+      ],
+      "sha256": "0210e8561a51aa7e2badf32580c1fd316c049d44a622db2397b7063e4919a0fd",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p044",
+      "kind": "background",
+      "role": "chapter",
+      "family_id": "arc-minimal",
+      "family_name": "弧线简约",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 44,
+      "paired_layout_id": "theme-chapter-p044",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P044.png",
+      "preview": "previews/source/P044.png",
+      "editable_source": "layouts/theme-chapter-p044/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "subtitle",
+          "box": [
+            0.1653,
+            0.2205,
+            0.6695,
+            0.2625
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.1457,
+            0.5171,
+            0.7087,
+            0.2047
+          ]
+        }
+      ],
+      "sha256": "b8823c46082222d451fa84ac94172857b0ba56a2f053d3f3ef7d641a11dfc612",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p045",
+      "kind": "background",
+      "role": "chapter",
+      "family_id": "monochrome",
+      "family_name": "黑白简约",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 45,
+      "paired_layout_id": "theme-chapter-p045",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P045.png",
+      "preview": "previews/source/P045.png",
+      "editable_source": "layouts/theme-chapter-p045/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "number",
+          "box": [
+            0.1048,
+            0.3412,
+            0.251,
+            0.3444
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.4606,
+            0.3517,
+            0.4925,
+            0.2824
+          ]
+        }
+      ],
+      "sha256": "0efb1af5438bafc6390a9495f53534f47a736bb912f950b73a7f14615d9d62a5",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p046",
+      "kind": "background",
+      "role": "chapter",
+      "family_id": "industrial-frame",
+      "family_name": "工业边框",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 46,
+      "paired_layout_id": "theme-chapter-p046",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P046.png",
+      "preview": "previews/source/P046.png",
+      "editable_source": "layouts/theme-chapter-p046/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "number",
+          "box": [
+            0.1252,
+            0.1537,
+            0.75,
+            0.2381
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.1252,
+            0.402,
+            0.75,
+            0.1089
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.1252,
+            0.5211,
+            0.75,
+            0.0506
+          ]
+        }
+      ],
+      "sha256": "e0dadcb840b2e69d14007a80dd75d576cd0dca70f56b23d50588440a8d27d731",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p047",
+      "kind": "background",
+      "role": "chapter",
+      "family_id": "layered-paper",
+      "family_name": "层叠纸张",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 47,
+      "paired_layout_id": "theme-chapter-p047",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P047.png",
+      "preview": "previews/source/P047.png",
+      "editable_source": "layouts/theme-chapter-p047/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.406,
+            0.0587,
+            0.3786,
+            0.4471
+          ]
+        },
+        {
+          "field": "number",
+          "box": [
+            0.0598,
+            0.3102,
+            0.324,
+            0.3537
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.406,
+            0.5121,
+            0.5222,
+            0.3847
+          ]
+        }
+      ],
+      "sha256": "6b2cbcc0d6da8f9c35e296fee6b53eb8b0acefbb566c5a752edce85c25c4bba7",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p048",
+      "kind": "background",
+      "role": "chapter",
+      "family_id": "diagonal-corners",
+      "family_name": "蓝色三角",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 48,
+      "paired_layout_id": "theme-chapter-p048",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P048.png",
+      "preview": "previews/source/P048.png",
+      "editable_source": "layouts/theme-chapter-p048/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.1907,
+            0.2527,
+            0.5415,
+            0.2092
+          ]
+        },
+        {
+          "field": "number",
+          "box": [
+            0.1891,
+            0.6107,
+            0.222,
+            0.1097
+          ]
+        }
+      ],
+      "sha256": "2cede518953fd15fc757f60158f737a9d52f86a8616544317da40dd7a3854fa7",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p049",
+      "kind": "background",
+      "role": "chapter",
+      "family_id": "violet-fold",
+      "family_name": "淡紫折纸",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 49,
+      "paired_layout_id": "theme-chapter-p049",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P049.png",
+      "preview": "previews/source/P049.png",
+      "editable_source": "layouts/theme-chapter-p049/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "number",
+          "box": [
+            0.106,
+            0.2069,
+            0.7881,
+            0.1956
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.106,
+            0.4311,
+            0.7881,
+            0.1611
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.106,
+            0.6062,
+            0.7881,
+            0.092
+          ]
+        }
+      ],
+      "sha256": "3cc993f5e7f233d0659f9ddb6fdcbf894b4da7985ad6e17078dd52aa184e0da9",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p050",
+      "kind": "background",
+      "role": "chapter",
+      "family_id": "line-cube",
+      "family_name": "线框立方",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 50,
+      "paired_layout_id": "theme-chapter-p050",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P050.png",
+      "preview": "previews/source/P050.png",
+      "editable_source": "layouts/theme-chapter-p050/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "number",
+          "box": [
+            0.3787,
+            0.2919,
+            0.241,
+            0.1372
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.1252,
+            0.4425,
+            0.75,
+            0.168
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.1252,
+            0.6263,
+            0.75,
+            0.1365
+          ]
+        }
+      ],
+      "sha256": "0cef7c0c7de6d2f0ad2e69397f6216efc6a24521d28aa5dc6d6f0f11a7634ea1",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p051",
+      "kind": "background",
+      "role": "chapter",
+      "family_id": "blue-stripe",
+      "family_name": "蓝色斜带",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 51,
+      "paired_layout_id": "theme-chapter-p051",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P051.png",
+      "preview": "previews/source/P051.png",
+      "editable_source": "layouts/theme-chapter-p051/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "number",
+          "box": [
+            0.1174,
+            0.1612,
+            0.2883,
+            0.5499
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.4805,
+            0.1201,
+            0.4742,
+            0.3955
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.4805,
+            0.5314,
+            0.4742,
+            0.1861
+          ]
+        }
+      ],
+      "sha256": "fa47be460cfc4734a051055dbb928d71818f7ef3b87f142a7a2aa73ee65cd4b5",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p052",
+      "kind": "background",
+      "role": "chapter",
+      "family_id": "white-wave",
+      "family_name": "白色波浪",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 52,
+      "paired_layout_id": "theme-chapter-p052",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P052.png",
+      "preview": "previews/source/P052.png",
+      "editable_source": "layouts/theme-chapter-p052/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "subtitle",
+          "box": [
+            0.0704,
+            0.2628,
+            0.5183,
+            0.0761
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.0703,
+            0.3653,
+            0.5183,
+            0.2294
+          ]
+        }
+      ],
+      "sha256": "65467a1f9cb13e5b26b592741445f8ff86099800e6e33d24655a1557ca43852a",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p053",
+      "kind": "background",
+      "role": "chapter",
+      "family_id": "arc-minimal",
+      "family_name": "弧线简约",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 53,
+      "paired_layout_id": "theme-chapter-p053",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P053.png",
+      "preview": "previews/source/P053.png",
+      "editable_source": "layouts/theme-chapter-p053/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "number",
+          "box": [
+            0.1416,
+            0.3418,
+            0.254,
+            0.3006
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.5445,
+            0.3556,
+            0.3792,
+            0.2722
+          ]
+        }
+      ],
+      "sha256": "d8969319bb8746a8f7854e4e64a992907a1f13f9a98c6eddebbf46dba3df674c",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p203",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "gray-wave",
+      "family_name": "灰白波浪",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 203,
+      "paired_layout_id": "theme-closing-p203",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P203.png",
+      "preview": "previews/source/P203.png",
+      "editable_source": "layouts/theme-closing-p203/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "brand",
+          "box": [
+            0.0577,
+            0.0862,
+            0.1457,
+            0.0402
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.0533,
+            0.256,
+            0.5297,
+            0.148
+          ]
+        },
+        {
+          "field": "title_2",
+          "box": [
+            0.0486,
+            0.3182,
+            0.6681,
+            0.2153
+          ]
+        },
+        {
+          "field": "title_3",
+          "box": [
+            0.9224,
+            0.3761,
+            0.0679,
+            0.0402
+          ]
+        },
+        {
+          "field": "title_4",
+          "box": [
+            0.9224,
+            0.634,
+            0.0679,
+            0.0402
+          ]
+        }
+      ],
+      "sha256": "fece869db9f581366621b63f87aabd171cd0e64ddd77819a63a0af6a015a79b9",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p204",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "blue-staircase",
+      "family_name": "蓝色阶梯",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 204,
+      "paired_layout_id": "theme-closing-p204",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P204.png",
+      "preview": "previews/source/P204.png",
+      "editable_source": "layouts/theme-closing-p204/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.0744,
+            0.2639,
+            0.4931,
+            0.3003
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.0744,
+            0.5998,
+            0.1668,
+            0.0682
+          ]
+        }
+      ],
+      "sha256": "f08320c3fa1839cf03b5a13089153095f6ed4c7f25162f02f632c836f7753bb7",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p205",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "architecture",
+      "family_name": "建筑蓝",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 205,
+      "paired_layout_id": "theme-closing-p205",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P205.png",
+      "preview": "previews/source/P205.png",
+      "editable_source": "layouts/theme-closing-p205/blank.pptx",
+      "contains_raster_or_outline_text": true,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "date",
+          "box": [
+            0.0768,
+            0.2593,
+            0.4531,
+            0.118
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.0735,
+            0.3924,
+            0.4531,
+            0.2045
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.0844,
+            0.6121,
+            0.279,
+            0.0787
+          ]
+        }
+      ],
+      "sha256": "4cf1e4229e20d36ab4efdbf02ce446dd543b54f8a0f9db639c9a78ad5ec57f6f",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "保留原稿装饰英文/轮廓字；主体标题仍为PPT独立字段"
+    },
+    {
+      "id": "background-p206",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "cube-growth",
+      "family_name": "立方生长",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 206,
+      "paired_layout_id": "theme-closing-p206",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P206.png",
+      "preview": "previews/source/P206.png",
+      "editable_source": "layouts/theme-closing-p206/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.0865,
+            0.2465,
+            0.4998,
+            0.3346
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.1406,
+            0.6743,
+            0.2362,
+            0.0787
+          ]
+        }
+      ],
+      "sha256": "55972cb144034c8f2128c1ec817bf0ff09d1db64c228ba5cb749da696fce15cb",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p207",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "blue-staircase",
+      "family_name": "蓝色阶梯",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 207,
+      "paired_layout_id": "theme-closing-p207",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P207.png",
+      "preview": "previews/source/P207.png",
+      "editable_source": "layouts/theme-closing-p207/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.4329,
+            0.2114,
+            0.4637,
+            0.3293
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.4329,
+            0.5616,
+            0.4637,
+            0.0769
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.6411,
+            0.67,
+            0.2425,
+            0.0653
+          ]
+        }
+      ],
+      "sha256": "c77d066566639391ba2dc7050a1bf933809c405b26a217d88a222c738de53ecb",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p208",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "violet-fold",
+      "family_name": "淡紫折纸",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 208,
+      "paired_layout_id": "theme-closing-p208",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P208.png",
+      "preview": "previews/source/P208.png",
+      "editable_source": "layouts/theme-closing-p208/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "subtitle",
+          "box": [
+            0.1994,
+            0.3559,
+            0.6013,
+            0.1731
+          ]
+        }
+      ],
+      "sha256": "358f0cee36c6499ee0d2b60eb8f15af1a52039fe0c710bdae92d8d4520665f9d",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p209",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "blue-stripe",
+      "family_name": "蓝色斜带",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 209,
+      "paired_layout_id": "theme-closing-p209",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P209.png",
+      "preview": "previews/source/P209.png",
+      "editable_source": "layouts/theme-closing-p209/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "brand",
+          "box": [
+            0.0492,
+            0.0842,
+            0.31,
+            0.0735
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.0494,
+            0.1919,
+            0.5058,
+            0.1739
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.0494,
+            0.3858,
+            0.5058,
+            0.2926
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.0934,
+            0.6833,
+            0.2657,
+            0.1299
+          ]
+        }
+      ],
+      "sha256": "7adf6a2e539ce13d2efce9662122009868afb3c72edda41a90ca002a70dd5d9c",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p210",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "monochrome",
+      "family_name": "黑白简约",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 210,
+      "paired_layout_id": "theme-closing-p210",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P210.png",
+      "preview": "previews/source/P210.png",
+      "editable_source": "layouts/theme-closing-p210/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "subtitle",
+          "box": [
+            0.1885,
+            0.4135,
+            0.623,
+            0.2246
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.3819,
+            0.6735,
+            0.2362,
+            0.0735
+          ]
+        }
+      ],
+      "sha256": "de9d96aa315cdc25c690996ba9f9066e4750d33c627510885a94a8ce501ab6dc",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p211",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "line-cube",
+      "family_name": "线框立方",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 211,
+      "paired_layout_id": "theme-closing-p211",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P211.png",
+      "preview": "previews/source/P211.png",
+      "editable_source": "layouts/theme-closing-p211/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "brand",
+          "box": [
+            0.1435,
+            0.1651,
+            0.2362,
+            0.0735
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.1435,
+            0.3266,
+            0.4852,
+            0.1213
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.1435,
+            0.4687,
+            0.4852,
+            0.1572
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.1435,
+            0.7346,
+            0.2361,
+            0.0735
+          ]
+        }
+      ],
+      "sha256": "db1981de6ac5ffeba86d071f2482079b2db7708a3dd5ae149b152187040a98f7",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p212",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "blue-orb",
+      "family_name": "深蓝球体",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 212,
+      "paired_layout_id": "theme-closing-p212",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P212.png",
+      "preview": "previews/source/P212.png",
+      "editable_source": "layouts/theme-closing-p212/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "brand",
+          "box": [
+            0.1024,
+            0.0637,
+            0.2025,
+            0.0735
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.0906,
+            0.3089,
+            0.4889,
+            0.1417
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.0906,
+            0.4582,
+            0.4889,
+            0.1653
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.0906,
+            0.6537,
+            0.1831,
+            0.0735
+          ]
+        },
+        {
+          "field": "date",
+          "box": [
+            0.7254,
+            0.8502,
+            0.1991,
+            0.0532
+          ]
+        }
+      ],
+      "sha256": "46899b842554bcc911fcac3acf8e0758c6dea782b42a3b79504a0f98c4aa2073",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p213",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "layered-paper",
+      "family_name": "层叠纸张",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 213,
+      "paired_layout_id": "theme-closing-p213",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P213.png",
+      "preview": "previews/source/P213.png",
+      "editable_source": "layouts/theme-closing-p213/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "brand",
+          "box": [
+            0.6955,
+            0.0499,
+            0.2362,
+            0.0735
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.2652,
+            0.1684,
+            0.6665,
+            0.3035
+          ]
+        },
+        {
+          "field": "title",
+          "box": [
+            0.2653,
+            0.4929,
+            0.6665,
+            0.2425
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.6565,
+            0.7476,
+            0.2362,
+            0.0735
+          ]
+        }
+      ],
+      "sha256": "d2a4942a3fea05046fdf2e3e38597420bc52256639ce934b9b63ad318010c9d7",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p214",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "white-wave",
+      "family_name": "白色波浪",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 214,
+      "paired_layout_id": "theme-closing-p214",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P214.png",
+      "preview": "previews/source/P214.png",
+      "editable_source": "layouts/theme-closing-p214/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "title",
+          "box": [
+            0.0742,
+            0.25,
+            0.621,
+            0.282
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.0742,
+            0.5832,
+            0.1656,
+            0.0706
+          ]
+        }
+      ],
+      "sha256": "0ab1ca80a37dcdd97bbb0b8c8e149e35366bc79703760a7ca0216caf7026ec44",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p215",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "diagonal-corners",
+      "family_name": "蓝色三角",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 215,
+      "paired_layout_id": "theme-closing-p215",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P215.png",
+      "preview": "previews/source/P215.png",
+      "editable_source": "layouts/theme-closing-p215/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "brand",
+          "box": [
+            0.8109,
+            0.0269,
+            0.163,
+            0.0735
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.2146,
+            0.2265,
+            0.6333,
+            0.2896
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.6589,
+            0.6982,
+            0.189,
+            0.0787
+          ]
+        }
+      ],
+      "sha256": "eea561eba7167de89977143a3bac08b7525e9c4156d8e64a88248747dfa9604d",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p216",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "arc-minimal",
+      "family_name": "弧线简约",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 216,
+      "paired_layout_id": "theme-closing-p216",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P216.png",
+      "preview": "previews/source/P216.png",
+      "editable_source": "layouts/theme-closing-p216/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "brand",
+          "box": [
+            0.0909,
+            0.1207,
+            0.2362,
+            0.0735
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": [
+            0.0909,
+            0.2835,
+            0.5256,
+            0.2625
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.0909,
+            0.5969,
+            0.2362,
+            0.0735
+          ]
+        }
+      ],
+      "sha256": "0c5266783810d07fcf85bd142b0ca36714a78841926a6a045dff1bb539813ca1",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    },
+    {
+      "id": "background-p217",
+      "kind": "background",
+      "role": "closing",
+      "family_id": "blue-ribbon",
+      "family_name": "蓝色飘带",
+      "source_file": "完整模版示例v2.pptx",
+      "source_slide": 217,
+      "paired_layout_id": "theme-closing-p217",
+      "compatibility": "paired_layout",
+      "file": "theme-library/backgrounds/P217.png",
+      "preview": "previews/source/P217.png",
+      "editable_source": "layouts/theme-closing-p217/blank.pptx",
+      "contains_raster_or_outline_text": false,
+      "status": "draft_pending_review",
+      "text_safe_areas": [
+        {
+          "field": "subtitle",
+          "box": [
+            0.0687,
+            0.2924,
+            0.4694,
+            0.2018
+          ]
+        },
+        {
+          "field": "presenter",
+          "box": [
+            0.0687,
+            0.6189,
+            0.219,
+            0.0838
+          ]
+        }
+      ],
+      "sha256": "8d44b01e762ce1a6520282189b1c0896c26dd897267981db930db5aa9987eaa4",
+      "pixel_size": [
+        1920,
+        1080
+      ],
+      "decoration_text_note": "联系表目视未见装饰英文；仍需检查实际使用效果"
+    }
+  ],
+  "elements": [
+    {
+      "id": "element-daba676af7eacb0576e3",
+      "kind": "element",
+      "file": "theme-library/elements/daba676af7eacb0576e3.png",
+      "sha256": "daba676af7eacb0576e3cd10aefaaff41397e5ac1006dce100c0a4c884b2bd11",
+      "occurrences": [
+        {
+          "source_slide": 1,
+          "shape_id": 6,
+          "role": "cover",
+          "family_id": "gray-wave",
+          "bounds_pt": {
+            "id": 6,
+            "path": "1/6",
+            "name": "Picture 5",
+            "type": 13,
+            "text": "",
+            "left": 0.0,
+            "top": -7.45,
+            "width": 959.95,
+            "height": 547.65
+          },
+          "crop": [
+            0.0,
+            0.19977,
+            0.0,
+            0.22967
+          ]
+        },
+        {
+          "source_slide": 16,
+          "shape_id": 6,
+          "role": "agenda",
+          "family_id": "gray-wave",
+          "bounds_pt": {
+            "id": 6,
+            "path": "16/6",
+            "name": "Picture 5",
+            "type": 13,
+            "text": "",
+            "left": 0.0,
+            "top": -7.45,
+            "width": 959.95,
+            "height": 547.65
+          },
+          "crop": [
+            0.0,
+            0.19977,
+            0.0,
+            0.22967
+          ]
+        },
+        {
+          "source_slide": 203,
+          "shape_id": 6,
+          "role": "closing",
+          "family_id": "gray-wave",
+          "bounds_pt": {
+            "id": 6,
+            "path": "203/6",
+            "name": "Picture 5",
+            "type": 13,
+            "text": "",
+            "left": 0.0,
+            "top": -7.45,
+            "width": 959.95,
+            "height": 547.65
+          },
+          "crop": [
+            0.0,
+            0.19977,
+            0.0,
+            0.22967
+          ]
+        }
+      ],
+      "status": "draft_pending_review"
+    },
+    {
+      "id": "element-913a94747b569f6e68d4",
+      "kind": "element",
+      "file": "theme-library/elements/913a94747b569f6e68d4.jpg",
+      "sha256": "913a94747b569f6e68d4fb8a6598c2d5f5f657601a3118460d9e37a2ac7bcbc4",
+      "occurrences": [
+        {
+          "source_slide": 40,
+          "shape_id": 2,
+          "role": "chapter",
+          "family_id": "gray-wave",
+          "bounds_pt": {
+            "id": 2,
+            "path": "40/2",
+            "name": "Picture 1",
+            "type": 13,
+            "text": "",
+            "left": -0.05,
+            "top": 0.0,
+            "width": 960.05,
+            "height": 540.0
+          },
+          "crop": [
+            0.0,
+            0.05017,
+            0.0,
+            0.14933
+          ]
+        }
+      ],
+      "status": "draft_pending_review"
+    }
+  ],
+  "full_component_catalog": "catalog.json"
+}

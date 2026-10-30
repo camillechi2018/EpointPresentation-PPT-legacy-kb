@@ -1,0 +1,25 @@
+{
+  "pages": 217,
+  "gradient_occurrences": 894,
+  "gradient_recipes": 286,
+  "table_styles": 2,
+  "native_icon_candidates": 361,
+  "svg": 148,
+  "brand_svg_candidates": 48,
+  "neutral_svg_reusable": 77,
+  "theme_bound_assets": 210,
+  "theme_palette": {
+    "accent1": "#6096E6",
+    "accent2": "#58B6E5",
+    "accent3": "#56CA95",
+    "accent4": "#FFBA55",
+    "accent5": "#F18870",
+    "accent6": "#EC5F74",
+    "dk1": "#000000",
+    "dk2": "#0F1423",
+    "folHlink": "#954D72",
+    "hlink": "#0563C1",
+    "lt1": "#FFFFFF",
+    "lt2": "#FFFFFF"
+  }
+}

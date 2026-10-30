@@ -1,0 +1,45 @@
+{
+  "layout_id": "three-pillars",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 4,
+      "max_chars": 24
+    },
+    {
+      "field": "point_1_title",
+      "shape_id": 23,
+      "max_chars": 8
+    },
+    {
+      "field": "point_2_title",
+      "shape_id": 33,
+      "max_chars": 8
+    },
+    {
+      "field": "point_3_title",
+      "shape_id": 17,
+      "max_chars": 8
+    },
+    {
+      "field": "point_1",
+      "shape_id": 6,
+      "max_chars": 36
+    },
+    {
+      "field": "point_2",
+      "shape_id": 9,
+      "max_chars": 36
+    },
+    {
+      "field": "point_3",
+      "shape_id": 5,
+      "max_chars": 36
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

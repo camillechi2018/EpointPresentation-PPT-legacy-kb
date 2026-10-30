@@ -1,0 +1,17 @@
+{
+  "version": "0.6.0",
+  "source_pages": 217,
+  "source_components": 217,
+  "middle_components": 149,
+  "theme_components": 68,
+  "supplemental_components": 24,
+  "all_catalog_entries": 241,
+  "shape_and_data_tests": "passed",
+  "powerpoint_component_files_opened": 482,
+  "all_middle_source_and_blank_previews_rendered": 149,
+  "all_middle_fill_tests_passed": 149,
+  "compatible_seeded_selection": "passed",
+  "native_assembly_and_independent_chart_data": "passed",
+  "gallery_local_links": "passed",
+  "status": "draft_pending_review"
+}

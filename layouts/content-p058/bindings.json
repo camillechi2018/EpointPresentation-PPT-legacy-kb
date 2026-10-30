@@ -1,0 +1,89 @@
+{
+  "layout_id": "content-p058",
+  "source_page": 58,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 12,
+      "source_text": "单击此处添加文档标题内容",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加文档标题内容",
+        "left": 54.8,
+        "top": 169.45,
+        "width": 263.9,
+        "height": 100.5
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 16,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 83,
+      "source_sample_chars": 83,
+      "source_text": "单击此处输入您的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点单击此处输入智能图形项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入您的项正文。",
+      "bounds_pt": {
+        "id": 16,
+        "name": "TextBox 15",
+        "type": 17,
+        "text": "单击此处输入您的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点单击此处输入智能图形项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入您的项正文。",
+        "left": 56.3,
+        "top": 303.4,
+        "width": 262.4,
+        "height": 125.15
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 5,
+        "shape_name": "field:image:5",
+        "required": true,
+        "bounds_pt": {
+          "id": 5,
+          "name": "Picture 4",
+          "type": 13,
+          "text": "",
+          "left": 330.69992,
+          "top": 71.95,
+          "width": 629.30005,
+          "height": 337.60007
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 5,
+      "shape_name": "field:image:5",
+      "bounds_pt": {
+        "id": 5,
+        "name": "Picture 4",
+        "type": 13,
+        "text": "",
+        "left": 330.69992,
+        "top": 71.95,
+        "width": 629.30005,
+        "height": 337.60007
+      },
+      "kind": "content-image",
+      "sha256": "a7de1bf18608ea6f55c546cb880a9c26f5bbd431bb2fcec78a4f7e717efa81da",
+      "replace_required": true
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "layout_id": "theme-agenda-p036",
+  "fields": [
+    {
+      "field": "section_1",
+      "shape_id": 7,
+      "shape_name": "field:section_1",
+      "type": "text",
+      "max_chars": 7,
+      "bounds_pt": {
+        "id": 7,
+        "path": "36/7",
+        "name": "项标题",
+        "type": 17,
+        "text": "添加目录项标题",
+        "left": 129.03102,
+        "top": 273.45,
+        "width": 283.46457,
+        "height": 66.9
+      },
+      "source_number": 1
+    },
+    {
+      "field": "section_2",
+      "shape_id": 3,
+      "shape_name": "field:section_2",
+      "type": "text",
+      "max_chars": 7,
+      "bounds_pt": {
+        "id": 3,
+        "path": "36/3",
+        "name": "项标题",
+        "type": 17,
+        "text": "添加目录项标题",
+        "left": 551.955,
+        "top": 273.85,
+        "width": 283.46457,
+        "height": 66.9
+      },
+      "source_number": 2
+    },
+    {
+      "field": "section_3",
+      "shape_id": 9,
+      "shape_name": "field:section_3",
+      "type": "text",
+      "max_chars": 7,
+      "bounds_pt": {
+        "id": 9,
+        "path": "36/9",
+        "name": "项标题",
+        "type": 17,
+        "text": "添加目录项标题",
+        "left": 130.13103,
+        "top": 421.85,
+        "width": 283.46457,
+        "height": 66.9
+      },
+      "source_number": 3
+    },
+    {
+      "field": "section_4",
+      "shape_id": 11,
+      "shape_name": "field:section_4",
+      "type": "text",
+      "max_chars": 7,
+      "bounds_pt": {
+        "id": 11,
+        "path": "36/11",
+        "name": "项标题",
+        "type": 17,
+        "text": "添加目录项标题",
+        "left": 552.60504,
+        "top": 421.7,
+        "width": 283.46457,
+        "height": 66.9
+      },
+      "source_number": 4
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

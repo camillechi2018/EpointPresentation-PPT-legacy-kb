@@ -1,0 +1,251 @@
+{
+  "layout_id": "content-p108",
+  "source_page": 108,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 40,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 40,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 165.95,
+        "top": 189.87505,
+        "width": 141.35,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 25,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 25,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 380.5,
+        "top": 189.87505,
+        "width": 141.35,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 5,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 5,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 604.75,
+        "top": 189.87505,
+        "width": 141.35,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 39,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 25,
+      "source_sample_chars": 25,
+      "source_text": "单击此处输入你的项正文，请尽量言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 39,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处输入你的项正文，请尽量言简意赅的阐述观点。",
+        "left": 165.6,
+        "top": 225.32504,
+        "width": 141.75,
+        "height": 65.2
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 24,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 25,
+      "source_sample_chars": 25,
+      "source_text": "单击此处输入你的项正文，请尽量言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 24,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处输入你的项正文，请尽量言简意赅的阐述观点。",
+        "left": 380.05,
+        "top": 225.32504,
+        "width": 141.75,
+        "height": 65.2
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 4,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 25,
+      "source_sample_chars": 25,
+      "source_text": "单击此处输入你的项正文，请尽量言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 4,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处输入你的项正文，请尽量言简意赅的阐述观点。",
+        "left": 604.35,
+        "top": 225.32504,
+        "width": 141.75,
+        "height": 65.2
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 11,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 11,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 236.45,
+        "top": 342.72504,
+        "width": 141.35,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_05",
+      "shape_id": 44,
+      "shape_name": "field:item_title_05",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 44,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 449.1,
+        "top": 342.72504,
+        "width": 141.35,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 9,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 25,
+      "source_sample_chars": 25,
+      "source_text": "单击此处输入你的项正文，请尽量言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 9,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处输入你的项正文，请尽量言简意赅的阐述观点。",
+        "left": 236.1,
+        "top": 378.17505,
+        "width": 141.75,
+        "height": 65.2
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 43,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 25,
+      "source_sample_chars": 25,
+      "source_text": "单击此处输入你的项正文，请尽量言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 43,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处输入你的项正文，请尽量言简意赅的阐述观点。",
+        "left": 448.7,
+        "top": 378.17505,
+        "width": 141.75,
+        "height": 65.2
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 6,
+      "shape_name": "图形 5",
+      "bounds_pt": {
+        "id": 6,
+        "name": "Graphic 5",
+        "type": 28,
+        "text": "",
+        "left": 813.8267,
+        "top": 307.2756,
+        "width": 22.545748,
+        "height": 19.65
+      },
+      "kind": "template-decoration",
+      "sha256": "fb84e4116d058b2cc9745f736f96207be4175edf0c7fb6b0c7bd6b77c5d3572b",
+      "replace_required": false
+    }
+  ]
+}

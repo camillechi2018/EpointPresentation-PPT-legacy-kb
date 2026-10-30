@@ -1,0 +1,173 @@
+{
+  "layout_id": "content-p116",
+  "source_page": 116,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 3,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 102,
+      "source_sample_chars": 102,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达。",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Rectangle 2",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达。",
+        "left": 47.95,
+        "top": 136.4,
+        "width": 857.3,
+        "height": 67.3
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 5,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击输入标题",
+      "bounds_pt": {
+        "id": 5,
+        "name": "任意多边形: 形状 101",
+        "type": 5,
+        "text": "单击输入标题",
+        "left": 345.15,
+        "top": 261.2,
+        "width": 266.4,
+        "height": 49.2
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 7,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击输入正文",
+      "bounds_pt": {
+        "id": 7,
+        "name": "任意多边形: 形状 104",
+        "type": 5,
+        "text": "单击输入正文",
+        "left": 57.55,
+        "top": 404.05,
+        "width": 141.7,
+        "height": 49.2
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 9,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "输入正文内容",
+      "bounds_pt": {
+        "id": 9,
+        "name": "任意多边形: 形状 107",
+        "type": 5,
+        "text": "输入正文内容",
+        "left": 232.4,
+        "top": 404.05,
+        "width": 141.7,
+        "height": 49.2
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 16,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击输入正文",
+      "bounds_pt": {
+        "id": 16,
+        "name": "任意多边形: 形状 104",
+        "type": 5,
+        "text": "单击输入正文",
+        "left": 407.85,
+        "top": 404.05,
+        "width": 141.7,
+        "height": 49.2
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 18,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击输入正文",
+      "bounds_pt": {
+        "id": 18,
+        "name": "任意多边形: 形状 107",
+        "type": 5,
+        "text": "单击输入正文",
+        "left": 582.7,
+        "top": 404.05,
+        "width": 141.7,
+        "height": 49.2
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_06",
+      "shape_id": 20,
+      "shape_name": "field:body_06",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "输入正文内容",
+      "bounds_pt": {
+        "id": 20,
+        "name": "任意多边形: 形状 104",
+        "type": 5,
+        "text": "输入正文内容",
+        "left": 757.55,
+        "top": 404.05,
+        "width": 141.7,
+        "height": 49.2
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

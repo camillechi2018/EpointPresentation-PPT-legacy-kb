@@ -1,0 +1,2412 @@
+[
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\agenda-four\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\agenda-four\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\architecture-layered\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\architecture-layered\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\brand-sample\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\brand-sample\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\chapter-light\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\chapter-light\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\chart-comparison\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\chart-comparison\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\chart-composition\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\chart-composition\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\chart-trend\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\chart-trend\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\closing\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\closing\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\comparison-matrix\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\comparison-matrix\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\comparison-two\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\comparison-two\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p054\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p054\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p055\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p055\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p056\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p056\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p057\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p057\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p058\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p058\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p059\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p059\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p060\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p060\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p061\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p061\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p062\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p062\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p063\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p063\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p064\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p064\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p065\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p065\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p066\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p066\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p067\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p067\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p068\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p068\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p069\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p069\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p070\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p070\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p071\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p071\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p072\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p072\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p073\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p073\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p074\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p074\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p075\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p075\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p076\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p076\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p077\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p077\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p078\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p078\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p079\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p079\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p080\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p080\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p081\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p081\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p082\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p082\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p083\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p083\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p084\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p084\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p085\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p085\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p086\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p086\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p087\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p087\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p088\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p088\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p089\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p089\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p090\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p090\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p091\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p091\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p092\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p092\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p093\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p093\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p094\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p094\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p095\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p095\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p096\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p096\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p097\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p097\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p098\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p098\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p099\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p099\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p100\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p100\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p101\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p101\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p102\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p102\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p103\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p103\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p104\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p104\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p105\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p105\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p106\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p106\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p107\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p107\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p108\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p108\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p109\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p109\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p110\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p110\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p111\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p111\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p112\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p112\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p113\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p113\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p114\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p114\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p115\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p115\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p116\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p116\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p117\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p117\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p118\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p118\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p119\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p119\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p120\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p120\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p121\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p121\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p122\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p122\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p123\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p123\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p124\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p124\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p125\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p125\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p126\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p126\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p127\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p127\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p128\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p128\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p129\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p129\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p130\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p130\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p131\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p131\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p132\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p132\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p133\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p133\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p134\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p134\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p135\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p135\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p136\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p136\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p137\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p137\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p138\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p138\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p139\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p139\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p140\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p140\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p141\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p141\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p142\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p142\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p143\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p143\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p144\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p144\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p145\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p145\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p146\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p146\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p147\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p147\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p148\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p148\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p149\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p149\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p150\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p150\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p151\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p151\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p152\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p152\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p153\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p153\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p154\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p154\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p155\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p155\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p156\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p156\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p157\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p157\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p158\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p158\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p159\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p159\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p160\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p160\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p161\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p161\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p162\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p162\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p163\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p163\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p164\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p164\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p165\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p165\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p166\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p166\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p167\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p167\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p168\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p168\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p169\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p169\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p170\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p170\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p171\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p171\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p172\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p172\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p173\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p173\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p174\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p174\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p175\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p175\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p176\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p176\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p177\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p177\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p178\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p178\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p179\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p179\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p180\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p180\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p181\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p181\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p182\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p182\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p183\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p183\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p184\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p184\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p185\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p185\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p186\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p186\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p187\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p187\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p188\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p188\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p189\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p189\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p190\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p190\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p191\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p191\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p192\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p192\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p193\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p193\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p194\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p194\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p195\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p195\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p196\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p196\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p197\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p197\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p198\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p198\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p199\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p199\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p200\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p200\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p201\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p201\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p202\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\content-p202\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\cover-formal\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\cover-formal\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\hierarchy-tree\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\hierarchy-tree\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\image-text\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\image-text\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\implementation-plan\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\implementation-plan\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\integration-relations\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\integration-relations\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\metrics-cards\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\metrics-cards\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\next-actions\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\next-actions\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\process-four\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\process-four\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\process-swimlane\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\process-swimlane\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\summary-key-message\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\summary-key-message\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\summary-review\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\summary-review\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\summary-speech\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\summary-speech\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p016\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p016\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p017\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p017\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p018\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p018\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p019\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p019\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p020\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p020\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p021\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p021\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p022\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p022\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p023\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p023\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p024\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p024\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p025\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p025\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p026\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p026\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p027\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p027\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p028\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p028\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p029\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p029\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p030\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p030\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p031\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p031\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p032\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p032\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p033\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p033\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p034\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p034\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p035\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p035\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p036\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p036\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p037\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p037\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p038\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p038\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p039\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-agenda-p039\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p040\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p040\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p041\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p041\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p042\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p042\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p043\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p043\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p044\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p044\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p045\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p045\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p046\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p046\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p047\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p047\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p048\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p048\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p049\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p049\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p050\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p050\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p051\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p051\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p052\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p052\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p053\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-chapter-p053\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p203\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p203\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p204\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p204\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p205\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p205\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p206\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p206\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p207\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p207\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p208\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p208\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p209\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p209\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p210\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p210\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p211\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p211\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p212\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p212\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p213\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p213\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p214\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p214\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p215\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p215\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p216\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p216\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p217\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-closing-p217\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p001\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p001\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p002\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p002\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p003\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p003\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p004\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p004\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p005\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p005\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p006\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p006\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p007\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p007\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p008\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p008\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p009\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p009\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p010\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p010\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p011\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p011\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p012\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p012\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p013\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p013\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p014\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p014\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p015\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\theme-cover-p015\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\three-pillars\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\three-pillars\\example.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\timeline-three\\blank.pptx"
+  },
+  {
+    "slides": 1,
+    "opened": true,
+    "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\layouts\\timeline-three\\example.pptx"
+  }
+]

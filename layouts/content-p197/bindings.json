@@ -1,0 +1,149 @@
+{
+  "layout_id": "content-p197",
+  "source_page": 197,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 4,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 4,
+        "name": "Title 3",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 48.0,
+        "top": 47.9,
+        "width": 452.25,
+        "height": 60.1
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 6,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 6,
+        "name": "矩形: 圆角 10",
+        "type": 1,
+        "text": "单击此处添加标题",
+        "left": 47.9,
+        "top": 131.55,
+        "width": 397.9,
+        "height": 38.8
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 3,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 59,
+      "source_sample_chars": 59,
+      "source_text": "单击添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+      "bounds_pt": {
+        "id": 3,
+        "name": "TextBox 2",
+        "type": 17,
+        "text": "单击添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+        "left": 59.8,
+        "top": 173.25,
+        "width": 386.0,
+        "height": 130.75
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 12,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 12,
+        "name": "矩形: 圆角 15",
+        "type": 1,
+        "text": "单击此处添加标题",
+        "left": 47.9,
+        "top": 319.55,
+        "width": 397.9,
+        "height": 38.8
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 5,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 57,
+      "source_sample_chars": 57,
+      "source_text": "单击添加正文，文字是您思想的提炼，为了演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+      "bounds_pt": {
+        "id": 5,
+        "name": "TextBox 4",
+        "type": 17,
+        "text": "单击添加正文，文字是您思想的提炼，为了演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+        "left": 59.8,
+        "top": 361.2,
+        "width": 386.0,
+        "height": 130.75
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 14,
+        "shape_name": "field:image:14",
+        "required": true,
+        "bounds_pt": {
+          "id": 14,
+          "name": "Picture 13",
+          "type": 13,
+          "text": "",
+          "left": 549.15393,
+          "top": 0.0,
+          "width": 410.84607,
+          "height": 540.0
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 14,
+      "shape_name": "field:image:14",
+      "bounds_pt": {
+        "id": 14,
+        "name": "Picture 13",
+        "type": 13,
+        "text": "",
+        "left": 549.15393,
+        "top": 0.0,
+        "width": 410.84607,
+        "height": 540.0
+      },
+      "kind": "content-image",
+      "sha256": "b96b7b33894c2b689eac7387bd6965cdba5741b6e2cadb2747a6827004dd8215",
+      "replace_required": true
+    }
+  ]
+}

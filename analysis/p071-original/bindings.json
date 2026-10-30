@@ -1,0 +1,223 @@
+{
+  "layout_id": "content-p071",
+  "source_page": 71,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 44,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 52,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想",
+      "bounds_pt": {
+        "id": 44,
+        "name": "TextBox 43",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想",
+        "left": 48.35,
+        "top": 311.05,
+        "width": 185.1,
+        "height": 183.7
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 34,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 52,
+      "source_text": "简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容",
+      "bounds_pt": {
+        "id": 34,
+        "name": "TextBox 33",
+        "type": 17,
+        "text": "简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容",
+        "left": 274.55,
+        "top": 311.05,
+        "width": 185.1,
+        "height": 183.7
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 26,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 50,
+      "source_text": "单击此处添加文本内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想",
+      "bounds_pt": {
+        "id": 26,
+        "name": "TextBox 25",
+        "type": 17,
+        "text": "单击此处添加文本内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想",
+        "left": 500.8,
+        "top": 311.05,
+        "width": 185.1,
+        "height": 183.7
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 39,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 52,
+      "source_text": "简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容",
+      "bounds_pt": {
+        "id": 39,
+        "name": "TextBox 38",
+        "type": 17,
+        "text": "简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容",
+        "left": 727.05,
+        "top": 311.2,
+        "width": 185.1,
+        "height": 183.4
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [
+    {
+      "shape_id": 45,
+      "text": "价值",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 35,
+      "text": "稀有性",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 29,
+      "text": "不可模仿性",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 40,
+      "text": "组织",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 46,
+      "text": "Value",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 36,
+      "text": "Rareness",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 30,
+      "text": "Inimitability",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 41,
+      "text": "Organization",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 31,
+      "shape_name": "图片 30",
+      "bounds_pt": {
+        "id": 31,
+        "name": "图片 30",
+        "type": 28,
+        "text": "",
+        "left": 583.45,
+        "top": 156.3,
+        "width": 19.85,
+        "height": 19.85
+      },
+      "kind": "template-decoration",
+      "sha256": "3162b77bc4ae05f3bcf936625e1ea866353a7651cb136be0e9b534a2389bc63b",
+      "replace_required": false
+    },
+    {
+      "shape_id": 37,
+      "shape_name": "图片 36",
+      "bounds_pt": {
+        "id": 37,
+        "name": "图片 36",
+        "type": 28,
+        "text": "",
+        "left": 357.2,
+        "top": 156.15,
+        "width": 19.85,
+        "height": 19.85
+      },
+      "kind": "template-decoration",
+      "sha256": "ee542d2bd79dcfe23e05afbab3d54e8fa556bba9ae9d3b51d39b333b29d1b689",
+      "replace_required": false
+    },
+    {
+      "shape_id": 42,
+      "shape_name": "图片 41",
+      "bounds_pt": {
+        "id": 42,
+        "name": "图片 41",
+        "type": 28,
+        "text": "",
+        "left": 808.25,
+        "top": 154.6,
+        "width": 22.7,
+        "height": 22.7
+      },
+      "kind": "template-decoration",
+      "sha256": "4c9a07ae478b227035abc13392ee6e95e87ad66bc0d41383dcad54db7ffc58da",
+      "replace_required": false
+    },
+    {
+      "shape_id": 47,
+      "shape_name": "图片 46",
+      "bounds_pt": {
+        "id": 47,
+        "name": "图片 46",
+        "type": 28,
+        "text": "",
+        "left": 130.95,
+        "top": 156.15,
+        "width": 19.85,
+        "height": 19.85
+      },
+      "kind": "template-decoration",
+      "sha256": "3972f24323dda74321cf8daf1673543b01fd86e7d736848d21affa8acd78a31c",
+      "replace_required": false
+    }
+  ]
+}

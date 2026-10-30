@@ -1,0 +1,64 @@
+{
+  "layout_id": "theme-cover-p010",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 4,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 10,
+      "bounds_pt": {
+        "id": 4,
+        "path": "10/4",
+        "name": "标题",
+        "type": 14,
+        "text": "工厂操作安全培训模板",
+        "left": 66.0,
+        "top": 117.7937,
+        "width": 828.0,
+        "height": 141.73228
+      }
+    },
+    {
+      "field": "presenter",
+      "shape_id": 10,
+      "shape_name": "field:presenter",
+      "type": "text",
+      "max_chars": 3,
+      "bounds_pt": {
+        "id": 10,
+        "path": "10/10",
+        "name": "署名",
+        "type": 14,
+        "text": "汇报人：WPS",
+        "left": 386.85,
+        "top": 346.2,
+        "width": 189.4,
+        "height": 39.7
+      }
+    },
+    {
+      "field": "brand",
+      "shape_id": 6,
+      "shape_name": "field:brand",
+      "type": "text",
+      "max_chars": 4,
+      "bounds_pt": {
+        "id": 6,
+        "path": "10/6",
+        "name": "公司名",
+        "type": 14,
+        "text": "金山办公软件有限公司",
+        "left": 113.8,
+        "top": 457.05,
+        "width": 226.75,
+        "height": 19.2
+      }
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

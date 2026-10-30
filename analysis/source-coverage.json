@@ -1,0 +1,1968 @@
+{
+  "source_file": "完整模版示例v2.pptx",
+  "source_sha256": "0d1203882a99f3fce94c0e7300f9e55d96224fb67d90c93bf7553a724ba2893c",
+  "source_pages": 217,
+  "source_components": 217,
+  "middle_source_pages": 149,
+  "middle_components": 149,
+  "theme_components": 68,
+  "supplemental_components": 24,
+  "missing_pages": [],
+  "duplicate_source_pages": [],
+  "complete": true,
+  "pages": [
+    {
+      "source_page": 1,
+      "layout_id": "theme-cover-p001",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p001/blank.pptx",
+      "bindings": "layouts/theme-cover-p001/bindings.json",
+      "preview": "layouts/theme-cover-p001/preview.png"
+    },
+    {
+      "source_page": 2,
+      "layout_id": "theme-cover-p002",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p002/blank.pptx",
+      "bindings": "layouts/theme-cover-p002/bindings.json",
+      "preview": "layouts/theme-cover-p002/preview.png"
+    },
+    {
+      "source_page": 3,
+      "layout_id": "theme-cover-p003",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p003/blank.pptx",
+      "bindings": "layouts/theme-cover-p003/bindings.json",
+      "preview": "layouts/theme-cover-p003/preview.png"
+    },
+    {
+      "source_page": 4,
+      "layout_id": "theme-cover-p004",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p004/blank.pptx",
+      "bindings": "layouts/theme-cover-p004/bindings.json",
+      "preview": "layouts/theme-cover-p004/preview.png"
+    },
+    {
+      "source_page": 5,
+      "layout_id": "theme-cover-p005",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p005/blank.pptx",
+      "bindings": "layouts/theme-cover-p005/bindings.json",
+      "preview": "layouts/theme-cover-p005/preview.png"
+    },
+    {
+      "source_page": 6,
+      "layout_id": "theme-cover-p006",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p006/blank.pptx",
+      "bindings": "layouts/theme-cover-p006/bindings.json",
+      "preview": "layouts/theme-cover-p006/preview.png"
+    },
+    {
+      "source_page": 7,
+      "layout_id": "theme-cover-p007",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p007/blank.pptx",
+      "bindings": "layouts/theme-cover-p007/bindings.json",
+      "preview": "layouts/theme-cover-p007/preview.png"
+    },
+    {
+      "source_page": 8,
+      "layout_id": "theme-cover-p008",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p008/blank.pptx",
+      "bindings": "layouts/theme-cover-p008/bindings.json",
+      "preview": "layouts/theme-cover-p008/preview.png"
+    },
+    {
+      "source_page": 9,
+      "layout_id": "theme-cover-p009",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p009/blank.pptx",
+      "bindings": "layouts/theme-cover-p009/bindings.json",
+      "preview": "layouts/theme-cover-p009/preview.png"
+    },
+    {
+      "source_page": 10,
+      "layout_id": "theme-cover-p010",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p010/blank.pptx",
+      "bindings": "layouts/theme-cover-p010/bindings.json",
+      "preview": "layouts/theme-cover-p010/preview.png"
+    },
+    {
+      "source_page": 11,
+      "layout_id": "theme-cover-p011",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p011/blank.pptx",
+      "bindings": "layouts/theme-cover-p011/bindings.json",
+      "preview": "layouts/theme-cover-p011/preview.png"
+    },
+    {
+      "source_page": 12,
+      "layout_id": "theme-cover-p012",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p012/blank.pptx",
+      "bindings": "layouts/theme-cover-p012/bindings.json",
+      "preview": "layouts/theme-cover-p012/preview.png"
+    },
+    {
+      "source_page": 13,
+      "layout_id": "theme-cover-p013",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p013/blank.pptx",
+      "bindings": "layouts/theme-cover-p013/bindings.json",
+      "preview": "layouts/theme-cover-p013/preview.png"
+    },
+    {
+      "source_page": 14,
+      "layout_id": "theme-cover-p014",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p014/blank.pptx",
+      "bindings": "layouts/theme-cover-p014/bindings.json",
+      "preview": "layouts/theme-cover-p014/preview.png"
+    },
+    {
+      "source_page": 15,
+      "layout_id": "theme-cover-p015",
+      "collection": "source-theme",
+      "role": "cover",
+      "source": "layouts/theme-cover-p015/blank.pptx",
+      "bindings": "layouts/theme-cover-p015/bindings.json",
+      "preview": "layouts/theme-cover-p015/preview.png"
+    },
+    {
+      "source_page": 16,
+      "layout_id": "theme-agenda-p016",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p016/blank.pptx",
+      "bindings": "layouts/theme-agenda-p016/bindings.json",
+      "preview": "layouts/theme-agenda-p016/preview.png"
+    },
+    {
+      "source_page": 17,
+      "layout_id": "theme-agenda-p017",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p017/blank.pptx",
+      "bindings": "layouts/theme-agenda-p017/bindings.json",
+      "preview": "layouts/theme-agenda-p017/preview.png"
+    },
+    {
+      "source_page": 18,
+      "layout_id": "theme-agenda-p018",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p018/blank.pptx",
+      "bindings": "layouts/theme-agenda-p018/bindings.json",
+      "preview": "layouts/theme-agenda-p018/preview.png"
+    },
+    {
+      "source_page": 19,
+      "layout_id": "theme-agenda-p019",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p019/blank.pptx",
+      "bindings": "layouts/theme-agenda-p019/bindings.json",
+      "preview": "layouts/theme-agenda-p019/preview.png"
+    },
+    {
+      "source_page": 20,
+      "layout_id": "theme-agenda-p020",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p020/blank.pptx",
+      "bindings": "layouts/theme-agenda-p020/bindings.json",
+      "preview": "layouts/theme-agenda-p020/preview.png"
+    },
+    {
+      "source_page": 21,
+      "layout_id": "theme-agenda-p021",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p021/blank.pptx",
+      "bindings": "layouts/theme-agenda-p021/bindings.json",
+      "preview": "layouts/theme-agenda-p021/preview.png"
+    },
+    {
+      "source_page": 22,
+      "layout_id": "theme-agenda-p022",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p022/blank.pptx",
+      "bindings": "layouts/theme-agenda-p022/bindings.json",
+      "preview": "layouts/theme-agenda-p022/preview.png"
+    },
+    {
+      "source_page": 23,
+      "layout_id": "theme-agenda-p023",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p023/blank.pptx",
+      "bindings": "layouts/theme-agenda-p023/bindings.json",
+      "preview": "layouts/theme-agenda-p023/preview.png"
+    },
+    {
+      "source_page": 24,
+      "layout_id": "theme-agenda-p024",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p024/blank.pptx",
+      "bindings": "layouts/theme-agenda-p024/bindings.json",
+      "preview": "layouts/theme-agenda-p024/preview.png"
+    },
+    {
+      "source_page": 25,
+      "layout_id": "theme-agenda-p025",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p025/blank.pptx",
+      "bindings": "layouts/theme-agenda-p025/bindings.json",
+      "preview": "layouts/theme-agenda-p025/preview.png"
+    },
+    {
+      "source_page": 26,
+      "layout_id": "theme-agenda-p026",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p026/blank.pptx",
+      "bindings": "layouts/theme-agenda-p026/bindings.json",
+      "preview": "layouts/theme-agenda-p026/preview.png"
+    },
+    {
+      "source_page": 27,
+      "layout_id": "theme-agenda-p027",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p027/blank.pptx",
+      "bindings": "layouts/theme-agenda-p027/bindings.json",
+      "preview": "layouts/theme-agenda-p027/preview.png"
+    },
+    {
+      "source_page": 28,
+      "layout_id": "theme-agenda-p028",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p028/blank.pptx",
+      "bindings": "layouts/theme-agenda-p028/bindings.json",
+      "preview": "layouts/theme-agenda-p028/preview.png"
+    },
+    {
+      "source_page": 29,
+      "layout_id": "theme-agenda-p029",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p029/blank.pptx",
+      "bindings": "layouts/theme-agenda-p029/bindings.json",
+      "preview": "layouts/theme-agenda-p029/preview.png"
+    },
+    {
+      "source_page": 30,
+      "layout_id": "theme-agenda-p030",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p030/blank.pptx",
+      "bindings": "layouts/theme-agenda-p030/bindings.json",
+      "preview": "layouts/theme-agenda-p030/preview.png"
+    },
+    {
+      "source_page": 31,
+      "layout_id": "theme-agenda-p031",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p031/blank.pptx",
+      "bindings": "layouts/theme-agenda-p031/bindings.json",
+      "preview": "layouts/theme-agenda-p031/preview.png"
+    },
+    {
+      "source_page": 32,
+      "layout_id": "theme-agenda-p032",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p032/blank.pptx",
+      "bindings": "layouts/theme-agenda-p032/bindings.json",
+      "preview": "layouts/theme-agenda-p032/preview.png"
+    },
+    {
+      "source_page": 33,
+      "layout_id": "theme-agenda-p033",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p033/blank.pptx",
+      "bindings": "layouts/theme-agenda-p033/bindings.json",
+      "preview": "layouts/theme-agenda-p033/preview.png"
+    },
+    {
+      "source_page": 34,
+      "layout_id": "theme-agenda-p034",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p034/blank.pptx",
+      "bindings": "layouts/theme-agenda-p034/bindings.json",
+      "preview": "layouts/theme-agenda-p034/preview.png"
+    },
+    {
+      "source_page": 35,
+      "layout_id": "theme-agenda-p035",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p035/blank.pptx",
+      "bindings": "layouts/theme-agenda-p035/bindings.json",
+      "preview": "layouts/theme-agenda-p035/preview.png"
+    },
+    {
+      "source_page": 36,
+      "layout_id": "theme-agenda-p036",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p036/blank.pptx",
+      "bindings": "layouts/theme-agenda-p036/bindings.json",
+      "preview": "layouts/theme-agenda-p036/preview.png"
+    },
+    {
+      "source_page": 37,
+      "layout_id": "theme-agenda-p037",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p037/blank.pptx",
+      "bindings": "layouts/theme-agenda-p037/bindings.json",
+      "preview": "layouts/theme-agenda-p037/preview.png"
+    },
+    {
+      "source_page": 38,
+      "layout_id": "theme-agenda-p038",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p038/blank.pptx",
+      "bindings": "layouts/theme-agenda-p038/bindings.json",
+      "preview": "layouts/theme-agenda-p038/preview.png"
+    },
+    {
+      "source_page": 39,
+      "layout_id": "theme-agenda-p039",
+      "collection": "source-theme",
+      "role": "agenda",
+      "source": "layouts/theme-agenda-p039/blank.pptx",
+      "bindings": "layouts/theme-agenda-p039/bindings.json",
+      "preview": "layouts/theme-agenda-p039/preview.png"
+    },
+    {
+      "source_page": 40,
+      "layout_id": "theme-chapter-p040",
+      "collection": "source-theme",
+      "role": "chapter",
+      "source": "layouts/theme-chapter-p040/blank.pptx",
+      "bindings": "layouts/theme-chapter-p040/bindings.json",
+      "preview": "layouts/theme-chapter-p040/preview.png"
+    },
+    {
+      "source_page": 41,
+      "layout_id": "theme-chapter-p041",
+      "collection": "source-theme",
+      "role": "chapter",
+      "source": "layouts/theme-chapter-p041/blank.pptx",
+      "bindings": "layouts/theme-chapter-p041/bindings.json",
+      "preview": "layouts/theme-chapter-p041/preview.png"
+    },
+    {
+      "source_page": 42,
+      "layout_id": "theme-chapter-p042",
+      "collection": "source-theme",
+      "role": "chapter",
+      "source": "layouts/theme-chapter-p042/blank.pptx",
+      "bindings": "layouts/theme-chapter-p042/bindings.json",
+      "preview": "layouts/theme-chapter-p042/preview.png"
+    },
+    {
+      "source_page": 43,
+      "layout_id": "theme-chapter-p043",
+      "collection": "source-theme",
+      "role": "chapter",
+      "source": "layouts/theme-chapter-p043/blank.pptx",
+      "bindings": "layouts/theme-chapter-p043/bindings.json",
+      "preview": "layouts/theme-chapter-p043/preview.png"
+    },
+    {
+      "source_page": 44,
+      "layout_id": "theme-chapter-p044",
+      "collection": "source-theme",
+      "role": "chapter",
+      "source": "layouts/theme-chapter-p044/blank.pptx",
+      "bindings": "layouts/theme-chapter-p044/bindings.json",
+      "preview": "layouts/theme-chapter-p044/preview.png"
+    },
+    {
+      "source_page": 45,
+      "layout_id": "theme-chapter-p045",
+      "collection": "source-theme",
+      "role": "chapter",
+      "source": "layouts/theme-chapter-p045/blank.pptx",
+      "bindings": "layouts/theme-chapter-p045/bindings.json",
+      "preview": "layouts/theme-chapter-p045/preview.png"
+    },
+    {
+      "source_page": 46,
+      "layout_id": "theme-chapter-p046",
+      "collection": "source-theme",
+      "role": "chapter",
+      "source": "layouts/theme-chapter-p046/blank.pptx",
+      "bindings": "layouts/theme-chapter-p046/bindings.json",
+      "preview": "layouts/theme-chapter-p046/preview.png"
+    },
+    {
+      "source_page": 47,
+      "layout_id": "theme-chapter-p047",
+      "collection": "source-theme",
+      "role": "chapter",
+      "source": "layouts/theme-chapter-p047/blank.pptx",
+      "bindings": "layouts/theme-chapter-p047/bindings.json",
+      "preview": "layouts/theme-chapter-p047/preview.png"
+    },
+    {
+      "source_page": 48,
+      "layout_id": "theme-chapter-p048",
+      "collection": "source-theme",
+      "role": "chapter",
+      "source": "layouts/theme-chapter-p048/blank.pptx",
+      "bindings": "layouts/theme-chapter-p048/bindings.json",
+      "preview": "layouts/theme-chapter-p048/preview.png"
+    },
+    {
+      "source_page": 49,
+      "layout_id": "theme-chapter-p049",
+      "collection": "source-theme",
+      "role": "chapter",
+      "source": "layouts/theme-chapter-p049/blank.pptx",
+      "bindings": "layouts/theme-chapter-p049/bindings.json",
+      "preview": "layouts/theme-chapter-p049/preview.png"
+    },
+    {
+      "source_page": 50,
+      "layout_id": "theme-chapter-p050",
+      "collection": "source-theme",
+      "role": "chapter",
+      "source": "layouts/theme-chapter-p050/blank.pptx",
+      "bindings": "layouts/theme-chapter-p050/bindings.json",
+      "preview": "layouts/theme-chapter-p050/preview.png"
+    },
+    {
+      "source_page": 51,
+      "layout_id": "theme-chapter-p051",
+      "collection": "source-theme",
+      "role": "chapter",
+      "source": "layouts/theme-chapter-p051/blank.pptx",
+      "bindings": "layouts/theme-chapter-p051/bindings.json",
+      "preview": "layouts/theme-chapter-p051/preview.png"
+    },
+    {
+      "source_page": 52,
+      "layout_id": "theme-chapter-p052",
+      "collection": "source-theme",
+      "role": "chapter",
+      "source": "layouts/theme-chapter-p052/blank.pptx",
+      "bindings": "layouts/theme-chapter-p052/bindings.json",
+      "preview": "layouts/theme-chapter-p052/preview.png"
+    },
+    {
+      "source_page": 53,
+      "layout_id": "theme-chapter-p053",
+      "collection": "source-theme",
+      "role": "chapter",
+      "source": "layouts/theme-chapter-p053/blank.pptx",
+      "bindings": "layouts/theme-chapter-p053/bindings.json",
+      "preview": "layouts/theme-chapter-p053/preview.png"
+    },
+    {
+      "source_page": 54,
+      "layout_id": "content-p054",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p054/blank.pptx",
+      "bindings": "layouts/content-p054/bindings.json",
+      "preview": "layouts/content-p054/preview.png"
+    },
+    {
+      "source_page": 55,
+      "layout_id": "content-p055",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p055/blank.pptx",
+      "bindings": "layouts/content-p055/bindings.json",
+      "preview": "layouts/content-p055/preview.png"
+    },
+    {
+      "source_page": 56,
+      "layout_id": "content-p056",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p056/blank.pptx",
+      "bindings": "layouts/content-p056/bindings.json",
+      "preview": "layouts/content-p056/preview.png"
+    },
+    {
+      "source_page": 57,
+      "layout_id": "content-p057",
+      "collection": "source-content",
+      "role": "timeline",
+      "source": "layouts/content-p057/blank.pptx",
+      "bindings": "layouts/content-p057/bindings.json",
+      "preview": "layouts/content-p057/preview.png"
+    },
+    {
+      "source_page": 58,
+      "layout_id": "content-p058",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p058/blank.pptx",
+      "bindings": "layouts/content-p058/bindings.json",
+      "preview": "layouts/content-p058/preview.png"
+    },
+    {
+      "source_page": 59,
+      "layout_id": "content-p059",
+      "collection": "source-content",
+      "role": "framework",
+      "source": "layouts/content-p059/blank.pptx",
+      "bindings": "layouts/content-p059/bindings.json",
+      "preview": "layouts/content-p059/preview.png"
+    },
+    {
+      "source_page": 60,
+      "layout_id": "content-p060",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p060/blank.pptx",
+      "bindings": "layouts/content-p060/bindings.json",
+      "preview": "layouts/content-p060/preview.png"
+    },
+    {
+      "source_page": 61,
+      "layout_id": "content-p061",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p061/blank.pptx",
+      "bindings": "layouts/content-p061/bindings.json",
+      "preview": "layouts/content-p061/preview.png"
+    },
+    {
+      "source_page": 62,
+      "layout_id": "content-p062",
+      "collection": "source-content",
+      "role": "timeline",
+      "source": "layouts/content-p062/blank.pptx",
+      "bindings": "layouts/content-p062/bindings.json",
+      "preview": "layouts/content-p062/preview.png"
+    },
+    {
+      "source_page": 63,
+      "layout_id": "content-p063",
+      "collection": "source-content",
+      "role": "process",
+      "source": "layouts/content-p063/blank.pptx",
+      "bindings": "layouts/content-p063/bindings.json",
+      "preview": "layouts/content-p063/preview.png"
+    },
+    {
+      "source_page": 64,
+      "layout_id": "content-p064",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p064/blank.pptx",
+      "bindings": "layouts/content-p064/bindings.json",
+      "preview": "layouts/content-p064/preview.png"
+    },
+    {
+      "source_page": 65,
+      "layout_id": "content-p065",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p065/blank.pptx",
+      "bindings": "layouts/content-p065/bindings.json",
+      "preview": "layouts/content-p065/preview.png"
+    },
+    {
+      "source_page": 66,
+      "layout_id": "content-p066",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p066/blank.pptx",
+      "bindings": "layouts/content-p066/bindings.json",
+      "preview": "layouts/content-p066/preview.png"
+    },
+    {
+      "source_page": 67,
+      "layout_id": "content-p067",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p067/blank.pptx",
+      "bindings": "layouts/content-p067/bindings.json",
+      "preview": "layouts/content-p067/preview.png"
+    },
+    {
+      "source_page": 68,
+      "layout_id": "content-p068",
+      "collection": "source-content",
+      "role": "framework",
+      "source": "layouts/content-p068/blank.pptx",
+      "bindings": "layouts/content-p068/bindings.json",
+      "preview": "layouts/content-p068/preview.png"
+    },
+    {
+      "source_page": 69,
+      "layout_id": "content-p069",
+      "collection": "source-content",
+      "role": "text-detail",
+      "source": "layouts/content-p069/blank.pptx",
+      "bindings": "layouts/content-p069/bindings.json",
+      "preview": "layouts/content-p069/preview.png"
+    },
+    {
+      "source_page": 70,
+      "layout_id": "content-p070",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p070/blank.pptx",
+      "bindings": "layouts/content-p070/bindings.json",
+      "preview": "layouts/content-p070/preview.png"
+    },
+    {
+      "source_page": 71,
+      "layout_id": "content-p071",
+      "collection": "source-content",
+      "role": "framework",
+      "source": "layouts/content-p071/blank.pptx",
+      "bindings": "layouts/content-p071/bindings.json",
+      "preview": "layouts/content-p071/preview.png"
+    },
+    {
+      "source_page": 72,
+      "layout_id": "content-p072",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p072/blank.pptx",
+      "bindings": "layouts/content-p072/bindings.json",
+      "preview": "layouts/content-p072/preview.png"
+    },
+    {
+      "source_page": 73,
+      "layout_id": "content-p073",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p073/blank.pptx",
+      "bindings": "layouts/content-p073/bindings.json",
+      "preview": "layouts/content-p073/preview.png"
+    },
+    {
+      "source_page": 74,
+      "layout_id": "content-p074",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p074/blank.pptx",
+      "bindings": "layouts/content-p074/bindings.json",
+      "preview": "layouts/content-p074/preview.png"
+    },
+    {
+      "source_page": 75,
+      "layout_id": "content-p075",
+      "collection": "source-content",
+      "role": "timeline",
+      "source": "layouts/content-p075/blank.pptx",
+      "bindings": "layouts/content-p075/bindings.json",
+      "preview": "layouts/content-p075/preview.png"
+    },
+    {
+      "source_page": 76,
+      "layout_id": "content-p076",
+      "collection": "source-content",
+      "role": "comparison",
+      "source": "layouts/content-p076/blank.pptx",
+      "bindings": "layouts/content-p076/bindings.json",
+      "preview": "layouts/content-p076/preview.png"
+    },
+    {
+      "source_page": 77,
+      "layout_id": "content-p077",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p077/blank.pptx",
+      "bindings": "layouts/content-p077/bindings.json",
+      "preview": "layouts/content-p077/preview.png"
+    },
+    {
+      "source_page": 78,
+      "layout_id": "content-p078",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p078/blank.pptx",
+      "bindings": "layouts/content-p078/bindings.json",
+      "preview": "layouts/content-p078/preview.png"
+    },
+    {
+      "source_page": 79,
+      "layout_id": "content-p079",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p079/blank.pptx",
+      "bindings": "layouts/content-p079/bindings.json",
+      "preview": "layouts/content-p079/preview.png"
+    },
+    {
+      "source_page": 80,
+      "layout_id": "content-p080",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p080/blank.pptx",
+      "bindings": "layouts/content-p080/bindings.json",
+      "preview": "layouts/content-p080/preview.png"
+    },
+    {
+      "source_page": 81,
+      "layout_id": "content-p081",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p081/blank.pptx",
+      "bindings": "layouts/content-p081/bindings.json",
+      "preview": "layouts/content-p081/preview.png"
+    },
+    {
+      "source_page": 82,
+      "layout_id": "content-p082",
+      "collection": "source-content",
+      "role": "comparison",
+      "source": "layouts/content-p082/blank.pptx",
+      "bindings": "layouts/content-p082/bindings.json",
+      "preview": "layouts/content-p082/preview.png"
+    },
+    {
+      "source_page": 83,
+      "layout_id": "content-p083",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p083/blank.pptx",
+      "bindings": "layouts/content-p083/bindings.json",
+      "preview": "layouts/content-p083/preview.png"
+    },
+    {
+      "source_page": 84,
+      "layout_id": "content-p084",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p084/blank.pptx",
+      "bindings": "layouts/content-p084/bindings.json",
+      "preview": "layouts/content-p084/preview.png"
+    },
+    {
+      "source_page": 85,
+      "layout_id": "content-p085",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p085/blank.pptx",
+      "bindings": "layouts/content-p085/bindings.json",
+      "preview": "layouts/content-p085/preview.png"
+    },
+    {
+      "source_page": 86,
+      "layout_id": "content-p086",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p086/blank.pptx",
+      "bindings": "layouts/content-p086/bindings.json",
+      "preview": "layouts/content-p086/preview.png"
+    },
+    {
+      "source_page": 87,
+      "layout_id": "content-p087",
+      "collection": "source-content",
+      "role": "comparison",
+      "source": "layouts/content-p087/blank.pptx",
+      "bindings": "layouts/content-p087/bindings.json",
+      "preview": "layouts/content-p087/preview.png"
+    },
+    {
+      "source_page": 88,
+      "layout_id": "content-p088",
+      "collection": "source-content",
+      "role": "data-chart",
+      "source": "layouts/content-p088/blank.pptx",
+      "bindings": "layouts/content-p088/bindings.json",
+      "preview": "layouts/content-p088/preview.png"
+    },
+    {
+      "source_page": 89,
+      "layout_id": "content-p089",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p089/blank.pptx",
+      "bindings": "layouts/content-p089/bindings.json",
+      "preview": "layouts/content-p089/preview.png"
+    },
+    {
+      "source_page": 90,
+      "layout_id": "content-p090",
+      "collection": "source-content",
+      "role": "comparison",
+      "source": "layouts/content-p090/blank.pptx",
+      "bindings": "layouts/content-p090/bindings.json",
+      "preview": "layouts/content-p090/preview.png"
+    },
+    {
+      "source_page": 91,
+      "layout_id": "content-p091",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p091/blank.pptx",
+      "bindings": "layouts/content-p091/bindings.json",
+      "preview": "layouts/content-p091/preview.png"
+    },
+    {
+      "source_page": 92,
+      "layout_id": "content-p092",
+      "collection": "source-content",
+      "role": "comparison",
+      "source": "layouts/content-p092/blank.pptx",
+      "bindings": "layouts/content-p092/bindings.json",
+      "preview": "layouts/content-p092/preview.png"
+    },
+    {
+      "source_page": 93,
+      "layout_id": "content-p093",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p093/blank.pptx",
+      "bindings": "layouts/content-p093/bindings.json",
+      "preview": "layouts/content-p093/preview.png"
+    },
+    {
+      "source_page": 94,
+      "layout_id": "content-p094",
+      "collection": "source-content",
+      "role": "framework",
+      "source": "layouts/content-p094/blank.pptx",
+      "bindings": "layouts/content-p094/bindings.json",
+      "preview": "layouts/content-p094/preview.png"
+    },
+    {
+      "source_page": 95,
+      "layout_id": "content-p095",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p095/blank.pptx",
+      "bindings": "layouts/content-p095/bindings.json",
+      "preview": "layouts/content-p095/preview.png"
+    },
+    {
+      "source_page": 96,
+      "layout_id": "content-p096",
+      "collection": "source-content",
+      "role": "chapter",
+      "source": "layouts/content-p096/blank.pptx",
+      "bindings": "layouts/content-p096/bindings.json",
+      "preview": "layouts/content-p096/preview.png"
+    },
+    {
+      "source_page": 97,
+      "layout_id": "content-p097",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p097/blank.pptx",
+      "bindings": "layouts/content-p097/bindings.json",
+      "preview": "layouts/content-p097/preview.png"
+    },
+    {
+      "source_page": 98,
+      "layout_id": "content-p098",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p098/blank.pptx",
+      "bindings": "layouts/content-p098/bindings.json",
+      "preview": "layouts/content-p098/preview.png"
+    },
+    {
+      "source_page": 99,
+      "layout_id": "content-p099",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p099/blank.pptx",
+      "bindings": "layouts/content-p099/bindings.json",
+      "preview": "layouts/content-p099/preview.png"
+    },
+    {
+      "source_page": 100,
+      "layout_id": "content-p100",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p100/blank.pptx",
+      "bindings": "layouts/content-p100/bindings.json",
+      "preview": "layouts/content-p100/preview.png"
+    },
+    {
+      "source_page": 101,
+      "layout_id": "content-p101",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p101/blank.pptx",
+      "bindings": "layouts/content-p101/bindings.json",
+      "preview": "layouts/content-p101/preview.png"
+    },
+    {
+      "source_page": 102,
+      "layout_id": "content-p102",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p102/blank.pptx",
+      "bindings": "layouts/content-p102/bindings.json",
+      "preview": "layouts/content-p102/preview.png"
+    },
+    {
+      "source_page": 103,
+      "layout_id": "content-p103",
+      "collection": "source-content",
+      "role": "data-chart",
+      "source": "layouts/content-p103/blank.pptx",
+      "bindings": "layouts/content-p103/bindings.json",
+      "preview": "layouts/content-p103/preview.png"
+    },
+    {
+      "source_page": 104,
+      "layout_id": "content-p104",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p104/blank.pptx",
+      "bindings": "layouts/content-p104/bindings.json",
+      "preview": "layouts/content-p104/preview.png"
+    },
+    {
+      "source_page": 105,
+      "layout_id": "content-p105",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p105/blank.pptx",
+      "bindings": "layouts/content-p105/bindings.json",
+      "preview": "layouts/content-p105/preview.png"
+    },
+    {
+      "source_page": 106,
+      "layout_id": "content-p106",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p106/blank.pptx",
+      "bindings": "layouts/content-p106/bindings.json",
+      "preview": "layouts/content-p106/preview.png"
+    },
+    {
+      "source_page": 107,
+      "layout_id": "content-p107",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p107/blank.pptx",
+      "bindings": "layouts/content-p107/bindings.json",
+      "preview": "layouts/content-p107/preview.png"
+    },
+    {
+      "source_page": 108,
+      "layout_id": "content-p108",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p108/blank.pptx",
+      "bindings": "layouts/content-p108/bindings.json",
+      "preview": "layouts/content-p108/preview.png"
+    },
+    {
+      "source_page": 109,
+      "layout_id": "content-p109",
+      "collection": "source-content",
+      "role": "timeline",
+      "source": "layouts/content-p109/blank.pptx",
+      "bindings": "layouts/content-p109/bindings.json",
+      "preview": "layouts/content-p109/preview.png"
+    },
+    {
+      "source_page": 110,
+      "layout_id": "content-p110",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p110/blank.pptx",
+      "bindings": "layouts/content-p110/bindings.json",
+      "preview": "layouts/content-p110/preview.png"
+    },
+    {
+      "source_page": 111,
+      "layout_id": "content-p111",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p111/blank.pptx",
+      "bindings": "layouts/content-p111/bindings.json",
+      "preview": "layouts/content-p111/preview.png"
+    },
+    {
+      "source_page": 112,
+      "layout_id": "content-p112",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p112/blank.pptx",
+      "bindings": "layouts/content-p112/bindings.json",
+      "preview": "layouts/content-p112/preview.png"
+    },
+    {
+      "source_page": 113,
+      "layout_id": "content-p113",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p113/blank.pptx",
+      "bindings": "layouts/content-p113/bindings.json",
+      "preview": "layouts/content-p113/preview.png"
+    },
+    {
+      "source_page": 114,
+      "layout_id": "content-p114",
+      "collection": "source-content",
+      "role": "timeline",
+      "source": "layouts/content-p114/blank.pptx",
+      "bindings": "layouts/content-p114/bindings.json",
+      "preview": "layouts/content-p114/preview.png"
+    },
+    {
+      "source_page": 115,
+      "layout_id": "content-p115",
+      "collection": "source-content",
+      "role": "process",
+      "source": "layouts/content-p115/blank.pptx",
+      "bindings": "layouts/content-p115/bindings.json",
+      "preview": "layouts/content-p115/preview.png"
+    },
+    {
+      "source_page": 116,
+      "layout_id": "content-p116",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p116/blank.pptx",
+      "bindings": "layouts/content-p116/bindings.json",
+      "preview": "layouts/content-p116/preview.png"
+    },
+    {
+      "source_page": 117,
+      "layout_id": "content-p117",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p117/blank.pptx",
+      "bindings": "layouts/content-p117/bindings.json",
+      "preview": "layouts/content-p117/preview.png"
+    },
+    {
+      "source_page": 118,
+      "layout_id": "content-p118",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p118/blank.pptx",
+      "bindings": "layouts/content-p118/bindings.json",
+      "preview": "layouts/content-p118/preview.png"
+    },
+    {
+      "source_page": 119,
+      "layout_id": "content-p119",
+      "collection": "source-content",
+      "role": "data-table",
+      "source": "layouts/content-p119/blank.pptx",
+      "bindings": "layouts/content-p119/bindings.json",
+      "preview": "layouts/content-p119/preview.png"
+    },
+    {
+      "source_page": 120,
+      "layout_id": "content-p120",
+      "collection": "source-content",
+      "role": "timeline",
+      "source": "layouts/content-p120/blank.pptx",
+      "bindings": "layouts/content-p120/bindings.json",
+      "preview": "layouts/content-p120/preview.png"
+    },
+    {
+      "source_page": 121,
+      "layout_id": "content-p121",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p121/blank.pptx",
+      "bindings": "layouts/content-p121/bindings.json",
+      "preview": "layouts/content-p121/preview.png"
+    },
+    {
+      "source_page": 122,
+      "layout_id": "content-p122",
+      "collection": "source-content",
+      "role": "timeline",
+      "source": "layouts/content-p122/blank.pptx",
+      "bindings": "layouts/content-p122/bindings.json",
+      "preview": "layouts/content-p122/preview.png"
+    },
+    {
+      "source_page": 123,
+      "layout_id": "content-p123",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p123/blank.pptx",
+      "bindings": "layouts/content-p123/bindings.json",
+      "preview": "layouts/content-p123/preview.png"
+    },
+    {
+      "source_page": 124,
+      "layout_id": "content-p124",
+      "collection": "source-content",
+      "role": "comparison",
+      "source": "layouts/content-p124/blank.pptx",
+      "bindings": "layouts/content-p124/bindings.json",
+      "preview": "layouts/content-p124/preview.png"
+    },
+    {
+      "source_page": 125,
+      "layout_id": "content-p125",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p125/blank.pptx",
+      "bindings": "layouts/content-p125/bindings.json",
+      "preview": "layouts/content-p125/preview.png"
+    },
+    {
+      "source_page": 126,
+      "layout_id": "content-p126",
+      "collection": "source-content",
+      "role": "comparison",
+      "source": "layouts/content-p126/blank.pptx",
+      "bindings": "layouts/content-p126/bindings.json",
+      "preview": "layouts/content-p126/preview.png"
+    },
+    {
+      "source_page": 127,
+      "layout_id": "content-p127",
+      "collection": "source-content",
+      "role": "timeline",
+      "source": "layouts/content-p127/blank.pptx",
+      "bindings": "layouts/content-p127/bindings.json",
+      "preview": "layouts/content-p127/preview.png"
+    },
+    {
+      "source_page": 128,
+      "layout_id": "content-p128",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p128/blank.pptx",
+      "bindings": "layouts/content-p128/bindings.json",
+      "preview": "layouts/content-p128/preview.png"
+    },
+    {
+      "source_page": 129,
+      "layout_id": "content-p129",
+      "collection": "source-content",
+      "role": "timeline",
+      "source": "layouts/content-p129/blank.pptx",
+      "bindings": "layouts/content-p129/bindings.json",
+      "preview": "layouts/content-p129/preview.png"
+    },
+    {
+      "source_page": 130,
+      "layout_id": "content-p130",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p130/blank.pptx",
+      "bindings": "layouts/content-p130/bindings.json",
+      "preview": "layouts/content-p130/preview.png"
+    },
+    {
+      "source_page": 131,
+      "layout_id": "content-p131",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p131/blank.pptx",
+      "bindings": "layouts/content-p131/bindings.json",
+      "preview": "layouts/content-p131/preview.png"
+    },
+    {
+      "source_page": 132,
+      "layout_id": "content-p132",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p132/blank.pptx",
+      "bindings": "layouts/content-p132/bindings.json",
+      "preview": "layouts/content-p132/preview.png"
+    },
+    {
+      "source_page": 133,
+      "layout_id": "content-p133",
+      "collection": "source-content",
+      "role": "comparison",
+      "source": "layouts/content-p133/blank.pptx",
+      "bindings": "layouts/content-p133/bindings.json",
+      "preview": "layouts/content-p133/preview.png"
+    },
+    {
+      "source_page": 134,
+      "layout_id": "content-p134",
+      "collection": "source-content",
+      "role": "timeline",
+      "source": "layouts/content-p134/blank.pptx",
+      "bindings": "layouts/content-p134/bindings.json",
+      "preview": "layouts/content-p134/preview.png"
+    },
+    {
+      "source_page": 135,
+      "layout_id": "content-p135",
+      "collection": "source-content",
+      "role": "timeline",
+      "source": "layouts/content-p135/blank.pptx",
+      "bindings": "layouts/content-p135/bindings.json",
+      "preview": "layouts/content-p135/preview.png"
+    },
+    {
+      "source_page": 136,
+      "layout_id": "content-p136",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p136/blank.pptx",
+      "bindings": "layouts/content-p136/bindings.json",
+      "preview": "layouts/content-p136/preview.png"
+    },
+    {
+      "source_page": 137,
+      "layout_id": "content-p137",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p137/blank.pptx",
+      "bindings": "layouts/content-p137/bindings.json",
+      "preview": "layouts/content-p137/preview.png"
+    },
+    {
+      "source_page": 138,
+      "layout_id": "content-p138",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p138/blank.pptx",
+      "bindings": "layouts/content-p138/bindings.json",
+      "preview": "layouts/content-p138/preview.png"
+    },
+    {
+      "source_page": 139,
+      "layout_id": "content-p139",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p139/blank.pptx",
+      "bindings": "layouts/content-p139/bindings.json",
+      "preview": "layouts/content-p139/preview.png"
+    },
+    {
+      "source_page": 140,
+      "layout_id": "content-p140",
+      "collection": "source-content",
+      "role": "chapter",
+      "source": "layouts/content-p140/blank.pptx",
+      "bindings": "layouts/content-p140/bindings.json",
+      "preview": "layouts/content-p140/preview.png"
+    },
+    {
+      "source_page": 141,
+      "layout_id": "content-p141",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p141/blank.pptx",
+      "bindings": "layouts/content-p141/bindings.json",
+      "preview": "layouts/content-p141/preview.png"
+    },
+    {
+      "source_page": 142,
+      "layout_id": "content-p142",
+      "collection": "source-content",
+      "role": "data-chart",
+      "source": "layouts/content-p142/blank.pptx",
+      "bindings": "layouts/content-p142/bindings.json",
+      "preview": "layouts/content-p142/preview.png"
+    },
+    {
+      "source_page": 143,
+      "layout_id": "content-p143",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p143/blank.pptx",
+      "bindings": "layouts/content-p143/bindings.json",
+      "preview": "layouts/content-p143/preview.png"
+    },
+    {
+      "source_page": 144,
+      "layout_id": "content-p144",
+      "collection": "source-content",
+      "role": "data-chart",
+      "source": "layouts/content-p144/blank.pptx",
+      "bindings": "layouts/content-p144/bindings.json",
+      "preview": "layouts/content-p144/preview.png"
+    },
+    {
+      "source_page": 145,
+      "layout_id": "content-p145",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p145/blank.pptx",
+      "bindings": "layouts/content-p145/bindings.json",
+      "preview": "layouts/content-p145/preview.png"
+    },
+    {
+      "source_page": 146,
+      "layout_id": "content-p146",
+      "collection": "source-content",
+      "role": "comparison",
+      "source": "layouts/content-p146/blank.pptx",
+      "bindings": "layouts/content-p146/bindings.json",
+      "preview": "layouts/content-p146/preview.png"
+    },
+    {
+      "source_page": 147,
+      "layout_id": "content-p147",
+      "collection": "source-content",
+      "role": "timeline",
+      "source": "layouts/content-p147/blank.pptx",
+      "bindings": "layouts/content-p147/bindings.json",
+      "preview": "layouts/content-p147/preview.png"
+    },
+    {
+      "source_page": 148,
+      "layout_id": "content-p148",
+      "collection": "source-content",
+      "role": "framework",
+      "source": "layouts/content-p148/blank.pptx",
+      "bindings": "layouts/content-p148/bindings.json",
+      "preview": "layouts/content-p148/preview.png"
+    },
+    {
+      "source_page": 149,
+      "layout_id": "content-p149",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p149/blank.pptx",
+      "bindings": "layouts/content-p149/bindings.json",
+      "preview": "layouts/content-p149/preview.png"
+    },
+    {
+      "source_page": 150,
+      "layout_id": "content-p150",
+      "collection": "source-content",
+      "role": "data-table",
+      "source": "layouts/content-p150/blank.pptx",
+      "bindings": "layouts/content-p150/bindings.json",
+      "preview": "layouts/content-p150/preview.png"
+    },
+    {
+      "source_page": 151,
+      "layout_id": "content-p151",
+      "collection": "source-content",
+      "role": "data-chart",
+      "source": "layouts/content-p151/blank.pptx",
+      "bindings": "layouts/content-p151/bindings.json",
+      "preview": "layouts/content-p151/preview.png"
+    },
+    {
+      "source_page": 152,
+      "layout_id": "content-p152",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p152/blank.pptx",
+      "bindings": "layouts/content-p152/bindings.json",
+      "preview": "layouts/content-p152/preview.png"
+    },
+    {
+      "source_page": 153,
+      "layout_id": "content-p153",
+      "collection": "source-content",
+      "role": "process",
+      "source": "layouts/content-p153/blank.pptx",
+      "bindings": "layouts/content-p153/bindings.json",
+      "preview": "layouts/content-p153/preview.png"
+    },
+    {
+      "source_page": 154,
+      "layout_id": "content-p154",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p154/blank.pptx",
+      "bindings": "layouts/content-p154/bindings.json",
+      "preview": "layouts/content-p154/preview.png"
+    },
+    {
+      "source_page": 155,
+      "layout_id": "content-p155",
+      "collection": "source-content",
+      "role": "process",
+      "source": "layouts/content-p155/blank.pptx",
+      "bindings": "layouts/content-p155/bindings.json",
+      "preview": "layouts/content-p155/preview.png"
+    },
+    {
+      "source_page": 156,
+      "layout_id": "content-p156",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p156/blank.pptx",
+      "bindings": "layouts/content-p156/bindings.json",
+      "preview": "layouts/content-p156/preview.png"
+    },
+    {
+      "source_page": 157,
+      "layout_id": "content-p157",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p157/blank.pptx",
+      "bindings": "layouts/content-p157/bindings.json",
+      "preview": "layouts/content-p157/preview.png"
+    },
+    {
+      "source_page": 158,
+      "layout_id": "content-p158",
+      "collection": "source-content",
+      "role": "data-chart",
+      "source": "layouts/content-p158/blank.pptx",
+      "bindings": "layouts/content-p158/bindings.json",
+      "preview": "layouts/content-p158/preview.png"
+    },
+    {
+      "source_page": 159,
+      "layout_id": "content-p159",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p159/blank.pptx",
+      "bindings": "layouts/content-p159/bindings.json",
+      "preview": "layouts/content-p159/preview.png"
+    },
+    {
+      "source_page": 160,
+      "layout_id": "content-p160",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p160/blank.pptx",
+      "bindings": "layouts/content-p160/bindings.json",
+      "preview": "layouts/content-p160/preview.png"
+    },
+    {
+      "source_page": 161,
+      "layout_id": "content-p161",
+      "collection": "source-content",
+      "role": "data-chart",
+      "source": "layouts/content-p161/blank.pptx",
+      "bindings": "layouts/content-p161/bindings.json",
+      "preview": "layouts/content-p161/preview.png"
+    },
+    {
+      "source_page": 162,
+      "layout_id": "content-p162",
+      "collection": "source-content",
+      "role": "timeline",
+      "source": "layouts/content-p162/blank.pptx",
+      "bindings": "layouts/content-p162/bindings.json",
+      "preview": "layouts/content-p162/preview.png"
+    },
+    {
+      "source_page": 163,
+      "layout_id": "content-p163",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p163/blank.pptx",
+      "bindings": "layouts/content-p163/bindings.json",
+      "preview": "layouts/content-p163/preview.png"
+    },
+    {
+      "source_page": 164,
+      "layout_id": "content-p164",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p164/blank.pptx",
+      "bindings": "layouts/content-p164/bindings.json",
+      "preview": "layouts/content-p164/preview.png"
+    },
+    {
+      "source_page": 165,
+      "layout_id": "content-p165",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p165/blank.pptx",
+      "bindings": "layouts/content-p165/bindings.json",
+      "preview": "layouts/content-p165/preview.png"
+    },
+    {
+      "source_page": 166,
+      "layout_id": "content-p166",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p166/blank.pptx",
+      "bindings": "layouts/content-p166/bindings.json",
+      "preview": "layouts/content-p166/preview.png"
+    },
+    {
+      "source_page": 167,
+      "layout_id": "content-p167",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p167/blank.pptx",
+      "bindings": "layouts/content-p167/bindings.json",
+      "preview": "layouts/content-p167/preview.png"
+    },
+    {
+      "source_page": 168,
+      "layout_id": "content-p168",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p168/blank.pptx",
+      "bindings": "layouts/content-p168/bindings.json",
+      "preview": "layouts/content-p168/preview.png"
+    },
+    {
+      "source_page": 169,
+      "layout_id": "content-p169",
+      "collection": "source-content",
+      "role": "process",
+      "source": "layouts/content-p169/blank.pptx",
+      "bindings": "layouts/content-p169/bindings.json",
+      "preview": "layouts/content-p169/preview.png"
+    },
+    {
+      "source_page": 170,
+      "layout_id": "content-p170",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p170/blank.pptx",
+      "bindings": "layouts/content-p170/bindings.json",
+      "preview": "layouts/content-p170/preview.png"
+    },
+    {
+      "source_page": 171,
+      "layout_id": "content-p171",
+      "collection": "source-content",
+      "role": "text-detail",
+      "source": "layouts/content-p171/blank.pptx",
+      "bindings": "layouts/content-p171/bindings.json",
+      "preview": "layouts/content-p171/preview.png"
+    },
+    {
+      "source_page": 172,
+      "layout_id": "content-p172",
+      "collection": "source-content",
+      "role": "process",
+      "source": "layouts/content-p172/blank.pptx",
+      "bindings": "layouts/content-p172/bindings.json",
+      "preview": "layouts/content-p172/preview.png"
+    },
+    {
+      "source_page": 173,
+      "layout_id": "content-p173",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p173/blank.pptx",
+      "bindings": "layouts/content-p173/bindings.json",
+      "preview": "layouts/content-p173/preview.png"
+    },
+    {
+      "source_page": 174,
+      "layout_id": "content-p174",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p174/blank.pptx",
+      "bindings": "layouts/content-p174/bindings.json",
+      "preview": "layouts/content-p174/preview.png"
+    },
+    {
+      "source_page": 175,
+      "layout_id": "content-p175",
+      "collection": "source-content",
+      "role": "process",
+      "source": "layouts/content-p175/blank.pptx",
+      "bindings": "layouts/content-p175/bindings.json",
+      "preview": "layouts/content-p175/preview.png"
+    },
+    {
+      "source_page": 176,
+      "layout_id": "content-p176",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p176/blank.pptx",
+      "bindings": "layouts/content-p176/bindings.json",
+      "preview": "layouts/content-p176/preview.png"
+    },
+    {
+      "source_page": 177,
+      "layout_id": "content-p177",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p177/blank.pptx",
+      "bindings": "layouts/content-p177/bindings.json",
+      "preview": "layouts/content-p177/preview.png"
+    },
+    {
+      "source_page": 178,
+      "layout_id": "content-p178",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p178/blank.pptx",
+      "bindings": "layouts/content-p178/bindings.json",
+      "preview": "layouts/content-p178/preview.png"
+    },
+    {
+      "source_page": 179,
+      "layout_id": "content-p179",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p179/blank.pptx",
+      "bindings": "layouts/content-p179/bindings.json",
+      "preview": "layouts/content-p179/preview.png"
+    },
+    {
+      "source_page": 180,
+      "layout_id": "content-p180",
+      "collection": "source-content",
+      "role": "timeline",
+      "source": "layouts/content-p180/blank.pptx",
+      "bindings": "layouts/content-p180/bindings.json",
+      "preview": "layouts/content-p180/preview.png"
+    },
+    {
+      "source_page": 181,
+      "layout_id": "content-p181",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p181/blank.pptx",
+      "bindings": "layouts/content-p181/bindings.json",
+      "preview": "layouts/content-p181/preview.png"
+    },
+    {
+      "source_page": 182,
+      "layout_id": "content-p182",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p182/blank.pptx",
+      "bindings": "layouts/content-p182/bindings.json",
+      "preview": "layouts/content-p182/preview.png"
+    },
+    {
+      "source_page": 183,
+      "layout_id": "content-p183",
+      "collection": "source-content",
+      "role": "chapter",
+      "source": "layouts/content-p183/blank.pptx",
+      "bindings": "layouts/content-p183/bindings.json",
+      "preview": "layouts/content-p183/preview.png"
+    },
+    {
+      "source_page": 184,
+      "layout_id": "content-p184",
+      "collection": "source-content",
+      "role": "process",
+      "source": "layouts/content-p184/blank.pptx",
+      "bindings": "layouts/content-p184/bindings.json",
+      "preview": "layouts/content-p184/preview.png"
+    },
+    {
+      "source_page": 185,
+      "layout_id": "content-p185",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p185/blank.pptx",
+      "bindings": "layouts/content-p185/bindings.json",
+      "preview": "layouts/content-p185/preview.png"
+    },
+    {
+      "source_page": 186,
+      "layout_id": "content-p186",
+      "collection": "source-content",
+      "role": "process",
+      "source": "layouts/content-p186/blank.pptx",
+      "bindings": "layouts/content-p186/bindings.json",
+      "preview": "layouts/content-p186/preview.png"
+    },
+    {
+      "source_page": 187,
+      "layout_id": "content-p187",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p187/blank.pptx",
+      "bindings": "layouts/content-p187/bindings.json",
+      "preview": "layouts/content-p187/preview.png"
+    },
+    {
+      "source_page": 188,
+      "layout_id": "content-p188",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p188/blank.pptx",
+      "bindings": "layouts/content-p188/bindings.json",
+      "preview": "layouts/content-p188/preview.png"
+    },
+    {
+      "source_page": 189,
+      "layout_id": "content-p189",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p189/blank.pptx",
+      "bindings": "layouts/content-p189/bindings.json",
+      "preview": "layouts/content-p189/preview.png"
+    },
+    {
+      "source_page": 190,
+      "layout_id": "content-p190",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p190/blank.pptx",
+      "bindings": "layouts/content-p190/bindings.json",
+      "preview": "layouts/content-p190/preview.png"
+    },
+    {
+      "source_page": 191,
+      "layout_id": "content-p191",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p191/blank.pptx",
+      "bindings": "layouts/content-p191/bindings.json",
+      "preview": "layouts/content-p191/preview.png"
+    },
+    {
+      "source_page": 192,
+      "layout_id": "content-p192",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p192/blank.pptx",
+      "bindings": "layouts/content-p192/bindings.json",
+      "preview": "layouts/content-p192/preview.png"
+    },
+    {
+      "source_page": 193,
+      "layout_id": "content-p193",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p193/blank.pptx",
+      "bindings": "layouts/content-p193/bindings.json",
+      "preview": "layouts/content-p193/preview.png"
+    },
+    {
+      "source_page": 194,
+      "layout_id": "content-p194",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p194/blank.pptx",
+      "bindings": "layouts/content-p194/bindings.json",
+      "preview": "layouts/content-p194/preview.png"
+    },
+    {
+      "source_page": 195,
+      "layout_id": "content-p195",
+      "collection": "source-content",
+      "role": "process",
+      "source": "layouts/content-p195/blank.pptx",
+      "bindings": "layouts/content-p195/bindings.json",
+      "preview": "layouts/content-p195/preview.png"
+    },
+    {
+      "source_page": 196,
+      "layout_id": "content-p196",
+      "collection": "source-content",
+      "role": "data-chart",
+      "source": "layouts/content-p196/blank.pptx",
+      "bindings": "layouts/content-p196/bindings.json",
+      "preview": "layouts/content-p196/preview.png"
+    },
+    {
+      "source_page": 197,
+      "layout_id": "content-p197",
+      "collection": "source-content",
+      "role": "image-text",
+      "source": "layouts/content-p197/blank.pptx",
+      "bindings": "layouts/content-p197/bindings.json",
+      "preview": "layouts/content-p197/preview.png"
+    },
+    {
+      "source_page": 198,
+      "layout_id": "content-p198",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p198/blank.pptx",
+      "bindings": "layouts/content-p198/bindings.json",
+      "preview": "layouts/content-p198/preview.png"
+    },
+    {
+      "source_page": 199,
+      "layout_id": "content-p199",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p199/blank.pptx",
+      "bindings": "layouts/content-p199/bindings.json",
+      "preview": "layouts/content-p199/preview.png"
+    },
+    {
+      "source_page": 200,
+      "layout_id": "content-p200",
+      "collection": "source-content",
+      "role": "architecture",
+      "source": "layouts/content-p200/blank.pptx",
+      "bindings": "layouts/content-p200/bindings.json",
+      "preview": "layouts/content-p200/preview.png"
+    },
+    {
+      "source_page": 201,
+      "layout_id": "content-p201",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p201/blank.pptx",
+      "bindings": "layouts/content-p201/bindings.json",
+      "preview": "layouts/content-p201/preview.png"
+    },
+    {
+      "source_page": 202,
+      "layout_id": "content-p202",
+      "collection": "source-content",
+      "role": "parallel-points",
+      "source": "layouts/content-p202/blank.pptx",
+      "bindings": "layouts/content-p202/bindings.json",
+      "preview": "layouts/content-p202/preview.png"
+    },
+    {
+      "source_page": 203,
+      "layout_id": "theme-closing-p203",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p203/blank.pptx",
+      "bindings": "layouts/theme-closing-p203/bindings.json",
+      "preview": "layouts/theme-closing-p203/preview.png"
+    },
+    {
+      "source_page": 204,
+      "layout_id": "theme-closing-p204",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p204/blank.pptx",
+      "bindings": "layouts/theme-closing-p204/bindings.json",
+      "preview": "layouts/theme-closing-p204/preview.png"
+    },
+    {
+      "source_page": 205,
+      "layout_id": "theme-closing-p205",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p205/blank.pptx",
+      "bindings": "layouts/theme-closing-p205/bindings.json",
+      "preview": "layouts/theme-closing-p205/preview.png"
+    },
+    {
+      "source_page": 206,
+      "layout_id": "theme-closing-p206",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p206/blank.pptx",
+      "bindings": "layouts/theme-closing-p206/bindings.json",
+      "preview": "layouts/theme-closing-p206/preview.png"
+    },
+    {
+      "source_page": 207,
+      "layout_id": "theme-closing-p207",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p207/blank.pptx",
+      "bindings": "layouts/theme-closing-p207/bindings.json",
+      "preview": "layouts/theme-closing-p207/preview.png"
+    },
+    {
+      "source_page": 208,
+      "layout_id": "theme-closing-p208",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p208/blank.pptx",
+      "bindings": "layouts/theme-closing-p208/bindings.json",
+      "preview": "layouts/theme-closing-p208/preview.png"
+    },
+    {
+      "source_page": 209,
+      "layout_id": "theme-closing-p209",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p209/blank.pptx",
+      "bindings": "layouts/theme-closing-p209/bindings.json",
+      "preview": "layouts/theme-closing-p209/preview.png"
+    },
+    {
+      "source_page": 210,
+      "layout_id": "theme-closing-p210",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p210/blank.pptx",
+      "bindings": "layouts/theme-closing-p210/bindings.json",
+      "preview": "layouts/theme-closing-p210/preview.png"
+    },
+    {
+      "source_page": 211,
+      "layout_id": "theme-closing-p211",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p211/blank.pptx",
+      "bindings": "layouts/theme-closing-p211/bindings.json",
+      "preview": "layouts/theme-closing-p211/preview.png"
+    },
+    {
+      "source_page": 212,
+      "layout_id": "theme-closing-p212",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p212/blank.pptx",
+      "bindings": "layouts/theme-closing-p212/bindings.json",
+      "preview": "layouts/theme-closing-p212/preview.png"
+    },
+    {
+      "source_page": 213,
+      "layout_id": "theme-closing-p213",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p213/blank.pptx",
+      "bindings": "layouts/theme-closing-p213/bindings.json",
+      "preview": "layouts/theme-closing-p213/preview.png"
+    },
+    {
+      "source_page": 214,
+      "layout_id": "theme-closing-p214",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p214/blank.pptx",
+      "bindings": "layouts/theme-closing-p214/bindings.json",
+      "preview": "layouts/theme-closing-p214/preview.png"
+    },
+    {
+      "source_page": 215,
+      "layout_id": "theme-closing-p215",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p215/blank.pptx",
+      "bindings": "layouts/theme-closing-p215/bindings.json",
+      "preview": "layouts/theme-closing-p215/preview.png"
+    },
+    {
+      "source_page": 216,
+      "layout_id": "theme-closing-p216",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p216/blank.pptx",
+      "bindings": "layouts/theme-closing-p216/bindings.json",
+      "preview": "layouts/theme-closing-p216/preview.png"
+    },
+    {
+      "source_page": 217,
+      "layout_id": "theme-closing-p217",
+      "collection": "source-theme",
+      "role": "closing",
+      "source": "layouts/theme-closing-p217/blank.pptx",
+      "bindings": "layouts/theme-closing-p217/bindings.json",
+      "preview": "layouts/theme-closing-p217/preview.png"
+    }
+  ]
+}

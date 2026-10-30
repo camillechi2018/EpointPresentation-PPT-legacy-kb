@@ -1,0 +1,55 @@
+{
+  "layout_id": "process-four",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "max_chars": 24
+    },
+    {
+      "field": "step_1_title",
+      "shape_id": 19,
+      "max_chars": 10
+    },
+    {
+      "field": "step_1_body",
+      "shape_id": 20,
+      "max_chars": 35
+    },
+    {
+      "field": "step_2_title",
+      "shape_id": 21,
+      "max_chars": 10
+    },
+    {
+      "field": "step_2_body",
+      "shape_id": 22,
+      "max_chars": 35
+    },
+    {
+      "field": "step_3_title",
+      "shape_id": 23,
+      "max_chars": 10
+    },
+    {
+      "field": "step_3_body",
+      "shape_id": 24,
+      "max_chars": 35
+    },
+    {
+      "field": "step_4_title",
+      "shape_id": 25,
+      "max_chars": 10
+    },
+    {
+      "field": "step_4_body",
+      "shape_id": 26,
+      "max_chars": 35
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

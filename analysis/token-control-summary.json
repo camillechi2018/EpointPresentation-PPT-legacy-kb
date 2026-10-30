@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "all_source_components_not_connected_to_token_recoloring": 217,
+    "with_media": 108,
+    "with_gradients": 116,
+    "with_theme_color_refs": 177,
+    "with_theme_font_refs": 161,
+    "with_native_charts": 8,
+    "with_native_tables": 2,
+    "with_explicit_colors_outside_base": 22
+  },
+  "buckets": {
+    "含媒体素材，需换图或重制素材": 108,
+    "仅原生对象，仍需颜色与字体角色映射": 46,
+    "含渐变或数据对象，需特殊映射": 63
+  }
+}

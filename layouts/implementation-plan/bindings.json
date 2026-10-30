@@ -1,0 +1,31 @@
+{
+  "layout_id": "implementation-plan",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "max_chars": 24
+    },
+    {
+      "field": "milestone",
+      "shape_id": 4,
+      "max_chars": 65
+    },
+    {
+      "field": "timing",
+      "shape_id": 5,
+      "max_chars": 70
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [
+      {
+        "shape_id": 3,
+        "rows": 5,
+        "columns": 5
+      }
+    ],
+    "images": []
+  }
+}

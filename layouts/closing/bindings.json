@@ -1,0 +1,35 @@
+{
+  "layout_id": "closing",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 11,
+      "max_chars": 18
+    },
+    {
+      "field": "subtitle",
+      "shape_id": 12,
+      "max_chars": 18
+    },
+    {
+      "field": "description",
+      "shape_id": 14,
+      "max_chars": 40
+    },
+    {
+      "field": "presenter",
+      "shape_id": 3,
+      "max_chars": 24
+    },
+    {
+      "field": "brand",
+      "shape_id": 7,
+      "max_chars": 12
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

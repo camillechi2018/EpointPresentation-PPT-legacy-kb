@@ -1,0 +1,100 @@
+{
+  "layout_id": "theme-cover-p001",
+  "fields": [
+    {
+      "field": "brand",
+      "shape_id": 7,
+      "shape_name": "field:brand",
+      "type": "text",
+      "max_chars": 9,
+      "bounds_pt": {
+        "id": 7,
+        "path": "1/7",
+        "name": "TextBox 6",
+        "type": 17,
+        "text": "LOGO HERE",
+        "left": 55.4,
+        "top": 46.55,
+        "width": 139.9,
+        "height": 21.7
+      }
+    },
+    {
+      "field": "title",
+      "shape_id": 12,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 9,
+      "bounds_pt": {
+        "id": 12,
+        "path": "1/12",
+        "name": "TextBox 11",
+        "type": 17,
+        "text": "善于沟通 有效管理",
+        "left": 51.15,
+        "top": 138.22504,
+        "width": 508.55,
+        "height": 79.9
+      }
+    },
+    {
+      "field": "title_2",
+      "shape_id": 11,
+      "shape_name": "field:title_2",
+      "type": "text",
+      "max_chars": 11,
+      "bounds_pt": {
+        "id": 11,
+        "path": "1/11",
+        "name": "TextBox 10",
+        "type": 17,
+        "text": "高效沟通技巧培训PPT",
+        "left": 46.65,
+        "top": 171.82504,
+        "width": 641.4,
+        "height": 116.25
+      }
+    },
+    {
+      "field": "title_3",
+      "shape_id": 86,
+      "shape_name": "field:title_3",
+      "type": "text",
+      "max_chars": 4,
+      "bounds_pt": {
+        "id": 86,
+        "path": "1/89/86",
+        "name": "TextBox 85",
+        "type": 17,
+        "text": "01",
+        "left": 885.5,
+        "top": 203.1,
+        "width": 65.2,
+        "height": 21.7
+      }
+    },
+    {
+      "field": "title_4",
+      "shape_id": 88,
+      "shape_name": "field:title_4",
+      "type": "text",
+      "max_chars": 4,
+      "bounds_pt": {
+        "id": 88,
+        "path": "1/89/88",
+        "name": "TextBox 87",
+        "type": 17,
+        "text": "08",
+        "left": 885.5,
+        "top": 342.35,
+        "width": 65.2,
+        "height": 21.7
+      }
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

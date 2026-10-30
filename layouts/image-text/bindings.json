@@ -1,0 +1,30 @@
+{
+  "layout_id": "image-text",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "max_chars": 14
+    },
+    {
+      "field": "body",
+      "shape_id": 16,
+      "max_chars": 80
+    },
+    {
+      "field": "image_source",
+      "shape_id": 282,
+      "max_chars": 55
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 281,
+        "shape_name": "field:image"
+      }
+    ]
+  }
+}

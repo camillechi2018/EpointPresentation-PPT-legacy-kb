@@ -1,0 +1,55 @@
+{
+  "layout_id": "process-swimlane",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "max_chars": 24
+    },
+    {
+      "field": "role_1",
+      "shape_id": 4,
+      "max_chars": 10
+    },
+    {
+      "field": "role_2",
+      "shape_id": 6,
+      "max_chars": 10
+    },
+    {
+      "field": "role_3",
+      "shape_id": 8,
+      "max_chars": 10
+    },
+    {
+      "field": "submit",
+      "shape_id": 9,
+      "max_chars": 10
+    },
+    {
+      "field": "review",
+      "shape_id": 10,
+      "max_chars": 10
+    },
+    {
+      "field": "execute",
+      "shape_id": 11,
+      "max_chars": 10
+    },
+    {
+      "field": "receipt",
+      "shape_id": 12,
+      "max_chars": 10
+    },
+    {
+      "field": "legend",
+      "shape_id": 21,
+      "max_chars": 75
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "layout_id": "content-p123",
+  "source_page": 123,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 3,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Title 2",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 2,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "单击添加项标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加项标题",
+        "left": 504.0,
+        "top": 131.2,
+        "width": 408.2,
+        "height": 37.35
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 9,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 60,
+      "source_text": "单击此处添加文本具体内容，请尽量简明扼要地阐述您的内容观点。根据需要可酌情增减文字，以便观者能够准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 9,
+        "name": "Rectangle 8",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，请尽量简明扼要地阐述您的内容观点。根据需要可酌情增减文字，以便观者能够准确地理解您传达的思想。",
+        "left": 504.0,
+        "top": 191.85,
+        "width": 408.2,
+        "height": 101.75
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 10,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "单击添加项标题",
+      "bounds_pt": {
+        "id": 10,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加项标题",
+        "left": 504.0,
+        "top": 329.5,
+        "width": 408.2,
+        "height": 37.35
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 8,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 58,
+      "source_text": "单击此处添加文本内容，请尽量简明扼要地阐述您的内容观点。根据需要可酌情增减文字，以便观者能够准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 8,
+        "name": "Rectangle 7",
+        "type": 1,
+        "text": "单击此处添加文本内容，请尽量简明扼要地阐述您的内容观点。根据需要可酌情增减文字，以便观者能够准确地理解您传达的思想。",
+        "left": 504.0,
+        "top": 390.15,
+        "width": 408.2,
+        "height": 101.75
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 14,
+        "shape_name": "field:image:14",
+        "required": true,
+        "bounds_pt": {
+          "id": 14,
+          "name": "Picture 13",
+          "type": 13,
+          "text": "",
+          "left": 67.45,
+          "top": 162.65,
+          "width": 347.55,
+          "height": 261.3
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 14,
+      "shape_name": "field:image:14",
+      "bounds_pt": {
+        "id": 14,
+        "name": "Picture 13",
+        "type": 13,
+        "text": "",
+        "left": 67.45,
+        "top": 162.65,
+        "width": 347.55,
+        "height": 261.3
+      },
+      "kind": "content-image",
+      "sha256": "ef2dad7a47b33cd45cb16a744363525a13f7ad2d157f27e4c97638e555689878",
+      "replace_required": true
+    }
+  ]
+}

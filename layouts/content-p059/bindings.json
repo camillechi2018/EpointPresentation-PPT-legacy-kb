@@ -1,0 +1,159 @@
+{
+  "layout_id": "content-p059",
+  "source_page": 59,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "KISS营销模型",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "KISS营销模型",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 24,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 72,
+      "source_text": "好的想法：提出了并实施了“客户定制化解决方案”策略，显著提高了客户满意度和成交率。未来，我将继续深化这一理念，为客户提供更加个性化、高价值的服务",
+      "bounds_pt": {
+        "id": 24,
+        "name": "正文",
+        "type": 17,
+        "text": "好的想法：提出了并实施了“客户定制化解决方案”策略，显著提高了客户满意度和成交率。未来，我将继续深化这一理念，为客户提供更加个性化、高价值的服务",
+        "left": 67.3,
+        "top": 165.15,
+        "width": 264.5,
+        "height": 125.75
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 52,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 69,
+      "source_sample_chars": 69,
+      "source_text": "优化工作流程：当前合同签订流程较为繁琐，导致部分用户体验不佳。我计划与法务及行政部门携手合作，共同致力于简化合同审批流程，提升整体服务体验",
+      "bounds_pt": {
+        "id": 52,
+        "name": "正文",
+        "type": 17,
+        "text": "优化工作流程：当前合同签订流程较为繁琐，导致部分用户体验不佳。我计划与法务及行政部门携手合作，共同致力于简化合同审批流程，提升整体服务体验",
+        "left": 628.1,
+        "top": 165.15,
+        "width": 264.65,
+        "height": 125.75
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 32,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 66,
+      "source_sample_chars": 66,
+      "source_text": "来完成“客户忠诚度计划”，通过积分奖励、专属优惠等方式，增强现有客户的粘性，促进复购和口碑传播。目前正在筹备阶段，预计下季度正式上线",
+      "bounds_pt": {
+        "id": 32,
+        "name": "正文",
+        "type": 17,
+        "text": "来完成“客户忠诚度计划”，通过积分奖励、专属优惠等方式，增强现有客户的粘性，促进复购和口碑传播。目前正在筹备阶段，预计下季度正式上线",
+        "left": 67.3,
+        "top": 362.7,
+        "width": 264.5,
+        "height": 125.75
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 47,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 72,
+      "source_text": "不好的行为：有时会忽略对细节的把控，如邮件回复的及时性，可能给客户留下不受重视的印象。我将制定时间管理和自我检查机制，确保每项工作都能高质量完成",
+      "bounds_pt": {
+        "id": 47,
+        "name": "正文",
+        "type": 17,
+        "text": "不好的行为：有时会忽略对细节的把控，如邮件回复的及时性，可能给客户留下不受重视的印象。我将制定时间管理和自我检查机制，确保每项工作都能高质量完成",
+        "left": 623.6,
+        "top": 362.7,
+        "width": 263.8,
+        "height": 125.75
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [
+    {
+      "shape_id": 53,
+      "text": "KEPP 保持",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 51,
+      "text": "IMPROVE 改进",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 4,
+      "text": "需要\n保持",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 14,
+      "text": "需要\n改进",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 3,
+      "text": "KISS\n复盘",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 8,
+      "text": "需要\n开始",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 15,
+      "text": "需要\n停止",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 55,
+      "text": "START 开始",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 46,
+      "text": "STOP 停止",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

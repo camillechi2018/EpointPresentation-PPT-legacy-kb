@@ -1,0 +1,349 @@
+{
+  "layout_id": "content-p122",
+  "source_page": 122,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 74,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 74,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 188.1092,
+        "top": 140.95717,
+        "width": 101.75,
+        "height": 29.4
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 79,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 79,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 354.11975,
+        "top": 140.95717,
+        "width": 101.75,
+        "height": 29.4
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 83,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 83,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 520.1303,
+        "top": 140.95717,
+        "width": 101.75,
+        "height": 29.4
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 87,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 87,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 686.14087,
+        "top": 140.95717,
+        "width": 101.75,
+        "height": 29.4
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 73,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 28,
+      "source_text": "单击添加文本，简明扼要地阐述您的观点。根据需要可增减文字",
+      "bounds_pt": {
+        "id": 73,
+        "name": "正文",
+        "type": 17,
+        "text": "单击添加文本，简明扼要地阐述您的观点。根据需要可增减文字",
+        "left": 188.1092,
+        "top": 172.55716,
+        "width": 101.75,
+        "height": 79.37008
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 78,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 28,
+      "source_text": "单击添加文本，简明扼要地阐述您的观点。根据需要可增减文字",
+      "bounds_pt": {
+        "id": 78,
+        "name": "正文",
+        "type": 17,
+        "text": "单击添加文本，简明扼要地阐述您的观点。根据需要可增减文字",
+        "left": 354.11975,
+        "top": 172.55716,
+        "width": 101.75,
+        "height": 79.37008
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 82,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 28,
+      "source_text": "单击添加文本，简明扼要地阐述您的观点。根据需要可增减文字",
+      "bounds_pt": {
+        "id": 82,
+        "name": "正文",
+        "type": 17,
+        "text": "单击添加文本，简明扼要地阐述您的观点。根据需要可增减文字",
+        "left": 520.1303,
+        "top": 172.55716,
+        "width": 101.75,
+        "height": 79.37008
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 86,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 28,
+      "source_text": "单击添加文本，简明扼要地阐述您的观点。根据需要可增减文字",
+      "bounds_pt": {
+        "id": 86,
+        "name": "正文",
+        "type": 17,
+        "text": "单击添加文本，简明扼要地阐述您的观点。根据需要可增减文字",
+        "left": 686.14087,
+        "top": 172.55716,
+        "width": 101.75,
+        "height": 79.37008
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_05",
+      "shape_id": 11,
+      "shape_name": "field:item_title_05",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 11,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 271.09497,
+        "top": 374.66534,
+        "width": 101.75,
+        "height": 29.4
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_06",
+      "shape_id": 39,
+      "shape_name": "field:item_title_06",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 39,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 437.09897,
+        "top": 374.66534,
+        "width": 101.75,
+        "height": 29.4
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_07",
+      "shape_id": 43,
+      "shape_name": "field:item_title_07",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 43,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 603.10297,
+        "top": 374.66534,
+        "width": 101.75,
+        "height": 29.4
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 10,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 28,
+      "source_text": "单击添加文本，简明扼要地阐述您的观点。根据需要可增减文字",
+      "bounds_pt": {
+        "id": 10,
+        "name": "正文",
+        "type": 17,
+        "text": "单击添加文本，简明扼要地阐述您的观点。根据需要可增减文字",
+        "left": 271.09497,
+        "top": 406.26535,
+        "width": 101.75,
+        "height": 79.37008
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_06",
+      "shape_id": 38,
+      "shape_name": "field:body_06",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 28,
+      "source_text": "单击添加文本，简明扼要地阐述您的观点。根据需要可增减文字",
+      "bounds_pt": {
+        "id": 38,
+        "name": "正文",
+        "type": 17,
+        "text": "单击添加文本，简明扼要地阐述您的观点。根据需要可增减文字",
+        "left": 437.09897,
+        "top": 406.26535,
+        "width": 101.75,
+        "height": 79.37008
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_07",
+      "shape_id": 42,
+      "shape_name": "field:body_07",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 28,
+      "source_text": "单击添加文本，简明扼要地阐述您的观点。根据需要可增减文字",
+      "bounds_pt": {
+        "id": 42,
+        "name": "正文",
+        "type": 17,
+        "text": "单击添加文本，简明扼要地阐述您的观点。根据需要可增减文字",
+        "left": 603.10297,
+        "top": 406.26535,
+        "width": 101.75,
+        "height": 79.37008
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [
+    {
+      "shape_id": 3,
+      "text": "01",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 14,
+      "text": "02",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 15,
+      "text": "03",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 16,
+      "text": "04",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 19,
+      "text": "05",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 20,
+      "text": "06",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 21,
+      "text": "07",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

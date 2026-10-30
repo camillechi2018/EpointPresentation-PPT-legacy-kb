@@ -1,0 +1,193 @@
+{
+  "layout_id": "content-p136",
+  "source_page": 136,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 95,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 95,
+        "name": "圆角矩形 94",
+        "type": 1,
+        "text": "添加标题",
+        "left": 74.45,
+        "top": 143.15,
+        "width": 184.75,
+        "height": 30.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 104,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 104,
+        "name": "圆角矩形 103",
+        "type": 1,
+        "text": "添加标题",
+        "left": 700.9,
+        "top": 143.7,
+        "width": 184.75,
+        "height": 30.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 13,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 34,
+      "source_text": "单击此处添加文本具体单击此处添加文本具体内容，简明扼要地阐述您的观点",
+      "bounds_pt": {
+        "id": 13,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体单击此处添加文本具体内容，简明扼要地阐述您的观点",
+        "left": 80.8,
+        "top": 187.95,
+        "width": 173.75,
+        "height": 115.65
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 18,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 34,
+      "source_text": "单击此处添加文本具体单击此处添加文本具体内容，简明扼要地阐述您的观点",
+      "bounds_pt": {
+        "id": 18,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体单击此处添加文本具体内容，简明扼要地阐述您的观点",
+        "left": 705.5,
+        "top": 187.95,
+        "width": 173.75,
+        "height": 115.65
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 25,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 25,
+        "name": "圆角矩形 24",
+        "type": 1,
+        "text": "添加标题",
+        "left": 74.45,
+        "top": 316.15,
+        "width": 184.75,
+        "height": 30.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 76,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 76,
+        "name": "圆角矩形 75",
+        "type": 1,
+        "text": "添加标题",
+        "left": 700.8,
+        "top": 316.15,
+        "width": 184.75,
+        "height": 30.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 2,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 34,
+      "source_text": "单击此处添加文本具体单击此处添加文本具体内容，简明扼要地阐述您的观点",
+      "bounds_pt": {
+        "id": 2,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体单击此处添加文本具体内容，简明扼要地阐述您的观点",
+        "left": 80.8,
+        "top": 359.4,
+        "width": 173.75,
+        "height": 115.65
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 20,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 34,
+      "source_text": "单击此处添加文本具体单击此处添加文本具体内容，简明扼要地阐述您的观点",
+      "bounds_pt": {
+        "id": 20,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体单击此处添加文本具体内容，简明扼要地阐述您的观点",
+        "left": 705.5,
+        "top": 359.4,
+        "width": 173.75,
+        "height": 115.65
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

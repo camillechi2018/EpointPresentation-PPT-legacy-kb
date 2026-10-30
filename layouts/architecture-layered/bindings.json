@@ -1,0 +1,80 @@
+{
+  "layout_id": "architecture-layered",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 3,
+      "max_chars": 24
+    },
+    {
+      "field": "layer_1",
+      "shape_id": 5,
+      "max_chars": 10
+    },
+    {
+      "field": "module_1_1",
+      "shape_id": 6,
+      "max_chars": 12
+    },
+    {
+      "field": "module_1_2",
+      "shape_id": 7,
+      "max_chars": 12
+    },
+    {
+      "field": "module_1_3",
+      "shape_id": 8,
+      "max_chars": 12
+    },
+    {
+      "field": "layer_2",
+      "shape_id": 10,
+      "max_chars": 10
+    },
+    {
+      "field": "module_2_1",
+      "shape_id": 11,
+      "max_chars": 12
+    },
+    {
+      "field": "module_2_2",
+      "shape_id": 12,
+      "max_chars": 12
+    },
+    {
+      "field": "module_2_3",
+      "shape_id": 13,
+      "max_chars": 12
+    },
+    {
+      "field": "layer_3",
+      "shape_id": 15,
+      "max_chars": 10
+    },
+    {
+      "field": "module_3_1",
+      "shape_id": 16,
+      "max_chars": 12
+    },
+    {
+      "field": "module_3_2",
+      "shape_id": 17,
+      "max_chars": 12
+    },
+    {
+      "field": "module_3_3",
+      "shape_id": 18,
+      "max_chars": 12
+    },
+    {
+      "field": "legend",
+      "shape_id": 21,
+      "max_chars": 70
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "layout_id": "content-p141",
+  "source_page": 141,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 22,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "单击此处添加大标题内容",
+      "bounds_pt": {
+        "id": 22,
+        "name": "TextBox 21",
+        "type": 17,
+        "text": "单击此处添加大标题内容",
+        "left": 53.3,
+        "top": 23.55,
+        "width": 382.85,
+        "height": 38.7
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "subtitle_01",
+      "shape_id": 23,
+      "shape_name": "field:subtitle_01",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "单击此处添加副标题内容",
+      "bounds_pt": {
+        "id": 23,
+        "name": "TextBox 22",
+        "type": 17,
+        "text": "单击此处添加副标题内容",
+        "left": 54.3,
+        "top": 60.55,
+        "width": 381.9,
+        "height": 21.7
+      },
+      "semantic_role": "subtitle"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 102,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 102,
+        "name": "Rectangle 30",
+        "type": 17,
+        "text": "添加标题",
+        "left": 29.1,
+        "top": 188.4,
+        "width": 283.45,
+        "height": 34.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 104,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 104,
+        "name": "Rectangle 36",
+        "type": 17,
+        "text": "添加标题",
+        "left": 647.15,
+        "top": 188.4,
+        "width": 283.45,
+        "height": 34.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 103,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 33,
+      "source_text": "单击此处输入你的正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+      "bounds_pt": {
+        "id": 103,
+        "name": "TextBox 102",
+        "type": 17,
+        "text": "单击此处输入你的正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+        "left": 29.35,
+        "top": 222.4,
+        "width": 283.4,
+        "height": 51.0
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 105,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 33,
+      "source_text": "单击此处输入你的正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+      "bounds_pt": {
+        "id": 105,
+        "name": "TextBox 104",
+        "type": 17,
+        "text": "单击此处输入你的正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+        "left": 647.25,
+        "top": 222.4,
+        "width": 283.4,
+        "height": 51.0
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 112,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 112,
+        "name": "Rectangle 32",
+        "type": 17,
+        "text": "添加标题",
+        "left": 29.2,
+        "top": 322.4,
+        "width": 283.45,
+        "height": 34.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 118,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 118,
+        "name": "Rectangle 38",
+        "type": 17,
+        "text": "添加标题",
+        "left": 647.15,
+        "top": 323.55,
+        "width": 283.45,
+        "height": 34.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 113,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 33,
+      "source_text": "单击此处输入你的正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+      "bounds_pt": {
+        "id": 113,
+        "name": "TextBox 112",
+        "type": 17,
+        "text": "单击此处输入你的正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+        "left": 29.35,
+        "top": 357.55,
+        "width": 283.4,
+        "height": 51.0
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 114,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 33,
+      "source_text": "单击此处输入你的正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+      "bounds_pt": {
+        "id": 114,
+        "name": "TextBox 113",
+        "type": 17,
+        "text": "单击此处输入你的正文，文字是您思想的提炼，请尽量言简意赅的阐述观点",
+        "left": 647.25,
+        "top": 357.55,
+        "width": 283.4,
+        "height": 51.0
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 2,
+      "shape_name": "图片 1",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Picture 1",
+        "type": 13,
+        "text": "",
+        "left": -0.05,
+        "top": -11.25,
+        "width": 960.05,
+        "height": 540.0
+      },
+      "kind": "background",
+      "sha256": "913a94747b569f6e68d4fb8a6598c2d5f5f657601a3118460d9e37a2ac7bcbc4",
+      "replace_required": false
+    },
+    {
+      "shape_id": 122,
+      "shape_name": "图片 121",
+      "bounds_pt": {
+        "id": 122,
+        "name": "图片 121",
+        "type": 28,
+        "text": "",
+        "left": 559.75,
+        "top": 343.35,
+        "width": 28.35,
+        "height": 28.35
+      },
+      "kind": "template-decoration",
+      "sha256": "8531812eda9474fc93adc54c4b1bc3be799dccf934b572b4595c3ffa659a3367",
+      "replace_required": false
+    },
+    {
+      "shape_id": 123,
+      "shape_name": "图片 122",
+      "bounds_pt": {
+        "id": 123,
+        "name": "图片 122",
+        "type": 28,
+        "text": "",
+        "left": 373.7,
+        "top": 343.45,
+        "width": 28.35,
+        "height": 28.35
+      },
+      "kind": "template-decoration",
+      "sha256": "12e41ef6c0badbe8e71a1bcb56374ac7a66114f9c4e52efa56dbc7c25e5003ef",
+      "replace_required": false
+    },
+    {
+      "shape_id": 124,
+      "shape_name": "图片 123",
+      "bounds_pt": {
+        "id": 124,
+        "name": "图片 123",
+        "type": 28,
+        "text": "",
+        "left": 373.75,
+        "top": 208.2,
+        "width": 28.35,
+        "height": 28.35
+      },
+      "kind": "template-decoration",
+      "sha256": "1269952ae6697dbcdc8462d9a36f1a6becf36454be427c832e3713cb56c63d94",
+      "replace_required": false
+    },
+    {
+      "shape_id": 125,
+      "shape_name": "图片 124",
+      "bounds_pt": {
+        "id": 125,
+        "name": "图片 124",
+        "type": 28,
+        "text": "",
+        "left": 559.35,
+        "top": 208.25,
+        "width": 28.35,
+        "height": 28.35
+      },
+      "kind": "template-decoration",
+      "sha256": "d47883073ee2e4f2bcafdc5ce6e37aa63c0a4bfe61f8f955184fef0c3d211724",
+      "replace_required": false
+    }
+  ]
+}

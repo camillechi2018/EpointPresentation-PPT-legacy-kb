@@ -1,0 +1,213 @@
+{
+  "layout_id": "content-p162",
+  "source_page": 162,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 17,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "矩形: 圆角 16",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 77.85,
+        "top": 170.7,
+        "width": 213.5,
+        "height": 31.6
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 20,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 20,
+        "name": "矩形: 圆角 19",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 373.4,
+        "top": 172.2,
+        "width": 213.5,
+        "height": 31.6
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 22,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 22,
+        "name": "矩形: 圆角 21",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 668.95,
+        "top": 170.7,
+        "width": 213.5,
+        "height": 31.6
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 16,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 28,
+      "source_text": "单击输入项正文，文字是思想的提炼，请言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 16,
+        "name": "TextBox 15",
+        "type": 17,
+        "text": "单击输入项正文，文字是思想的提炼，请言简意赅的阐述观点。\r",
+        "left": 77.85,
+        "top": 208.9,
+        "width": 213.5,
+        "height": 95.4
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 19,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 30,
+      "source_text": "单击输入项正文，文字是思想的提炼，请尽量言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 19,
+        "name": "TextBox 18",
+        "type": 17,
+        "text": "单击输入项正文，文字是思想的提炼，请尽量言简意赅的阐述观点。\r",
+        "left": 373.4,
+        "top": 208.9,
+        "width": 213.5,
+        "height": 95.4
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 21,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 28,
+      "source_text": "单击输入项正文，文字是思想的提炼，请言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 21,
+        "name": "TextBox 20",
+        "type": 17,
+        "text": "单击输入项正文，文字是思想的提炼，请言简意赅的阐述观点。\r",
+        "left": 668.95,
+        "top": 208.9,
+        "width": 213.5,
+        "height": 95.4
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "value_01",
+      "shape_id": 25,
+      "shape_name": "field:value_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 25,
+        "name": "TextBox 24",
+        "type": 17,
+        "text": "20XX",
+        "left": 113.9,
+        "top": 441.2,
+        "width": 141.3,
+        "height": 22.7
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "value_02",
+      "shape_id": 26,
+      "shape_name": "field:value_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 26,
+        "name": "TextBox 25",
+        "type": 17,
+        "text": "20XX",
+        "left": 409.45,
+        "top": 441.2,
+        "width": 141.3,
+        "height": 22.7
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "value_03",
+      "shape_id": 27,
+      "shape_name": "field:value_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 27,
+        "name": "TextBox 26",
+        "type": 17,
+        "text": "20XX",
+        "left": 705.0,
+        "top": 441.2,
+        "width": 141.3,
+        "height": 22.7
+      },
+      "semantic_role": "value"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

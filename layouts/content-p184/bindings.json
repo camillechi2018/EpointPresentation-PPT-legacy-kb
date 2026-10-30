@@ -1,0 +1,332 @@
+{
+  "layout_id": "content-p184",
+  "source_page": 184,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 22,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "单击此处添加大标题内容",
+      "bounds_pt": {
+        "id": 22,
+        "name": "TextBox 21",
+        "type": 17,
+        "text": "单击此处添加大标题内容",
+        "left": 53.3,
+        "top": 23.55,
+        "width": 382.85,
+        "height": 38.7
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "subtitle_01",
+      "shape_id": 23,
+      "shape_name": "field:subtitle_01",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "单击此处添加副标题内容",
+      "bounds_pt": {
+        "id": 23,
+        "name": "TextBox 22",
+        "type": 17,
+        "text": "单击此处添加副标题内容",
+        "left": 54.3,
+        "top": 60.55,
+        "width": 381.9,
+        "height": 21.7
+      },
+      "semantic_role": "subtitle"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 92,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "关键词",
+      "bounds_pt": {
+        "id": 92,
+        "name": "Rounded Rectangle 32",
+        "type": 1,
+        "text": "关键词",
+        "left": 635.4622,
+        "top": 142.03314,
+        "width": 219.68779,
+        "height": 35.98236
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 91,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "关键词",
+      "bounds_pt": {
+        "id": 91,
+        "name": "Rounded Rectangle 32",
+        "type": 1,
+        "text": "关键词",
+        "left": 458.64844,
+        "top": 192.92802,
+        "width": 219.68779,
+        "height": 35.98236
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 88,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "关键词",
+      "bounds_pt": {
+        "id": 88,
+        "name": "Rounded Rectangle 32",
+        "type": 1,
+        "text": "关键词",
+        "left": 281.56378,
+        "top": 243.82283,
+        "width": 219.68779,
+        "height": 35.98236
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 108,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "请输入标题",
+      "bounds_pt": {
+        "id": 108,
+        "name": "Текст 13",
+        "type": 1,
+        "text": "请输入标题",
+        "left": 699.08514,
+        "top": 245.38835,
+        "width": 128.78244,
+        "height": 25.13685
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_05",
+      "shape_id": 104,
+      "shape_name": "field:item_title_05",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "请输入标题",
+      "bounds_pt": {
+        "id": 104,
+        "name": "Текст 13",
+        "type": 1,
+        "text": "请输入标题",
+        "left": 513.63513,
+        "top": 287.63834,
+        "width": 128.78244,
+        "height": 25.13685
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 110,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击输入你的正文，文字是您思想的提炼,以便理解传达的信息。",
+      "bounds_pt": {
+        "id": 110,
+        "name": "Shape 677",
+        "type": 1,
+        "text": "单击输入你的正文，文字是您思想的提炼,以便理解传达的信息。",
+        "left": 691.55,
+        "top": 274.4248,
+        "width": 143.8,
+        "height": 63.975197
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_06",
+      "shape_id": 80,
+      "shape_name": "field:item_title_06",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "关键词",
+      "bounds_pt": {
+        "id": 80,
+        "name": "Rounded Rectangle 32",
+        "type": 1,
+        "text": "关键词",
+        "left": 104.75,
+        "top": 294.71765,
+        "width": 219.68779,
+        "height": 35.98236
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 106,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击输入你的正文，文字是您思想的提炼,以便理解传达的信息。",
+      "bounds_pt": {
+        "id": 106,
+        "name": "Shape 677",
+        "type": 1,
+        "text": "单击输入你的正文，文字是您思想的提炼,以便理解传达的信息。",
+        "left": 506.1,
+        "top": 316.6748,
+        "width": 143.8,
+        "height": 63.975197
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_07",
+      "shape_id": 100,
+      "shape_name": "field:item_title_07",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "请输入标题",
+      "bounds_pt": {
+        "id": 100,
+        "name": "Текст 13",
+        "type": 1,
+        "text": "请输入标题",
+        "left": 328.13245,
+        "top": 344.73834,
+        "width": 128.78244,
+        "height": 25.13685
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_08",
+      "shape_id": 96,
+      "shape_name": "field:item_title_08",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "请输入标题",
+      "bounds_pt": {
+        "id": 96,
+        "name": "Текст 13",
+        "type": 1,
+        "text": "请输入标题",
+        "left": 150.18779,
+        "top": 386.98834,
+        "width": 128.82716,
+        "height": 25.13685
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 102,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 28,
+      "source_text": "单击输入你的正文，文字是思想的提炼,以便理解传达的信息。",
+      "bounds_pt": {
+        "id": 102,
+        "name": "Shape 677",
+        "type": 1,
+        "text": "单击输入你的正文，文字是思想的提炼,以便理解传达的信息。",
+        "left": 320.65,
+        "top": 373.7748,
+        "width": 143.8,
+        "height": 63.975197
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 98,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 28,
+      "source_text": "单击输入你的正文，文字是思想的提炼,以便理解传达的信息。",
+      "bounds_pt": {
+        "id": 98,
+        "name": "Shape 677",
+        "type": 1,
+        "text": "单击输入你的正文，文字是思想的提炼,以便理解传达的信息。",
+        "left": 142.65,
+        "top": 416.0248,
+        "width": 143.85,
+        "height": 63.975197
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [
+    {
+      "shape_id": 109,
+      "text": "4",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 105,
+      "text": "3",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 101,
+      "text": "2",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 97,
+      "text": "1",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 2,
+      "shape_name": "图片 1",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Picture 1",
+        "type": 13,
+        "text": "",
+        "left": -0.05,
+        "top": -11.25,
+        "width": 960.05,
+        "height": 540.0
+      },
+      "kind": "background",
+      "sha256": "913a94747b569f6e68d4fb8a6598c2d5f5f657601a3118460d9e37a2ac7bcbc4",
+      "replace_required": false
+    }
+  ]
+}

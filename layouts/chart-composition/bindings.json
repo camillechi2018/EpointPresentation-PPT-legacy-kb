@@ -1,0 +1,39 @@
+{
+  "layout_id": "chart-composition",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "max_chars": 24
+    },
+    {
+      "field": "subtitle",
+      "shape_id": 3,
+      "max_chars": 50
+    },
+    {
+      "field": "left_caption",
+      "shape_id": 7,
+      "max_chars": 45
+    },
+    {
+      "field": "right_caption",
+      "shape_id": 8,
+      "max_chars": 45
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 6,
+        "type": "COLUMN_STACKED (52)"
+      },
+      {
+        "shape_id": 75,
+        "type": "DOUGHNUT_EXPLODED (80)"
+      }
+    ],
+    "tables": [],
+    "images": []
+  }
+}

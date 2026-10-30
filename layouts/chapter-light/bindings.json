@@ -1,0 +1,25 @@
+{
+  "layout_id": "chapter-light",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 40,
+      "max_chars": 8
+    },
+    {
+      "field": "number",
+      "shape_id": 39,
+      "max_chars": 2
+    },
+    {
+      "field": "subtitle",
+      "shape_id": 30,
+      "max_chars": 30
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

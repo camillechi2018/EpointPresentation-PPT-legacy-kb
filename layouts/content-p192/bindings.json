@@ -1,0 +1,209 @@
+{
+  "layout_id": "content-p192",
+  "source_page": 192,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 24,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 119,
+      "source_sample_chars": 119,
+      "source_text": "单击添加正文，文字是您思想的提炼，为了最终演示发布的良好效果，请言简意赅的阐述观点。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。文字是您思想的提炼，请言简的阐述观点。\n单击此处添加正文，文字是您思想的提炼，请言简意赅阐述内容。",
+      "bounds_pt": {
+        "id": 24,
+        "name": "TextBox 23",
+        "type": 17,
+        "text": "单击添加正文，文字是您思想的提炼，为了最终演示发布的良好效果，请言简意赅的阐述观点。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。文字是您思想的提炼，请言简的阐述观点。\r单击此处添加正文，文字是您思想的提炼，请言简意赅阐述内容。",
+        "left": 362.9,
+        "top": 157.65,
+        "width": 549.05,
+        "height": 135.9
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 12,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 12,
+        "name": "Rectangle 11",
+        "type": 1,
+        "text": "添加标题",
+        "left": 360.95,
+        "top": 342.0,
+        "width": 162.1,
+        "height": 40.35
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 9,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 9,
+        "name": "Rectangle 8",
+        "type": 1,
+        "text": "添加标题",
+        "left": 556.55,
+        "top": 341.95,
+        "width": 162.1,
+        "height": 40.35
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 7,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 7,
+        "name": "Rectangle 6",
+        "type": 1,
+        "text": "添加标题",
+        "left": 752.15,
+        "top": 341.95,
+        "width": 162.1,
+        "height": 40.35
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 10,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅阐述内容。",
+      "bounds_pt": {
+        "id": 10,
+        "name": "Rectangle 9",
+        "type": 1,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅阐述内容。",
+        "left": 361.65,
+        "top": 391.25,
+        "width": 162.1,
+        "height": 99.05
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 8,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅阐述内容。",
+      "bounds_pt": {
+        "id": 8,
+        "name": "Rectangle 7",
+        "type": 1,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅阐述内容。",
+        "left": 557.15,
+        "top": 391.2,
+        "width": 162.1,
+        "height": 99.05
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 6,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅阐述内容。",
+      "bounds_pt": {
+        "id": 6,
+        "name": "Rectangle 5",
+        "type": 1,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅阐述内容。",
+        "left": 752.65,
+        "top": 391.2,
+        "width": 162.1,
+        "height": 99.05
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "field:image:4",
+        "required": true,
+        "bounds_pt": {
+          "id": 4,
+          "name": "Picture 3",
+          "type": 13,
+          "text": "",
+          "left": 49.3,
+          "top": 131.95,
+          "width": 262.85,
+          "height": 359.5
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 4,
+      "shape_name": "field:image:4",
+      "bounds_pt": {
+        "id": 4,
+        "name": "Picture 3",
+        "type": 13,
+        "text": "",
+        "left": 49.3,
+        "top": 131.95,
+        "width": 262.85,
+        "height": 359.5
+      },
+      "kind": "content-image",
+      "sha256": "51912cab15b556829e425e47b9d48db8ff9efdb2b873fdad2a6bc34439040361",
+      "replace_required": true
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "layout_id": "content-p165",
+  "source_page": 165,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 3,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "单击此处\n添加标题",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Rectangle 2",
+        "type": 1,
+        "text": "单击此处\r添加标题",
+        "left": 370.15,
+        "top": 135.72803,
+        "width": 217.25,
+        "height": 97.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 6,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 14,
+      "source_sample_chars": 14,
+      "source_text": "输入你的智能图\n形项正文内容",
+      "bounds_pt": {
+        "id": 6,
+        "name": "Rectangle 5",
+        "type": 1,
+        "text": "输入你的智能图\r形项正文内容",
+        "left": 266.0,
+        "top": 385.35,
+        "width": 144.3,
+        "height": 63.4
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 5,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 14,
+      "source_sample_chars": 14,
+      "source_text": "输入你的智能图\n形项正文内容",
+      "bounds_pt": {
+        "id": 5,
+        "name": "Rectangle 4",
+        "type": 1,
+        "text": "输入你的智能图\r形项正文内容",
+        "left": 546.2,
+        "top": 385.35,
+        "width": 144.3,
+        "height": 63.4
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 4,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 12,
+      "source_text": "输入你的智能图\n形项正文",
+      "bounds_pt": {
+        "id": 4,
+        "name": "Rectangle 3",
+        "type": 1,
+        "text": "输入你的智能图\r形项正文",
+        "left": 410.45,
+        "top": 424.9,
+        "width": 133.25,
+        "height": 63.4
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 20,
+      "shape_name": "图片 48",
+      "bounds_pt": {
+        "id": 20,
+        "name": "图片 48",
+        "type": 28,
+        "text": "",
+        "left": 328.15024,
+        "top": 330.05023,
+        "width": 25.51181,
+        "height": 25.51181
+      },
+      "kind": "template-decoration",
+      "sha256": "b8fbad7f17d4b542fd333e4a673838050caf0909e07e2fba23144ea4645e17ed",
+      "replace_required": false
+    },
+    {
+      "shape_id": 21,
+      "shape_name": "图片 49",
+      "bounds_pt": {
+        "id": 21,
+        "name": "图片 49",
+        "type": 28,
+        "text": "",
+        "left": 463.1445,
+        "top": 368.8945,
+        "width": 25.51181,
+        "height": 25.51181
+      },
+      "kind": "template-decoration",
+      "sha256": "2172d5d078bf18d7277f2b321b8bc34e466c982475f4817bcc3dbe7d50721fa2",
+      "replace_required": false
+    },
+    {
+      "shape_id": 22,
+      "shape_name": "图片 9",
+      "bounds_pt": {
+        "id": 22,
+        "name": "图片 9",
+        "type": 28,
+        "text": "",
+        "left": 604.6941,
+        "top": 330.74408,
+        "width": 25.51181,
+        "height": 25.51181
+      },
+      "kind": "template-decoration",
+      "sha256": "04f8019373b71299aa919cf727f1bc6e6a66320c11174a411edb0e4a250313e3",
+      "replace_required": false
+    }
+  ]
+}

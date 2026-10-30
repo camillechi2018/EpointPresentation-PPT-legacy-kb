@@ -1,0 +1,180 @@
+{
+  "layout_id": "content-p070",
+  "source_page": 70,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 10,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅阐述内容。",
+      "bounds_pt": {
+        "id": 10,
+        "name": "文本框 8",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅阐述内容。",
+        "left": 551.0,
+        "top": 124.65,
+        "width": 357.7,
+        "height": 94.3
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 14,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 26,
+      "source_text": "单击添加正文，文字是思想的提炼，请言简意赅阐述内容。",
+      "bounds_pt": {
+        "id": 14,
+        "name": "文本框 8",
+        "type": 17,
+        "text": "单击添加正文，文字是思想的提炼，请言简意赅阐述内容。",
+        "left": 551.0,
+        "top": 257.65,
+        "width": 357.7,
+        "height": 94.3
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 12,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅阐述内容。",
+      "bounds_pt": {
+        "id": 12,
+        "name": "文本框 8",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅阐述内容。",
+        "left": 551.0,
+        "top": 390.65,
+        "width": 357.7,
+        "height": 94.3
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 19,
+        "shape_name": "field:image:19",
+        "required": true,
+        "bounds_pt": {
+          "id": 19,
+          "name": "Picture 18",
+          "type": 13,
+          "text": "",
+          "left": 61.4,
+          "top": 132.15,
+          "width": 354.75,
+          "height": 347.3
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 19,
+      "shape_name": "field:image:19",
+      "bounds_pt": {
+        "id": 19,
+        "name": "Picture 18",
+        "type": 13,
+        "text": "",
+        "left": 61.4,
+        "top": 132.15,
+        "width": 354.75,
+        "height": 347.3
+      },
+      "kind": "content-image",
+      "sha256": "e6f5b966078a20406183abe99b589cbc5810517dfe6529657e8335b48c7755be",
+      "replace_required": true
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "图片 22",
+      "bounds_pt": {
+        "id": 6,
+        "name": "图片 22",
+        "type": 28,
+        "text": "",
+        "left": 501.1,
+        "top": 155.9,
+        "width": 31.8,
+        "height": 31.8
+      },
+      "kind": "template-decoration",
+      "sha256": "c637fa9eda160cea7c9dbc24ac8777c0d2406077a26f910e63bb52e2dfa480b5",
+      "replace_required": false
+    },
+    {
+      "shape_id": 11,
+      "shape_name": "图片 25",
+      "bounds_pt": {
+        "id": 11,
+        "name": "图片 25",
+        "type": 28,
+        "text": "",
+        "left": 501.2,
+        "top": 421.9,
+        "width": 31.6,
+        "height": 31.6
+      },
+      "kind": "template-decoration",
+      "sha256": "3b70665b328bb41583a1ae8152ed5b999f016bf845965ad6acd3b71bbd9b1c3b",
+      "replace_required": false
+    },
+    {
+      "shape_id": 13,
+      "shape_name": "图片 27",
+      "bounds_pt": {
+        "id": 13,
+        "name": "图片 27",
+        "type": 28,
+        "text": "",
+        "left": 501.1,
+        "top": 288.85,
+        "width": 31.8,
+        "height": 31.8
+      },
+      "kind": "template-decoration",
+      "sha256": "989eaec0ab647ebc320e67c0bdba8af944179d8e6ceb1c2ae830d79a27ea06f0",
+      "replace_required": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "layout_id": "theme-closing-p208",
+  "fields": [
+    {
+      "field": "subtitle",
+      "shape_id": 4,
+      "shape_name": "field:subtitle",
+      "type": "text",
+      "max_chars": 9,
+      "bounds_pt": {
+        "id": 4,
+        "path": "208/4",
+        "name": "标题",
+        "type": 14,
+        "text": "THANK YOU",
+        "left": 191.4,
+        "top": 192.2,
+        "width": 577.2,
+        "height": 93.45
+      }
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

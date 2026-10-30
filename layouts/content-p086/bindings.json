@@ -1,0 +1,184 @@
+{
+  "layout_id": "content-p086",
+  "source_page": 86,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 3,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Title 2",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 54.80315,
+        "top": 31.055511,
+        "width": 850.3937,
+        "height": 62.362206
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 57,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 53,
+      "source_sample_chars": 53,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 57,
+        "name": "Freeform 56",
+        "type": 5,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+        "left": 54.75,
+        "top": 116.22543,
+        "width": 409.2648,
+        "height": 120.43102
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 95,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 53,
+      "source_sample_chars": 53,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 95,
+        "name": "Freeform 94",
+        "type": 5,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+        "left": 495.9352,
+        "top": 116.22543,
+        "width": 409.2648,
+        "height": 120.43102
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 65,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 53,
+      "source_sample_chars": 53,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 65,
+        "name": "Freeform 64",
+        "type": 5,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+        "left": 54.75,
+        "top": 247.21442,
+        "width": 409.2648,
+        "height": 120.43102
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 99,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 53,
+      "source_sample_chars": 53,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 99,
+        "name": "Freeform 98",
+        "type": 5,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+        "left": 495.9352,
+        "top": 247.21442,
+        "width": 409.2648,
+        "height": 120.43102
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 69,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 53,
+      "source_sample_chars": 53,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 69,
+        "name": "Freeform 68",
+        "type": 5,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+        "left": 54.75,
+        "top": 378.2034,
+        "width": 409.2648,
+        "height": 120.43102
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_06",
+      "shape_id": 103,
+      "shape_name": "field:body_06",
+      "type": "text",
+      "max_chars": 53,
+      "source_sample_chars": 53,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 103,
+        "name": "Freeform 102",
+        "type": 5,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+        "left": 495.9352,
+        "top": 378.2034,
+        "width": 409.2648,
+        "height": 120.43102
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [
+    {
+      "shape_id": 54,
+      "text": "01",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 92,
+      "text": "02",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 62,
+      "text": "03",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 96,
+      "text": "04",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 66,
+      "text": "05",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 100,
+      "text": "06",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

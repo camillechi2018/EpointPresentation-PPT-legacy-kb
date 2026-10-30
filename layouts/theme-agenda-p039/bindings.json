@@ -1,0 +1,124 @@
+{
+  "layout_id": "theme-agenda-p039",
+  "fields": [
+    {
+      "field": "section_1",
+      "shape_id": 7,
+      "shape_name": "field:section_1",
+      "type": "text",
+      "max_chars": 7,
+      "bounds_pt": {
+        "id": 7,
+        "path": "39/7",
+        "name": "项标题",
+        "type": 17,
+        "text": "添加目录项标题",
+        "left": 563.59,
+        "top": 61.86362,
+        "width": 289.30606,
+        "height": 39.68504
+      },
+      "source_number": 1
+    },
+    {
+      "field": "section_2",
+      "shape_id": 2,
+      "shape_name": "field:section_2",
+      "type": "text",
+      "max_chars": 7,
+      "bounds_pt": {
+        "id": 2,
+        "path": "39/2",
+        "name": "项标题",
+        "type": 17,
+        "text": "添加目录项标题",
+        "left": 591.63,
+        "top": 136.92119,
+        "width": 289.30606,
+        "height": 39.68504
+      },
+      "source_number": 2
+    },
+    {
+      "field": "section_3",
+      "shape_id": 24,
+      "shape_name": "field:section_3",
+      "type": "text",
+      "max_chars": 7,
+      "bounds_pt": {
+        "id": 24,
+        "path": "39/24",
+        "name": "项标题",
+        "type": 17,
+        "text": "添加目录项标题",
+        "left": 604.63,
+        "top": 211.97874,
+        "width": 289.30606,
+        "height": 39.68504
+      },
+      "source_number": 3
+    },
+    {
+      "field": "section_4",
+      "shape_id": 3,
+      "shape_name": "field:section_4",
+      "type": "text",
+      "max_chars": 7,
+      "bounds_pt": {
+        "id": 3,
+        "path": "39/3",
+        "name": "项标题",
+        "type": 17,
+        "text": "添加目录项标题",
+        "left": 604.63,
+        "top": 286.6763,
+        "width": 289.30606,
+        "height": 39.68504
+      },
+      "source_number": 4
+    },
+    {
+      "field": "section_5",
+      "shape_id": 28,
+      "shape_name": "field:section_5",
+      "type": "text",
+      "max_chars": 7,
+      "bounds_pt": {
+        "id": 28,
+        "path": "39/28",
+        "name": "项标题",
+        "type": 17,
+        "text": "添加目录项标题",
+        "left": 590.3239,
+        "top": 361.73386,
+        "width": 289.30606,
+        "height": 39.68504
+      },
+      "source_number": 5
+    },
+    {
+      "field": "section_6",
+      "shape_id": 8,
+      "shape_name": "field:section_6",
+      "type": "text",
+      "max_chars": 7,
+      "bounds_pt": {
+        "id": 8,
+        "path": "39/8",
+        "name": "项标题",
+        "type": 17,
+        "text": "添加目录项标题",
+        "left": 560.241,
+        "top": 436.79135,
+        "width": 289.30606,
+        "height": 39.68504
+      },
+      "source_number": 6
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "layout_id": "content-p125",
+  "source_page": 125,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 31,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 31,
+        "name": "任意多边形: 形状 27",
+        "type": 5,
+        "text": "添加标题",
+        "left": 416.79645,
+        "top": 136.10512,
+        "width": 126.03425,
+        "height": 126.03425
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 18,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 18,
+        "name": "TextBox 17",
+        "type": 17,
+        "text": "添加项标题",
+        "left": 146.73111,
+        "top": 222.10355,
+        "width": 121.49307,
+        "height": 29.08126
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 26,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 26,
+        "name": "TextBox 25",
+        "type": 17,
+        "text": "添加项标题",
+        "left": 679.791,
+        "top": 222.10355,
+        "width": 121.49307,
+        "height": 29.08126
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 19,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 31,
+      "source_sample_chars": 31,
+      "source_text": "单击此处添加文本内容，简明扼要地阐述观点。根据需要可酌增减文字",
+      "bounds_pt": {
+        "id": 19,
+        "name": "TextBox 18",
+        "type": 17,
+        "text": "单击此处添加文本内容，简明扼要地阐述观点。根据需要可酌增减文字",
+        "left": 96.707405,
+        "top": 250.59157,
+        "width": 171.51677,
+        "height": 63.19819
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 27,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 31,
+      "source_sample_chars": 31,
+      "source_text": "单击此处添加文本内容，简明扼要地阐述观点。根据需要可酌增减文字",
+      "bounds_pt": {
+        "id": 27,
+        "name": "TextBox 26",
+        "type": 17,
+        "text": "单击此处添加文本内容，简明扼要地阐述观点。根据需要可酌增减文字",
+        "left": 679.791,
+        "top": 250.59157,
+        "width": 171.51677,
+        "height": 63.19819
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 16,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 16,
+        "name": "TextBox 15",
+        "type": 17,
+        "text": "添加项标题",
+        "left": 229.62898,
+        "top": 343.5027,
+        "width": 122.65,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_05",
+      "shape_id": 24,
+      "shape_name": "field:item_title_05",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 24,
+        "name": "TextBox 23",
+        "type": 17,
+        "text": "添加项标题",
+        "left": 607.721,
+        "top": 343.5027,
+        "width": 122.65,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 17,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 31,
+      "source_sample_chars": 31,
+      "source_text": "单击此处添加文本内容，简明扼要地阐述观点。根据需要可酌增减文字",
+      "bounds_pt": {
+        "id": 17,
+        "name": "TextBox 16",
+        "type": 17,
+        "text": "单击此处添加文本内容，简明扼要地阐述观点。根据需要可酌增减文字",
+        "left": 179.12898,
+        "top": 373.09125,
+        "width": 173.15,
+        "height": 63.8
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 25,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 31,
+      "source_sample_chars": 31,
+      "source_text": "单击此处添加文本内容，简明扼要地阐述观点。根据需要可酌增减文字",
+      "bounds_pt": {
+        "id": 25,
+        "name": "TextBox 24",
+        "type": 17,
+        "text": "单击此处添加文本内容，简明扼要地阐述观点。根据需要可酌增减文字",
+        "left": 607.721,
+        "top": 373.09125,
+        "width": 173.15,
+        "height": 63.8
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_06",
+      "shape_id": 20,
+      "shape_name": "field:item_title_06",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 20,
+        "name": "TextBox 19",
+        "type": 17,
+        "text": "添加项标题",
+        "left": 418.8788,
+        "top": 409.24622,
+        "width": 122.65,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 21,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 31,
+      "source_sample_chars": 31,
+      "source_text": "单击此处添加文本内容，简明扼要地阐述观点。根据需要可酌增减文字",
+      "bounds_pt": {
+        "id": 21,
+        "name": "TextBox 20",
+        "type": 17,
+        "text": "单击此处添加文本内容，简明扼要地阐述观点。根据需要可酌增减文字",
+        "left": 393.6288,
+        "top": 438.2488,
+        "width": 173.15,
+        "height": 63.8
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 28,
+      "shape_name": "图片 11",
+      "bounds_pt": {
+        "id": 28,
+        "name": "图片 11",
+        "type": 28,
+        "text": "",
+        "left": 327.5414,
+        "top": 232.30457,
+        "width": 25.51181,
+        "height": 25.51181
+      },
+      "kind": "template-decoration",
+      "sha256": "50c22b6737087041f90eb2396e0cc073365afabb874a2e2fef7858d4a61ce841",
+      "replace_required": false
+    },
+    {
+      "shape_id": 32,
+      "shape_name": "图片 15",
+      "bounds_pt": {
+        "id": 32,
+        "name": "图片 15",
+        "type": 28,
+        "text": "",
+        "left": 381.40686,
+        "top": 305.39008,
+        "width": 24.094488,
+        "height": 24.094488
+      },
+      "kind": "template-decoration",
+      "sha256": "66d92b7e29154bf769bf429c9ccc4638a5da10f24a16fe9e74732e94336af863",
+      "replace_required": false
+    },
+    {
+      "shape_id": 33,
+      "shape_name": "图片 16",
+      "bounds_pt": {
+        "id": 33,
+        "name": "图片 16",
+        "type": 28,
+        "text": "",
+        "left": 467.28873,
+        "top": 333.78976,
+        "width": 25.51181,
+        "height": 25.51181
+      },
+      "kind": "template-decoration",
+      "sha256": "38e3cbe4dd538be1ea815b4525db3a13e0a6a8fbe08be0937442c5ca9ee7cdc1",
+      "replace_required": false
+    },
+    {
+      "shape_id": 34,
+      "shape_name": "图片 3",
+      "bounds_pt": {
+        "id": 34,
+        "name": "图片 3",
+        "type": 28,
+        "text": "",
+        "left": 553.9147,
+        "top": 305.54016,
+        "width": 25.51181,
+        "height": 25.51181
+      },
+      "kind": "template-decoration",
+      "sha256": "0b0dea08cdb24d71ef0fbe059fcfaa2230ab65776823ed48b6878e7589e10a98",
+      "replace_required": false
+    },
+    {
+      "shape_id": 35,
+      "shape_name": "图片 27",
+      "bounds_pt": {
+        "id": 35,
+        "name": "图片 27",
+        "type": 28,
+        "text": "",
+        "left": 610.931,
+        "top": 234.3229,
+        "width": 25.51181,
+        "height": 25.51181
+      },
+      "kind": "template-decoration",
+      "sha256": "e6721dc491cf44ae8def6f5725bc3e0ae755c38f6286639da1d410d1d0f3c83a",
+      "replace_required": false
+    }
+  ]
+}

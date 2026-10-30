@@ -1,0 +1,233 @@
+{
+  "layout_id": "content-p124",
+  "source_page": 124,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "工作中的不足和解决方案",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "工作中的不足和解决方案",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "label_01",
+      "shape_id": 4,
+      "shape_name": "field:label_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "不足之处",
+      "bounds_pt": {
+        "id": 4,
+        "name": "圆角矩形 3",
+        "type": 1,
+        "text": "不足之处",
+        "left": 58.2,
+        "top": 144.05,
+        "width": 237.05,
+        "height": 41.45
+      },
+      "semantic_role": "label"
+    },
+    {
+      "field": "label_02",
+      "shape_id": 40,
+      "shape_name": "field:label_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "解决方案",
+      "bounds_pt": {
+        "id": 40,
+        "name": "圆角矩形 39",
+        "type": 1,
+        "text": "解决方案",
+        "left": 664.75,
+        "top": 144.05,
+        "width": 237.05,
+        "height": 41.45
+      },
+      "semantic_role": "label"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 20,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 24,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点",
+      "bounds_pt": {
+        "id": 20,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点",
+        "left": 81.4,
+        "top": 217.75,
+        "width": 234.2,
+        "height": 54.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 33,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 21,
+      "source_sample_chars": 21,
+      "source_text": "单击此处添加文本内，简明扼要地阐述您的观点",
+      "bounds_pt": {
+        "id": 33,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本内，简明扼要地阐述您的观点",
+        "left": 653.9,
+        "top": 217.75,
+        "width": 234.2,
+        "height": 54.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "label_03",
+      "shape_id": 3,
+      "shape_name": "field:label_03",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "问题",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Oval 2",
+        "type": 1,
+        "text": "问题",
+        "left": 345.6,
+        "top": 245.65,
+        "width": 134.85,
+        "height": 134.85
+      },
+      "semantic_role": "label"
+    },
+    {
+      "field": "label_04",
+      "shape_id": 5,
+      "shape_name": "field:label_04",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "解决",
+      "bounds_pt": {
+        "id": 5,
+        "name": "Oval 4",
+        "type": 1,
+        "text": "解决",
+        "left": 479.65,
+        "top": 245.65,
+        "width": 134.85,
+        "height": 134.85
+      },
+      "semantic_role": "label"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 23,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 23,
+      "source_sample_chars": 23,
+      "source_text": "简明扼要地阐述您的观点。根据需要可酌情增减文字",
+      "bounds_pt": {
+        "id": 23,
+        "name": "正文",
+        "type": 17,
+        "text": "简明扼要地阐述您的观点。根据需要可酌情增减文字",
+        "left": 81.4,
+        "top": 310.85,
+        "width": 234.2,
+        "height": 54.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 35,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 22,
+      "source_sample_chars": 22,
+      "source_text": "单击此处添加文本内容，简明扼要地阐述您的观点",
+      "bounds_pt": {
+        "id": 35,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本内容，简明扼要地阐述您的观点",
+        "left": 653.9,
+        "top": 310.85,
+        "width": 234.2,
+        "height": 54.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 24,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 20,
+      "source_sample_chars": 20,
+      "source_text": "单击此处添加文本，简明扼要地阐述您的观点",
+      "bounds_pt": {
+        "id": 24,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本，简明扼要地阐述您的观点",
+        "left": 81.4,
+        "top": 403.95,
+        "width": 234.2,
+        "height": 54.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_06",
+      "shape_id": 36,
+      "shape_name": "field:body_06",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 24,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点",
+      "bounds_pt": {
+        "id": 36,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点",
+        "left": 653.9,
+        "top": 403.95,
+        "width": 234.2,
+        "height": 54.1
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

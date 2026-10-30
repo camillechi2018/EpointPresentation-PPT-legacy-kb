@@ -1,0 +1,113 @@
+{
+  "layout_id": "content-p080",
+  "source_page": 80,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 36,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 36,
+        "name": "圆角矩形 35",
+        "type": 1,
+        "text": "添加标题",
+        "left": 54.74992,
+        "top": 164.22496,
+        "width": 252.88638,
+        "height": 86.6
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 5,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 81,
+      "source_sample_chars": 81,
+      "source_text": "单击此处输入你的项正文内容，文字是您思想的提炼，请尽量言简意赅的阐述观点,单击输入你的项正文，文字是您思想的提炼，请言简意赅的阐述观点，单击此处输入你的项正文内容",
+      "bounds_pt": {
+        "id": 5,
+        "name": "Rectangle 4",
+        "type": 1,
+        "text": "单击此处输入你的项正文内容，文字是您思想的提炼，请尽量言简意赅的阐述观点,单击输入你的项正文，文字是您思想的提炼，请言简意赅的阐述观点，单击此处输入你的项正文内容",
+        "left": 326.7,
+        "top": 156.35,
+        "width": 539.25,
+        "height": 102.35
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 4,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 4,
+        "name": "圆角矩形 35",
+        "type": 1,
+        "text": "添加标题",
+        "left": 54.74992,
+        "top": 368.37497,
+        "width": 252.88638,
+        "height": 86.6
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 6,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 77,
+      "source_sample_chars": 77,
+      "source_text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点,单击输入你的项正文，文字是您思想的提炼，请言简意赅的阐述观点，单击此处输入你的项正文",
+      "bounds_pt": {
+        "id": 6,
+        "name": "Rectangle 5",
+        "type": 1,
+        "text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点,单击输入你的项正文，文字是您思想的提炼，请言简意赅的阐述观点，单击此处输入你的项正文",
+        "left": 326.7,
+        "top": 360.5,
+        "width": 539.25,
+        "height": 102.35
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

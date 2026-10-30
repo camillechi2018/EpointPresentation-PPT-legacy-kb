@@ -1,0 +1,85 @@
+{
+  "layout_id": "content-p151",
+  "source_page": 151,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 10,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "单击此处添加项标题",
+      "bounds_pt": {
+        "id": 10,
+        "name": "标题",
+        "type": 17,
+        "text": "单击此处添加项标题",
+        "left": 85.85,
+        "top": 413.15,
+        "width": 769.6,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 3,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 90,
+      "source_text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点，单击此处输入你的项正文，文字是您思想的提炼请尽量言简意赅的阐述观点，单击此处输入你的项正文，文字是您思想的提炼",
+      "bounds_pt": {
+        "id": 3,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点，单击此处输入你的项正文，文字是您思想的提炼请尽量言简意赅的阐述观点，单击此处输入你的项正文，文字是您思想的提炼",
+        "left": 85.85,
+        "top": 446.2,
+        "width": 769.6,
+        "height": 56.75
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 6,
+        "type": "COLUMN_CLUSTERED (51)",
+        "plot_types": [
+          "BarPlot",
+          "LinePlot"
+        ],
+        "categories_max": 10,
+        "series_max": 2,
+        "requires_real_data": true
+      }
+    ],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

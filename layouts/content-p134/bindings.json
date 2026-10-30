@@ -1,0 +1,205 @@
+{
+  "layout_id": "content-p134",
+  "source_page": 134,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 34,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "单击此处添加\n标题内容",
+      "bounds_pt": {
+        "id": 34,
+        "name": "标题 1",
+        "type": 14,
+        "text": "单击此处添加\r标题内容",
+        "left": 71.45,
+        "top": 30.7,
+        "width": 271.45,
+        "height": 151.25
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "value_01",
+      "shape_id": 69,
+      "shape_name": "field:value_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 69,
+        "name": "Rectangle 68",
+        "type": 1,
+        "text": "20XX",
+        "left": 345.48102,
+        "top": 108.07614,
+        "width": 91.230705,
+        "height": 45.546535
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 68,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 64,
+      "source_text": "单击此处添加文本具体内容，文字是您思想的提炼，简明扼要地阐述您的观点根据需要可酌情增减文字，以便观者能够准确地理解您所传达的思想",
+      "bounds_pt": {
+        "id": 68,
+        "name": "TextBox 67",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，文字是您思想的提炼，简明扼要地阐述您的观点根据需要可酌情增减文字，以便观者能够准确地理解您所传达的思想",
+        "left": 462.92166,
+        "top": 108.312126,
+        "width": 195.7259,
+        "height": 113.385826
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "value_02",
+      "shape_id": 71,
+      "shape_name": "field:value_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 71,
+        "name": "Rectangle 70",
+        "type": 1,
+        "text": "20XX",
+        "left": 234.83897,
+        "top": 234.70189,
+        "width": 91.230705,
+        "height": 45.546535
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 70,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 56,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的内容观点根据需要可酌情增减文字，以便观者能够准确地理解您所传达的思想",
+      "bounds_pt": {
+        "id": 70,
+        "name": "TextBox 69",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的内容观点根据需要可酌情增减文字，以便观者能够准确地理解您所传达的思想",
+        "left": 350.4796,
+        "top": 235.0026,
+        "width": 195.7259,
+        "height": 113.385826
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "value_03",
+      "shape_id": 73,
+      "shape_name": "field:value_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 73,
+        "name": "Rectangle 72",
+        "type": 1,
+        "text": "20XX",
+        "left": 118.55323,
+        "top": 358.40402,
+        "width": 91.230705,
+        "height": 45.546535
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 72,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 64,
+      "source_text": "单击此处添加文本具体内容，文字是您思想的提炼，简明扼要地阐述您的观点根据需要可酌情增减文字，以便观者能够准确地理解您所传达的思想",
+      "bounds_pt": {
+        "id": 72,
+        "name": "TextBox 71",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，文字是您思想的提炼，简明扼要地阐述您的观点根据需要可酌情增减文字，以便观者能够准确地理解您所传达的思想",
+        "left": 235.99385,
+        "top": 358.98535,
+        "width": 195.7259,
+        "height": 113.385826
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 28,
+      "shape_name": "图片 12",
+      "bounds_pt": {
+        "id": 28,
+        "name": "图片 12",
+        "type": 28,
+        "text": "",
+        "left": 546.0883,
+        "top": 398.4277,
+        "width": 36.850395,
+        "height": 36.850395
+      },
+      "kind": "template-decoration",
+      "sha256": "121b64944277f52c848bd2651cdf4ef4b14fc7771b166338c01a34aabd4fee41",
+      "replace_required": false
+    },
+    {
+      "shape_id": 29,
+      "shape_name": "图片 19",
+      "bounds_pt": {
+        "id": 29,
+        "name": "图片 19",
+        "type": 28,
+        "text": "",
+        "left": 653.15686,
+        "top": 281.97253,
+        "width": 36.850395,
+        "height": 36.850395
+      },
+      "kind": "template-decoration",
+      "sha256": "3a9ef31e68767fc5ff652031cb0ea392b74449fc2bb06ab38bf0de55b5e6558f",
+      "replace_required": false
+    },
+    {
+      "shape_id": 30,
+      "shape_name": "图片 5",
+      "bounds_pt": {
+        "id": 30,
+        "name": "图片 5",
+        "type": 28,
+        "text": "",
+        "left": 760.1599,
+        "top": 165.5174,
+        "width": 36.850395,
+        "height": 36.850395
+      },
+      "kind": "template-decoration",
+      "sha256": "41d5751a59707bf8f059f54146bcd27b8b88f2cc76c358d604366160d5b3ef9d",
+      "replace_required": false
+    }
+  ]
+}

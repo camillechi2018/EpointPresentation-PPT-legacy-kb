@@ -1,0 +1,1 @@
+{"texts": {"title": "页面标题", "item_title_01": "要点", "body_01": "正文内容"}, "charts": [{"shape_id": 13, "categories": ["测试分类1", "测试分类2", "测试分类3", "测试分类4", "测试分类5"], "series": [{"name": "测试系列1", "values": [1.0, 2.0, 3.0, 4.0, 5.0]}], "unit": "测试单位", "period": "内部验证", "title": "内部验证"}], "tables": [], "images": []}

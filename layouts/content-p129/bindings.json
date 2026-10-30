@@ -1,0 +1,753 @@
+{
+  "layout_id": "content-p129",
+  "source_page": 129,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 45,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 45,
+        "name": "TextBox 44",
+        "type": 17,
+        "text": "单击此处输入您的正文",
+        "left": 77.12134,
+        "top": 161.60307,
+        "width": 181.6533,
+        "height": 24.094488
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 46,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 46,
+        "name": "Rounded Rectangle 45",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 268.82693,
+        "top": 161.53314,
+        "width": 88.82866,
+        "height": 24.23441
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "value_01",
+      "shape_id": 85,
+      "shape_name": "field:value_01",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "1月",
+      "bounds_pt": {
+        "id": 85,
+        "name": "Freeform 84",
+        "type": 5,
+        "text": "1月",
+        "left": 372.94434,
+        "top": 162.53503,
+        "width": 57.374252,
+        "height": 20.75
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "value_02",
+      "shape_id": 82,
+      "shape_name": "field:value_02",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "12月",
+      "bounds_pt": {
+        "id": 82,
+        "name": "Freeform 81",
+        "type": 5,
+        "text": "12月",
+        "left": 530.8015,
+        "top": 162.53503,
+        "width": 57.374252,
+        "height": 20.75
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 106,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 106,
+        "name": "Rounded Rectangle 105",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 601.8278,
+        "top": 161.53314,
+        "width": 88.82866,
+        "height": 24.23441
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 105,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 105,
+        "name": "TextBox 104",
+        "type": 17,
+        "text": "单击此处输入您的正文",
+        "left": 699.3795,
+        "top": 161.60307,
+        "width": 181.6533,
+        "height": 24.094488
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 70,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 70,
+        "name": "TextBox 69",
+        "type": 17,
+        "text": "单击此处输入您的正文",
+        "left": 77.12134,
+        "top": 211.3648,
+        "width": 181.6533,
+        "height": 24.094488
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 72,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 72,
+        "name": "Rounded Rectangle 71",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 268.82693,
+        "top": 211.29488,
+        "width": 88.82866,
+        "height": 24.23441
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "value_03",
+      "shape_id": 6,
+      "shape_name": "field:value_03",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "2月",
+      "bounds_pt": {
+        "id": 6,
+        "name": "Freeform 5",
+        "type": 5,
+        "text": "2月",
+        "left": 371.99362,
+        "top": 211.5744,
+        "width": 57.374252,
+        "height": 20.75
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "value_04",
+      "shape_id": 73,
+      "shape_name": "field:value_04",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "11月",
+      "bounds_pt": {
+        "id": 73,
+        "name": "Freeform 72",
+        "type": 5,
+        "text": "11月",
+        "left": 529.85077,
+        "top": 212.17992,
+        "width": 57.374252,
+        "height": 20.75
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 108,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 108,
+        "name": "Rounded Rectangle 107",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 601.8278,
+        "top": 211.29488,
+        "width": 88.82866,
+        "height": 24.23441
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 107,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 107,
+        "name": "TextBox 106",
+        "type": 17,
+        "text": "单击此处输入您的正文",
+        "left": 699.3795,
+        "top": 211.3648,
+        "width": 181.6533,
+        "height": 24.094488
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 91,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 91,
+        "name": "TextBox 90",
+        "type": 17,
+        "text": "单击此处输入您的正文",
+        "left": 77.12134,
+        "top": 260.33237,
+        "width": 181.6533,
+        "height": 24.094488
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_05",
+      "shape_id": 92,
+      "shape_name": "field:item_title_05",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 92,
+        "name": "Rounded Rectangle 91",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 268.82693,
+        "top": 260.26245,
+        "width": 88.82866,
+        "height": 24.23441
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "value_05",
+      "shape_id": 13,
+      "shape_name": "field:value_05",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "3月",
+      "bounds_pt": {
+        "id": 13,
+        "name": "Freeform 12",
+        "type": 5,
+        "text": "3月",
+        "left": 371.54474,
+        "top": 261.67252,
+        "width": 57.374252,
+        "height": 20.75
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "value_06",
+      "shape_id": 63,
+      "shape_name": "field:value_06",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "10月",
+      "bounds_pt": {
+        "id": 63,
+        "name": "Freeform 62",
+        "type": 5,
+        "text": "10月",
+        "left": 529.4019,
+        "top": 262.01007,
+        "width": 57.374252,
+        "height": 20.75
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "item_title_06",
+      "shape_id": 110,
+      "shape_name": "field:item_title_06",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 110,
+        "name": "Rounded Rectangle 109",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 601.8278,
+        "top": 260.26245,
+        "width": 88.82866,
+        "height": 24.23441
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_06",
+      "shape_id": 109,
+      "shape_name": "field:body_06",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 109,
+        "name": "TextBox 108",
+        "type": 17,
+        "text": "单击此处输入您的正文",
+        "left": 699.3795,
+        "top": 260.33237,
+        "width": 181.6533,
+        "height": 24.094488
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_07",
+      "shape_id": 93,
+      "shape_name": "field:body_07",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 93,
+        "name": "TextBox 92",
+        "type": 17,
+        "text": "单击此处输入您的正文",
+        "left": 77.12134,
+        "top": 310.19702,
+        "width": 181.6533,
+        "height": 24.094488
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_07",
+      "shape_id": 94,
+      "shape_name": "field:item_title_07",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 94,
+        "name": "Rounded Rectangle 93",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 268.82693,
+        "top": 310.12708,
+        "width": 88.82866,
+        "height": 24.23441
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "value_07",
+      "shape_id": 2,
+      "shape_name": "field:value_07",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "4月",
+      "bounds_pt": {
+        "id": 2,
+        "name": "任意多边形: 形状 16",
+        "type": 5,
+        "text": "4月",
+        "left": 371.54474,
+        "top": 311.04102,
+        "width": 57.374252,
+        "height": 20.75
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "value_08",
+      "shape_id": 54,
+      "shape_name": "field:value_08",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "9月",
+      "bounds_pt": {
+        "id": 54,
+        "name": "Freeform 53",
+        "type": 5,
+        "text": "9月",
+        "left": 529.4019,
+        "top": 311.36984,
+        "width": 57.374252,
+        "height": 20.75
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "item_title_08",
+      "shape_id": 112,
+      "shape_name": "field:item_title_08",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 112,
+        "name": "Rounded Rectangle 111",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 601.8278,
+        "top": 310.12708,
+        "width": 88.82866,
+        "height": 24.23441
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_08",
+      "shape_id": 111,
+      "shape_name": "field:body_08",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 111,
+        "name": "TextBox 110",
+        "type": 17,
+        "text": "单击此处输入您的正文",
+        "left": 699.3795,
+        "top": 310.19702,
+        "width": 181.6533,
+        "height": 24.094488
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_09",
+      "shape_id": 95,
+      "shape_name": "field:body_09",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 95,
+        "name": "TextBox 94",
+        "type": 17,
+        "text": "单击此处输入您的正文",
+        "left": 77.12134,
+        "top": 359.45874,
+        "width": 181.6533,
+        "height": 24.094488
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_09",
+      "shape_id": 96,
+      "shape_name": "field:item_title_09",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 96,
+        "name": "Rounded Rectangle 95",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 268.82693,
+        "top": 359.38882,
+        "width": 88.82866,
+        "height": 24.23441
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "value_09",
+      "shape_id": 27,
+      "shape_name": "field:value_09",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "5月",
+      "bounds_pt": {
+        "id": 27,
+        "name": "Freeform 26",
+        "type": 5,
+        "text": "5月",
+        "left": 371.54474,
+        "top": 360.40952,
+        "width": 57.374252,
+        "height": 20.75
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "value_10",
+      "shape_id": 51,
+      "shape_name": "field:value_10",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "8月",
+      "bounds_pt": {
+        "id": 51,
+        "name": "Freeform 50",
+        "type": 5,
+        "text": "8月",
+        "left": 529.4019,
+        "top": 360.7296,
+        "width": 57.374252,
+        "height": 20.75
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "item_title_10",
+      "shape_id": 114,
+      "shape_name": "field:item_title_10",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 114,
+        "name": "Rounded Rectangle 113",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 601.8278,
+        "top": 359.38882,
+        "width": 88.82866,
+        "height": 24.23441
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_10",
+      "shape_id": 113,
+      "shape_name": "field:body_10",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 113,
+        "name": "TextBox 112",
+        "type": 17,
+        "text": "单击此处输入您的正文",
+        "left": 699.3795,
+        "top": 359.45874,
+        "width": 181.6533,
+        "height": 24.094488
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_11",
+      "shape_id": 97,
+      "shape_name": "field:body_11",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 97,
+        "name": "TextBox 96",
+        "type": 17,
+        "text": "单击此处输入您的正文",
+        "left": 77.12134,
+        "top": 408.42615,
+        "width": 181.6533,
+        "height": 24.094488
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_11",
+      "shape_id": 98,
+      "shape_name": "field:item_title_11",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 98,
+        "name": "Rounded Rectangle 97",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 268.82693,
+        "top": 408.35623,
+        "width": 88.82866,
+        "height": 24.23441
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "value_11",
+      "shape_id": 33,
+      "shape_name": "field:value_11",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "6月",
+      "bounds_pt": {
+        "id": 33,
+        "name": "Freeform 32",
+        "type": 5,
+        "text": "6月",
+        "left": 372.10583,
+        "top": 409.7782,
+        "width": 57.374252,
+        "height": 20.75
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "item_title_12",
+      "shape_id": 116,
+      "shape_name": "field:item_title_12",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 116,
+        "name": "Rounded Rectangle 115",
+        "type": 1,
+        "text": "添加项标题",
+        "left": 601.8278,
+        "top": 408.35623,
+        "width": 88.82866,
+        "height": 24.23441
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_12",
+      "shape_id": 115,
+      "shape_name": "field:body_12",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 115,
+        "name": "TextBox 114",
+        "type": 17,
+        "text": "单击此处输入您的正文",
+        "left": 699.3795,
+        "top": 408.42615,
+        "width": 181.6533,
+        "height": 24.094488
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "value_12",
+      "shape_id": 48,
+      "shape_name": "field:value_12",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "7月",
+      "bounds_pt": {
+        "id": 48,
+        "name": "Freeform 47",
+        "type": 5,
+        "text": "7月",
+        "left": 530.263,
+        "top": 410.0893,
+        "width": 57.374252,
+        "height": 20.75
+      },
+      "semantic_role": "value"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

@@ -1,0 +1,108 @@
+{
+  "layout_id": "content-p133",
+  "source_page": 133,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 12,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 19,
+      "source_sample_chars": 19,
+      "source_text": "单击此处添加文本请\n言简意赅的阐述观点",
+      "bounds_pt": {
+        "id": 12,
+        "name": "Rectangle 11",
+        "type": 1,
+        "text": "单击此处添加文本请\r言简意赅的阐述观点",
+        "left": 165.45,
+        "top": 264.3,
+        "width": 242.05,
+        "height": 73.0
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 13,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 19,
+      "source_sample_chars": 19,
+      "source_text": "单击此处添加文本请\n言简意赅的阐述观点",
+      "bounds_pt": {
+        "id": 13,
+        "name": "Rectangle 12",
+        "type": 1,
+        "text": "单击此处添加文本请\r言简意赅的阐述观点",
+        "left": 542.9,
+        "top": 263.9,
+        "width": 242.05,
+        "height": 73.0
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 8,
+      "shape_name": "图片 13",
+      "bounds_pt": {
+        "id": 8,
+        "name": "图片 13",
+        "type": 28,
+        "text": "",
+        "left": 94.74102,
+        "top": 196.98677,
+        "width": 24.762676,
+        "height": 24.762676
+      },
+      "kind": "template-decoration",
+      "sha256": "16760dce8ff24b0d56cda5d25bce185cab0b852378c2bd91505ad75a32a71732",
+      "replace_required": false
+    },
+    {
+      "shape_id": 7,
+      "shape_name": "图片 3",
+      "bounds_pt": {
+        "id": 7,
+        "name": "图片 3",
+        "type": 28,
+        "text": "",
+        "left": 841.85474,
+        "top": 198.13078,
+        "width": 24.762676,
+        "height": 24.762676
+      },
+      "kind": "template-decoration",
+      "sha256": "0e071633ea35e64ce6177564a4295b9be469e1ea42a604a0145a9e9f42213b70",
+      "replace_required": false
+    }
+  ]
+}

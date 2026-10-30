@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "skill_version": "0.8.0",
+  "layout_id": null,
+  "status": "prepared",
+  "image_generated": false,
+  "deck_id": "v0.8-theme-smoke",
+  "role": "cover",
+  "style_id": "teal-example",
+  "family_id": "teal-example-5713bff79d80",
+  "family_contract": {
+    "style_id": "teal-example",
+    "palette": [
+      "#087F83",
+      "#A7DCDD",
+      "#F2FAFA",
+      "#FFFFFF"
+    ],
+    "motif": "轻盈的几何弧面与有序空间"
+  },
+  "aspect_ratio": "16:9",
+  "text_safe_areas": [
+    [
+      0.04,
+      0.14,
+      0.69,
+      0.56
+    ]
+  ],
+  "subject_area": [
+    0.76,
+    0.12,
+    0.22,
+    0.72
+  ],
+  "text_color": "dark",
+  "background_color": "#FFFFFF",
+  "tool_request": {
+    "prompt": "Use case: productivity-visual\nAsset type: 企业演示文稿背景\nPrimary request: 为主题《企业创新实践》制作一张封面背景，仅绘制视觉背景。\nContext: 行业为企业汇报；本次希望表达的视觉意象为抽象的有序空间与几何层次。这些信息仅用于构图，不是画面文字。\nStyle/medium: 沿用原模板的几何层次和留白，使用青绿色系示例配色。\nColor palette: #087F83、#A7DCDD、#F2FAFA、#FFFFFF\nVisual family: 整套使用相同的轻盈的几何弧面与有序空间，保持一致的材质、光线、色温和细节密度。\nComposition: 16:9 横向画面；建立主题主视觉。主体建议位于归一化区域[0.76, 0.12, 0.22, 0.72]。\nText-safe regions: [[0.04, 0.14, 0.69, 0.56]]。区域格式为[x,y,width,height]，左上为原点，各值相对于整张图。预留区保持低细节、低对比、明度稳定，不出现主体、强光边缘或纹理交叉。\nContrast: 文字将使用深色，留白区保持浅色且明度稳定。\nText: 无。不要生成标题、字母、数字、Logo、水印、二维码、伪造界面、图表数值或认证标志。\nConstraints: 保持企业汇报所需的清晰度与克制感，不依靠密集装饰填满画面；不要把概念图冒充真实客户项目、产品截图或经营证据。\n\n页面职责：封面。用一个清楚的视觉中心建立主题，主体与标题预留区分开。视觉表现可以较强，但不在左侧标题区堆叠图形。避免把行业主题机械画成芯片、机器人或城市天际线；只使用本次视觉意象中实际需要的元素。",
+    "transparent_background": false
+  },
+  "generation_tool": null,
+  "actual_image": null,
+  "visual_qa": "not_run"
+}

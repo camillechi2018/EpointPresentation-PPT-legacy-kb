@@ -1,0 +1,162 @@
+{
+  "layout_id": "theme-agenda-p016",
+  "fields": [
+    {
+      "field": "section_1",
+      "shape_id": 60,
+      "shape_name": "field:section_1",
+      "type": "text",
+      "max_chars": 4,
+      "bounds_pt": {
+        "id": 60,
+        "path": "16/138/60",
+        "name": "TextBox 59",
+        "type": 17,
+        "text": "课程提纲",
+        "left": 26.35,
+        "top": 333.45,
+        "width": 221.2,
+        "height": 41.1
+      },
+      "source_number": 1
+    },
+    {
+      "field": "section_2",
+      "shape_id": 143,
+      "shape_name": "field:section_2",
+      "type": "text",
+      "max_chars": 4,
+      "bounds_pt": {
+        "id": 143,
+        "path": "16/141/143",
+        "name": "TextBox 142",
+        "type": 17,
+        "text": "沟通定义",
+        "left": 259.75,
+        "top": 333.45,
+        "width": 221.2,
+        "height": 41.1
+      },
+      "source_number": 2
+    },
+    {
+      "field": "section_3",
+      "shape_id": 151,
+      "shape_name": "field:section_3",
+      "type": "text",
+      "max_chars": 4,
+      "bounds_pt": {
+        "id": 151,
+        "path": "16/149/151",
+        "name": "TextBox 150",
+        "type": 17,
+        "text": "沟通技巧",
+        "left": 490.75,
+        "top": 333.45,
+        "width": 221.2,
+        "height": 41.1
+      },
+      "source_number": 3
+    },
+    {
+      "field": "section_4",
+      "shape_id": 159,
+      "shape_name": "field:section_4",
+      "type": "text",
+      "max_chars": 4,
+      "bounds_pt": {
+        "id": 159,
+        "path": "16/157/159",
+        "name": "TextBox 158",
+        "type": 17,
+        "text": "提升沟通",
+        "left": 717.55,
+        "top": 333.45,
+        "width": 221.2,
+        "height": 41.1
+      },
+      "source_number": 4
+    },
+    {
+      "field": "section_5",
+      "shape_id": 61,
+      "shape_name": "field:section_5",
+      "type": "text",
+      "max_chars": 14,
+      "bounds_pt": {
+        "id": 61,
+        "path": "16/138/61",
+        "name": "TextBox 60",
+        "type": 17,
+        "text": "COURSE OUTLINE",
+        "left": 26.35,
+        "top": 366.3,
+        "width": 221.2,
+        "height": 29.0
+      },
+      "source_number": 1
+    },
+    {
+      "field": "section_6",
+      "shape_id": 144,
+      "shape_name": "field:section_6",
+      "type": "text",
+      "max_chars": 24,
+      "bounds_pt": {
+        "id": 144,
+        "path": "16/141/144",
+        "name": "TextBox 143",
+        "type": 17,
+        "text": "COMMUNICATION DEFINITION",
+        "left": 259.75,
+        "top": 366.3,
+        "width": 221.2,
+        "height": 29.0
+      },
+      "source_number": 2
+    },
+    {
+      "field": "section_7",
+      "shape_id": 152,
+      "shape_name": "field:section_7",
+      "type": "text",
+      "max_chars": 20,
+      "bounds_pt": {
+        "id": 152,
+        "path": "16/149/152",
+        "name": "TextBox 151",
+        "type": 17,
+        "text": "COMMUNICATION SKILLS",
+        "left": 490.75,
+        "top": 366.3,
+        "width": 221.2,
+        "height": 29.0
+      },
+      "source_number": 3
+    },
+    {
+      "field": "section_8",
+      "shape_id": 160,
+      "shape_name": "field:section_8",
+      "type": "text",
+      "max_chars": 21,
+      "bounds_pt": {
+        "id": 160,
+        "path": "16/157/160",
+        "name": "TextBox 159",
+        "type": 17,
+        "text": "IMPROVE COMMUNICATION",
+        "left": 717.55,
+        "top": 366.3,
+        "width": 221.2,
+        "height": 29.0
+      },
+      "source_number": 4
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

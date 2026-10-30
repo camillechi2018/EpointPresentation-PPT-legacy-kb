@@ -1,0 +1,165 @@
+{
+  "layout_id": "content-p190",
+  "source_page": 190,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 3,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Title 2",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 23,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 25,
+      "source_sample_chars": 25,
+      "source_text": "单击此处输入你的智能图形项正文 文字是您思想的提炼",
+      "bounds_pt": {
+        "id": 23,
+        "name": "TextBox 22",
+        "type": 17,
+        "text": "单击此处输入你的智能图形项正文 文字是您思想的提炼",
+        "left": 358.45,
+        "top": 129.75,
+        "width": 232.6,
+        "height": 55.45
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 40,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "添加\u000b项标题",
+      "bounds_pt": {
+        "id": 40,
+        "name": "Freeform 39",
+        "type": 5,
+        "text": "添加\u000b项标题",
+        "left": 430.0138,
+        "top": 309.57504,
+        "width": 99.2126,
+        "height": 99.2126
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 11,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 25,
+      "source_sample_chars": 25,
+      "source_text": "单击此处输入你的智能图形项正文 文字是您思想的提炼",
+      "bounds_pt": {
+        "id": 11,
+        "name": "TextBox 10",
+        "type": 17,
+        "text": "单击此处输入你的智能图形项正文 文字是您思想的提炼",
+        "left": 84.8,
+        "top": 405.85,
+        "width": 233.95,
+        "height": 70.85
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 63,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 25,
+      "source_sample_chars": 25,
+      "source_text": "单击此处输入你的智能图形项正文 文字是您思想的提炼",
+      "bounds_pt": {
+        "id": 63,
+        "name": "TextBox 62",
+        "type": 17,
+        "text": "单击此处输入你的智能图形项正文 文字是您思想的提炼",
+        "left": 642.45,
+        "top": 405.85,
+        "width": 232.6,
+        "height": 70.85
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 20,
+      "shape_name": "图片 15",
+      "bounds_pt": {
+        "id": 20,
+        "name": "图片 15",
+        "type": 28,
+        "text": "",
+        "left": 468.42526,
+        "top": 219.36142,
+        "width": 22.677166,
+        "height": 22.677166
+      },
+      "kind": "template-decoration",
+      "sha256": "116955f0ffda38ec3bf3c5de2c8c5e4bf85deeb0c97030e81afe214fec6b5c0b",
+      "replace_required": false
+    },
+    {
+      "shape_id": 25,
+      "shape_name": "图片 20",
+      "bounds_pt": {
+        "id": 25,
+        "name": "图片 20",
+        "type": 28,
+        "text": "",
+        "left": 357.3615,
+        "top": 412.8115,
+        "width": 22.677166,
+        "height": 22.677166
+      },
+      "kind": "template-decoration",
+      "sha256": "8a03f01ab84e56b6f8fa58a20f21701c7fcf2b8faa417ffbf5eb91c8f3453b37",
+      "replace_required": false
+    },
+    {
+      "shape_id": 24,
+      "shape_name": "图片 19",
+      "bounds_pt": {
+        "id": 24,
+        "name": "图片 19",
+        "type": 28,
+        "text": "",
+        "left": 578.6615,
+        "top": 412.8115,
+        "width": 22.677166,
+        "height": 22.677166
+      },
+      "kind": "template-decoration",
+      "sha256": "af47b855da99ac5a22b30a495e7acd894aed189ae8428f42b872935f1a76253f",
+      "replace_required": false
+    }
+  ]
+}

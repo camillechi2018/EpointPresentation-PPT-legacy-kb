@@ -1,0 +1,154 @@
+{
+  "layout_id": "content-p144",
+  "source_page": 144,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.9,
+        "top": 50.2,
+        "width": 432.05,
+        "height": 51.2
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 135,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 135,
+        "name": "标题",
+        "type": 17,
+        "text": "单击此处添加标题",
+        "left": 55.25,
+        "top": 131.1,
+        "width": 424.7,
+        "height": 29.0
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 133,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 51,
+      "source_sample_chars": 51,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点根据需要可酌情增减文字，以便观者准确地理解您传达的思想",
+      "bounds_pt": {
+        "id": 133,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点根据需要可酌情增减文字，以便观者准确地理解您传达的思想\r",
+        "left": 55.25,
+        "top": 172.1,
+        "width": 424.7,
+        "height": 66.3
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 3,
+        "type": "COLUMN_CLUSTERED (51)",
+        "plot_types": [
+          "BarPlot"
+        ],
+        "categories_max": 4,
+        "series_max": 2,
+        "requires_real_data": true
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 139,
+        "shape_name": "field:image:139",
+        "required": true,
+        "bounds_pt": {
+          "id": 139,
+          "name": "Picture 138",
+          "type": 13,
+          "text": "",
+          "left": 535.25,
+          "top": 306.05,
+          "width": 369.45,
+          "height": 160.95
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 140,
+        "shape_name": "field:image:140",
+        "required": true,
+        "bounds_pt": {
+          "id": 140,
+          "name": "Picture 139",
+          "type": 13,
+          "text": "",
+          "left": 535.2,
+          "top": 131.1,
+          "width": 369.5,
+          "height": 160.95
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 139,
+      "shape_name": "field:image:139",
+      "bounds_pt": {
+        "id": 139,
+        "name": "Picture 138",
+        "type": 13,
+        "text": "",
+        "left": 535.25,
+        "top": 306.05,
+        "width": 369.45,
+        "height": 160.95
+      },
+      "kind": "content-image",
+      "sha256": "d852bec42d6d92c5b8857f64cea55126fc6166f8892c60e9cf75068279d40147",
+      "replace_required": true
+    },
+    {
+      "shape_id": 140,
+      "shape_name": "field:image:140",
+      "bounds_pt": {
+        "id": 140,
+        "name": "Picture 139",
+        "type": 13,
+        "text": "",
+        "left": 535.2,
+        "top": 131.1,
+        "width": 369.5,
+        "height": 160.95
+      },
+      "kind": "content-image",
+      "sha256": "bad6dfb747b884205ce95340d462220cd0f89f37e2c1d0a57acc2487fa2245b7",
+      "replace_required": true
+    }
+  ]
+}

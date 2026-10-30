@@ -1,0 +1,259 @@
+{
+  "layout_id": "content-p147",
+  "source_page": 147,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 5,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 5,
+        "name": "Title 4",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 34,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 34,
+        "name": "Rectangle 33",
+        "type": 1,
+        "text": "单击添加标题",
+        "left": 516.72345,
+        "top": 117.3263,
+        "width": 203.52756,
+        "height": 45.546535
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 35,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 35,
+        "name": "Rectangle 34",
+        "type": 1,
+        "text": "单击此处输入您的正文",
+        "left": 516.72345,
+        "top": 166.7063,
+        "width": 203.56528,
+        "height": 55.9889
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 26,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 26,
+        "name": "Rectangle 25",
+        "type": 1,
+        "text": "单击添加标题",
+        "left": 177.01505,
+        "top": 187.36441,
+        "width": 203.52756,
+        "height": 45.546535
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 27,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 27,
+        "name": "Rectangle 26",
+        "type": 1,
+        "text": "单击此处输入您的正文",
+        "left": 177.01505,
+        "top": 236.74442,
+        "width": 203.56528,
+        "height": 55.9889
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 45,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 45,
+        "name": "Rectangle 44",
+        "type": 1,
+        "text": "单击添加标题",
+        "left": 686.57764,
+        "top": 253.12251,
+        "width": 203.52756,
+        "height": 45.546535
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 46,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 46,
+        "name": "Rectangle 45",
+        "type": 1,
+        "text": "单击此处输入您的正文",
+        "left": 686.57764,
+        "top": 302.50253,
+        "width": 203.56528,
+        "height": 55.9889
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 38,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 38,
+        "name": "Rectangle 37",
+        "type": 1,
+        "text": "单击添加标题",
+        "left": 346.8692,
+        "top": 364.1848,
+        "width": 203.52756,
+        "height": 45.546535
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_05",
+      "shape_id": 30,
+      "shape_name": "field:item_title_05",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 30,
+        "name": "Rectangle 29",
+        "type": 1,
+        "text": "单击添加标题",
+        "left": 7.1230707,
+        "top": 397.57544,
+        "width": 203.52756,
+        "height": 45.546535
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 39,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 39,
+        "name": "Rectangle 38",
+        "type": 1,
+        "text": "单击此处输入您的正文",
+        "left": 346.8692,
+        "top": 413.5648,
+        "width": 203.56528,
+        "height": 55.9889
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 31,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处输入您的正文",
+      "bounds_pt": {
+        "id": 31,
+        "name": "Rectangle 30",
+        "type": 1,
+        "text": "单击此处输入您的正文",
+        "left": 7.1230707,
+        "top": 446.95544,
+        "width": 203.56528,
+        "height": 55.9889
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [
+    {
+      "shape_id": 24,
+      "text": "05",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 23,
+      "text": "04",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 22,
+      "text": "03",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 21,
+      "text": "02",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 12,
+      "text": "01",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

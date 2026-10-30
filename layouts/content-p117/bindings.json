@@ -1,0 +1,339 @@
+{
+  "layout_id": "content-p117",
+  "source_page": 117,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "20XX年重点工作方向",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "20XX年重点工作方向",
+        "left": 61.65,
+        "top": 47.9,
+        "width": 836.7,
+        "height": 60.1
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 28,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 95,
+      "source_sample_chars": 95,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。\r单击此处添加文本具体内容，简明扼要地阐述您的观点。以便观者准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 28,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。\r单击此处添加文本具体内容，简明扼要地阐述您的观点。以便观者准确地理解您传达的思想。",
+        "left": 60.7,
+        "top": 109.75,
+        "width": 838.6,
+        "height": 51.9
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "label_01",
+      "shape_id": 6,
+      "shape_name": "field:label_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "团队建设",
+      "bounds_pt": {
+        "id": 6,
+        "name": "正文",
+        "type": 17,
+        "text": "团队建设",
+        "left": 412.55,
+        "top": 269.55,
+        "width": 134.9,
+        "height": 27.85
+      },
+      "semantic_role": "label"
+    },
+    {
+      "field": "label_02",
+      "shape_id": 12,
+      "shape_name": "field:label_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "技术研发",
+      "bounds_pt": {
+        "id": 12,
+        "name": "正文",
+        "type": 17,
+        "text": "技术研发",
+        "left": 242.7,
+        "top": 291.95,
+        "width": 134.9,
+        "height": 27.85
+      },
+      "semantic_role": "label"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 7,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 51,
+      "source_sample_chars": 51,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。\n单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+      "bounds_pt": {
+        "id": 7,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。\r单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+        "left": 412.55,
+        "top": 302.2,
+        "width": 134.9,
+        "height": 191.3
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "label_03",
+      "shape_id": 24,
+      "shape_name": "field:label_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "客户服务",
+      "bounds_pt": {
+        "id": 24,
+        "name": "正文",
+        "type": 17,
+        "text": "客户服务",
+        "left": 582.4,
+        "top": 291.95,
+        "width": 134.9,
+        "height": 27.85
+      },
+      "semantic_role": "label"
+    },
+    {
+      "field": "label_04",
+      "shape_id": 27,
+      "shape_name": "field:label_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "市场拓展",
+      "bounds_pt": {
+        "id": 27,
+        "name": "正文",
+        "type": 17,
+        "text": "市场拓展",
+        "left": 72.85,
+        "top": 315.5,
+        "width": 134.9,
+        "height": 27.85
+      },
+      "semantic_role": "label"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 13,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 44,
+      "source_text": "单击此处添加文本内容，简明阐述观点。\n单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+      "bounds_pt": {
+        "id": 13,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本内容，简明阐述观点。\r单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+        "left": 242.7,
+        "top": 324.6,
+        "width": 134.9,
+        "height": 168.9
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 25,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 44,
+      "source_text": "单击此处添加文本内容，简明阐述观点。\n单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+      "bounds_pt": {
+        "id": 25,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本内容，简明阐述观点。\r单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+        "left": 582.4,
+        "top": 324.6,
+        "width": 134.9,
+        "height": 168.9
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "label_05",
+      "shape_id": 17,
+      "shape_name": "field:label_05",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "绿色转型",
+      "bounds_pt": {
+        "id": 17,
+        "name": "正文",
+        "type": 17,
+        "text": "绿色转型",
+        "left": 752.25,
+        "top": 315.5,
+        "width": 134.9,
+        "height": 27.85
+      },
+      "semantic_role": "label"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 34,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 37,
+      "source_sample_chars": 37,
+      "source_text": "单击此处添加文本具体内容，简明阐述。\n单击此处添加文本内容，简明阐述观点。",
+      "bounds_pt": {
+        "id": 34,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明阐述。\r单击此处添加文本内容，简明阐述观点。",
+        "left": 72.85,
+        "top": 348.15,
+        "width": 134.9,
+        "height": 145.35
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_06",
+      "shape_id": 18,
+      "shape_name": "field:body_06",
+      "type": "text",
+      "max_chars": 37,
+      "source_sample_chars": 37,
+      "source_text": "单击此处添加文本具体内容，简明阐述。\n单击此处添加文本内容，简明阐述观点。",
+      "bounds_pt": {
+        "id": 18,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明阐述。\r单击此处添加文本内容，简明阐述观点。",
+        "left": 752.25,
+        "top": 348.15,
+        "width": 134.9,
+        "height": 145.35
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 9,
+      "shape_name": "5",
+      "bounds_pt": {
+        "id": 9,
+        "name": "5",
+        "type": 28,
+        "text": "",
+        "left": 468.4,
+        "top": 234.85,
+        "width": 23.9,
+        "height": 23.9
+      },
+      "kind": "template-decoration",
+      "sha256": "e2e9d40b284b205a5b7dd737b7c8b12b14f3c13822ea564ae7de63610636f28c",
+      "replace_required": false
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "4",
+      "bounds_pt": {
+        "id": 15,
+        "name": "4",
+        "type": 28,
+        "text": "",
+        "left": 298.05,
+        "top": 256.15,
+        "width": 24.8,
+        "height": 27.3
+      },
+      "kind": "template-decoration",
+      "sha256": "a109039fc2628ce5c7ac9a802126a6041915a409e1dfcbeea63653b7ab1f8c1c",
+      "replace_required": false
+    },
+    {
+      "shape_id": 46,
+      "shape_name": "3",
+      "bounds_pt": {
+        "id": 46,
+        "name": "3",
+        "type": 28,
+        "text": "",
+        "left": 128.75,
+        "top": 280.7,
+        "width": 24.1,
+        "height": 24.15
+      },
+      "kind": "template-decoration",
+      "sha256": "3a7456ef82f86f3950aaf2ba7fd94145d90a3d35e237d942e77ec6f329f0f9c4",
+      "replace_required": false
+    },
+    {
+      "shape_id": 52,
+      "shape_name": "2",
+      "bounds_pt": {
+        "id": 52,
+        "name": "2",
+        "type": 28,
+        "text": "",
+        "left": 637.9,
+        "top": 258.0,
+        "width": 23.9,
+        "height": 23.9
+      },
+      "kind": "template-decoration",
+      "sha256": "f651ab8eb12236c73dbeb5e49a61f53e03c036959182b8dd9fc02e2ab20c5a9c",
+      "replace_required": false
+    },
+    {
+      "shape_id": 53,
+      "shape_name": "1",
+      "bounds_pt": {
+        "id": 53,
+        "name": "1",
+        "type": 28,
+        "text": "",
+        "left": 807.2,
+        "top": 280.95,
+        "width": 25.1,
+        "height": 25.1
+      },
+      "kind": "template-decoration",
+      "sha256": "6e3da183b6dec35ecc41cf4397a1b9af65febaeecad13f8573f1220408e5bbda",
+      "replace_required": false
+    }
+  ]
+}

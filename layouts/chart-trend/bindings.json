@@ -1,0 +1,30 @@
+{
+  "layout_id": "chart-trend",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "max_chars": 24
+    },
+    {
+      "field": "explanation",
+      "shape_id": 123,
+      "max_chars": 75
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 127,
+        "type": "LINE_MARKERS (65)"
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 128,
+        "shape_name": "field:image"
+      }
+    ]
+  }
+}

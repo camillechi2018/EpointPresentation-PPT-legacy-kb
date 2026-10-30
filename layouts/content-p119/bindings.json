@@ -1,0 +1,61 @@
+{
+  "layout_id": "content-p119",
+  "source_page": 119,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 5,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 168,
+      "source_sample_chars": 168,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+      "bounds_pt": {
+        "id": 5,
+        "name": "圆角矩形 4",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+        "left": 53.8,
+        "top": 403.15,
+        "width": 865.3,
+        "height": 108.25
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [
+      {
+        "shape_id": 11,
+        "rows": 6,
+        "columns": 5,
+        "requires_real_content": true,
+        "merged_cells_preserved": true
+      }
+    ],
+    "images": []
+  },
+  "source_picture_objects": []
+}

@@ -1,0 +1,50 @@
+{
+  "layout_id": "summary-speech",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "max_chars": 24
+    },
+    {
+      "field": "key_message",
+      "shape_id": 3,
+      "max_chars": 36
+    },
+    {
+      "field": "point_1_title",
+      "shape_id": 4,
+      "max_chars": 4
+    },
+    {
+      "field": "point_1",
+      "shape_id": 5,
+      "max_chars": 30
+    },
+    {
+      "field": "point_2_title",
+      "shape_id": 6,
+      "max_chars": 4
+    },
+    {
+      "field": "point_2",
+      "shape_id": 7,
+      "max_chars": 30
+    },
+    {
+      "field": "point_3_title",
+      "shape_id": 8,
+      "max_chars": 4
+    },
+    {
+      "field": "point_3",
+      "shape_id": 9,
+      "max_chars": 30
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

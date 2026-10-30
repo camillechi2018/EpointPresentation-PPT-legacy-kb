@@ -1,0 +1,35 @@
+{
+  "layout_id": "comparison-two",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "max_chars": 24
+    },
+    {
+      "field": "left_title",
+      "shape_id": 5,
+      "max_chars": 12
+    },
+    {
+      "field": "right_title",
+      "shape_id": 6,
+      "max_chars": 12
+    },
+    {
+      "field": "left",
+      "shape_id": 7,
+      "max_chars": 70
+    },
+    {
+      "field": "right",
+      "shape_id": 8,
+      "max_chars": 70
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

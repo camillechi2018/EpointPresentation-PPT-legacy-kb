@@ -1,0 +1,185 @@
+{
+  "layout_id": "content-p145",
+  "source_page": 145,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 40,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 25,
+      "source_sample_chars": 25,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+      "bounds_pt": {
+        "id": 40,
+        "name": "TextBox 39",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+        "left": 48.0,
+        "top": 143.5,
+        "width": 552.4,
+        "height": 38.3
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 43,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 48,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述观点。根据需要可酌情增减文字，以便观者理解您传达的思想。",
+      "bounds_pt": {
+        "id": 43,
+        "name": "TextBox 42",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述观点。根据需要可酌情增减文字，以便观者理解您传达的思想。",
+        "left": 673.9823,
+        "top": 207.0352,
+        "width": 160.19456,
+        "height": 165.90253
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 15,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 59,
+      "source_sample_chars": 59,
+      "source_text": "单击添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+      "bounds_pt": {
+        "id": 15,
+        "name": "TextBox 14",
+        "type": 17,
+        "text": "单击添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+        "left": 102.85,
+        "top": 229.4,
+        "width": 499.95,
+        "height": 54.6
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 16,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 63,
+      "source_sample_chars": 63,
+      "source_text": "单击此处编辑添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+      "bounds_pt": {
+        "id": 16,
+        "name": "TextBox 15",
+        "type": 17,
+        "text": "单击此处编辑添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+        "left": 102.85,
+        "top": 315.2,
+        "width": 499.95,
+        "height": 54.6
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 17,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 59,
+      "source_sample_chars": 59,
+      "source_text": "单击添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+      "bounds_pt": {
+        "id": 17,
+        "name": "TextBox 16",
+        "type": 17,
+        "text": "单击添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+        "left": 102.85,
+        "top": 400.95,
+        "width": 499.95,
+        "height": 54.6
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 12,
+      "shape_name": "图形 10",
+      "bounds_pt": {
+        "id": 12,
+        "name": "图形 10",
+        "type": 28,
+        "text": "",
+        "left": 59.5,
+        "top": 332.95,
+        "width": 19.55,
+        "height": 19.55
+      },
+      "kind": "template-decoration",
+      "sha256": "3162b77bc4ae05f3bcf936625e1ea866353a7651cb136be0e9b534a2389bc63b",
+      "replace_required": false
+    },
+    {
+      "shape_id": 13,
+      "shape_name": "图形 11",
+      "bounds_pt": {
+        "id": 13,
+        "name": "图形 11",
+        "type": 28,
+        "text": "",
+        "left": 59.5,
+        "top": 247.75,
+        "width": 19.55,
+        "height": 19.55
+      },
+      "kind": "template-decoration",
+      "sha256": "ee542d2bd79dcfe23e05afbab3d54e8fa556bba9ae9d3b51d39b333b29d1b689",
+      "replace_required": false
+    },
+    {
+      "shape_id": 14,
+      "shape_name": "图形 16",
+      "bounds_pt": {
+        "id": 14,
+        "name": "图形 16",
+        "type": 28,
+        "text": "",
+        "left": 59.5,
+        "top": 419.2,
+        "width": 19.55,
+        "height": 19.55
+      },
+      "kind": "template-decoration",
+      "sha256": "4eb5c9413fd9a00cb106b3ae78e406835a120c079f60cd6f37a27ea8ebc291f6",
+      "replace_required": false
+    }
+  ]
+}

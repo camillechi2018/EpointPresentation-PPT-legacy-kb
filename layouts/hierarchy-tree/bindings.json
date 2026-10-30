@@ -1,0 +1,50 @@
+{
+  "layout_id": "hierarchy-tree",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "max_chars": 24
+    },
+    {
+      "field": "lead",
+      "shape_id": 3,
+      "max_chars": 80
+    },
+    {
+      "field": "root",
+      "shape_id": 5,
+      "max_chars": 12
+    },
+    {
+      "field": "child_1",
+      "shape_id": 7,
+      "max_chars": 10
+    },
+    {
+      "field": "child_2",
+      "shape_id": 9,
+      "max_chars": 10
+    },
+    {
+      "field": "child_3",
+      "shape_id": 16,
+      "max_chars": 10
+    },
+    {
+      "field": "child_4",
+      "shape_id": 18,
+      "max_chars": 10
+    },
+    {
+      "field": "child_5",
+      "shape_id": 20,
+      "max_chars": 10
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

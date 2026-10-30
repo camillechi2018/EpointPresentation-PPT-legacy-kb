@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "library_version": "0.7.0",
+  "seed": 42,
+  "vary_layouts": true,
+  "pages": [
+    {
+      "page": 1,
+      "purpose": "说明汇报主题",
+      "evidence": null,
+      "layout_id": "theme-cover-p013",
+      "source_page": 13,
+      "collection": "source-theme",
+      "role": "cover",
+      "candidate_count": 1,
+      "selection_reason": "指定版式",
+      "image_sources": [],
+      "data_source": null,
+      "filled_file": null
+    },
+    {
+      "page": 2,
+      "purpose": "展示四项议程",
+      "evidence": null,
+      "layout_id": "theme-agenda-p035",
+      "source_page": 35,
+      "collection": "source-theme",
+      "role": "agenda",
+      "candidate_count": 1,
+      "selection_reason": "指定版式",
+      "image_sources": [],
+      "data_source": null,
+      "filled_file": null
+    },
+    {
+      "page": 3,
+      "purpose": "解释工作流程",
+      "evidence": null,
+      "layout_id": "content-p169",
+      "source_page": 169,
+      "collection": "source-content",
+      "role": "process",
+      "candidate_count": 10,
+      "selection_reason": "职责、来源、字段槽与素材条件匹配",
+      "image_sources": [],
+      "data_source": null,
+      "filled_file": null
+    },
+    {
+      "page": 4,
+      "purpose": "感谢聆听",
+      "evidence": null,
+      "layout_id": "theme-closing-p213",
+      "source_page": 213,
+      "collection": "source-theme",
+      "role": "closing",
+      "candidate_count": 1,
+      "selection_reason": "指定版式",
+      "image_sources": [],
+      "data_source": null,
+      "filled_file": null
+    }
+  ],
+  "status": "planned_not_filled"
+}

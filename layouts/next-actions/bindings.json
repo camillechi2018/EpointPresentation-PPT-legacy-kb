@@ -1,0 +1,50 @@
+{
+  "layout_id": "next-actions",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "max_chars": 24
+    },
+    {
+      "field": "conclusion",
+      "shape_id": 3,
+      "max_chars": 45
+    },
+    {
+      "field": "action_1_title",
+      "shape_id": 4,
+      "max_chars": 10
+    },
+    {
+      "field": "action_1",
+      "shape_id": 5,
+      "max_chars": 55
+    },
+    {
+      "field": "action_2_title",
+      "shape_id": 6,
+      "max_chars": 10
+    },
+    {
+      "field": "action_2",
+      "shape_id": 7,
+      "max_chars": 55
+    },
+    {
+      "field": "action_3_title",
+      "shape_id": 8,
+      "max_chars": 10
+    },
+    {
+      "field": "action_3",
+      "shape_id": 9,
+      "max_chars": 55
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

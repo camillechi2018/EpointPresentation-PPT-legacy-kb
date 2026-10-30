@@ -1,0 +1,257 @@
+{
+  "layout_id": "content-p110",
+  "source_page": 110,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 11,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 11,
+        "name": "Rectangle 10",
+        "type": 1,
+        "text": "添加标题",
+        "left": 82.88417,
+        "top": 276.02512,
+        "width": 209.53314,
+        "height": 41.94882
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 14,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 14,
+        "name": "Rectangle 13",
+        "type": 1,
+        "text": "添加标题",
+        "left": 375.916,
+        "top": 276.02512,
+        "width": 209.433,
+        "height": 41.9489
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 16,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 16,
+        "name": "Rectangle 15",
+        "type": 1,
+        "text": "添加标题",
+        "left": 668.9741,
+        "top": 276.02512,
+        "width": 209.28291,
+        "height": 41.9489
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 13,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 49,
+      "source_sample_chars": 49,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。可酌情增减文字，以便观者准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 13,
+        "name": "Rectangle 12",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。可酌情增减文字，以便观者准确地理解您传达的思想。",
+        "left": 82.85803,
+        "top": 325.9137,
+        "width": 209.58322,
+        "height": 144.48654
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 15,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 49,
+      "source_sample_chars": 49,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。可酌情增减文字，以便观者准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 15,
+        "name": "Rectangle 14",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。可酌情增减文字，以便观者准确地理解您传达的思想。",
+        "left": 375.8374,
+        "top": 325.9137,
+        "width": 209.58322,
+        "height": 144.48654
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 18,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 49,
+      "source_sample_chars": 49,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。可酌情增减文字，以便观者准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 18,
+        "name": "Rectangle 17",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。可酌情增减文字，以便观者准确地理解您传达的思想。",
+        "left": 668.817,
+        "top": 325.9137,
+        "width": 209.58322,
+        "height": 144.48654
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "field:image:3",
+        "required": true,
+        "bounds_pt": {
+          "id": 3,
+          "name": "Picture 2",
+          "type": 13,
+          "text": "",
+          "left": 640.759,
+          "top": 111.49992,
+          "width": 264.441,
+          "height": 150.09882
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 6,
+        "shape_name": "field:image:6",
+        "required": true,
+        "bounds_pt": {
+          "id": 6,
+          "name": "Picture 5",
+          "type": 13,
+          "text": "",
+          "left": 347.77945,
+          "top": 111.49992,
+          "width": 264.441,
+          "height": 150.09874
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 10,
+        "shape_name": "field:image:10",
+        "required": true,
+        "bounds_pt": {
+          "id": 10,
+          "name": "Picture 9",
+          "type": 13,
+          "text": "",
+          "left": 54.8,
+          "top": 111.5,
+          "width": 264.441,
+          "height": 150.09874
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 3,
+      "shape_name": "field:image:3",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Picture 2",
+        "type": 13,
+        "text": "",
+        "left": 640.759,
+        "top": 111.49992,
+        "width": 264.441,
+        "height": 150.09882
+      },
+      "kind": "content-image",
+      "sha256": "0684f62d7b0bc9d23c532673163475c900f7e23741782837fe70022e533edd69",
+      "replace_required": true
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "field:image:6",
+      "bounds_pt": {
+        "id": 6,
+        "name": "Picture 5",
+        "type": 13,
+        "text": "",
+        "left": 347.77945,
+        "top": 111.49992,
+        "width": 264.441,
+        "height": 150.09874
+      },
+      "kind": "content-image",
+      "sha256": "4778b4f8314f5d9af915af0917f5e77436abd5c52e46533a360ce0f41c7e8b5c",
+      "replace_required": true
+    },
+    {
+      "shape_id": 10,
+      "shape_name": "field:image:10",
+      "bounds_pt": {
+        "id": 10,
+        "name": "Picture 9",
+        "type": 13,
+        "text": "",
+        "left": 54.8,
+        "top": 111.5,
+        "width": 264.441,
+        "height": 150.09874
+      },
+      "kind": "content-image",
+      "sha256": "39e42b1669e8f3effd8def5783a126d503b2b0142bacebec95040e719ebf8134",
+      "replace_required": true
+    }
+  ]
+}

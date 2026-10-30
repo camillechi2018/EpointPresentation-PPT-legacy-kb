@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "slide_count": 4,
+  "planned_count": 4,
+  "issues": [],
+  "p0_passed": true,
+  "checks": [
+    "page_count",
+    "placeholder_or_source_example",
+    "chart_source",
+    "image_source",
+    "repeated_layout",
+    "dense_sequence"
+  ],
+  "manual_review_required": [
+    "PowerPoint实际文字边界与箭头碰撞",
+    "中文断行、字号、底部留白与相邻页面疏密",
+    "图片裁切及图表编辑数据",
+    "事实、术语与品牌核对"
+  ]
+}

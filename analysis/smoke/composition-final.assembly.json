@@ -1,0 +1,49 @@
+{
+  "slides": [
+    {
+      "source_sha256": "83D157555DBCAB3CF90F978E3B8701816AB7150737CD5D2DDAFD7AEB5EC4E20B",
+      "layout_id": "content-p054",
+      "source_format_preserved": true,
+      "page": 1,
+      "input": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\analysis\\smoke\\content-p054.pptx"
+    },
+    {
+      "source_sha256": "F07F5A4F68689856B55EBD4AEA3D46DC5519A2397DE2FA12A32DC5BEC5FE30EF",
+      "layout_id": "content-p088",
+      "source_format_preserved": true,
+      "page": 2,
+      "input": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\analysis\\smoke\\content-p088.pptx"
+    },
+    {
+      "source_sha256": "BFA0A50F16D1E121BB117DD81939DB31955814517BB867D5161863EE836A9531",
+      "layout_id": "content-p119",
+      "source_format_preserved": true,
+      "page": 3,
+      "input": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\analysis\\smoke\\content-p119.pptx"
+    },
+    {
+      "source_sha256": "9CF576268C63B94A77B668F60B41CB000C7F877F51D149D42E7FC7C20E5FBC40",
+      "layout_id": "content-p151",
+      "source_format_preserved": true,
+      "page": 4,
+      "input": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\analysis\\smoke\\content-p151.pptx"
+    },
+    {
+      "source_sha256": "F07F5A4F68689856B55EBD4AEA3D46DC5519A2397DE2FA12A32DC5BEC5FE30EF",
+      "layout_id": "content-p088",
+      "source_format_preserved": true,
+      "page": 5,
+      "input": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\analysis\\smoke\\content-p088.pptx"
+    }
+  ],
+  "visual_qa": "not_run",
+  "collision_qa": "not_run",
+  "rendered": true,
+  "editable_pptx": true,
+  "output": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\analysis\\smoke\\composition-final.pptx",
+  "slide_count": 5,
+  "limitations": [
+    "合并不代表内容与排版验收通过；还需检查文字、关系、数据和配图"
+  ],
+  "manifest": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.6\\analysis\\smoke\\assembly-plan.json"
+}

@@ -1,0 +1,64 @@
+{
+  "layout_id": "theme-chapter-p042",
+  "fields": [
+    {
+      "field": "number",
+      "shape_id": 8,
+      "shape_name": "field:number",
+      "type": "text",
+      "max_chars": 2,
+      "bounds_pt": {
+        "id": 8,
+        "path": "42/8",
+        "name": "Text Placeholder 7",
+        "type": 14,
+        "text": "01",
+        "left": 66.15,
+        "top": 129.9,
+        "width": 513.1,
+        "height": 105.6
+      }
+    },
+    {
+      "field": "title",
+      "shape_id": 20,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 6,
+      "bounds_pt": {
+        "id": 20,
+        "path": "42/20",
+        "name": "标题",
+        "type": 14,
+        "text": "添加章节标题",
+        "left": 66.15,
+        "top": 242.7,
+        "width": 513.15,
+        "height": 80.0
+      }
+    },
+    {
+      "field": "subtitle",
+      "shape_id": 10,
+      "shape_name": "field:subtitle",
+      "type": "text",
+      "max_chars": 11,
+      "bounds_pt": {
+        "id": 10,
+        "path": "42/10",
+        "name": "Subtitle 9",
+        "type": 14,
+        "text": "单击此处添加章节副标题",
+        "left": 66.15,
+        "top": 330.5,
+        "width": 513.15,
+        "height": 35.65
+      }
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

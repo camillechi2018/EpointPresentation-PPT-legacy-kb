@@ -1,0 +1,273 @@
+{
+  "layout_id": "content-p061",
+  "source_page": 61,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 17,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "单击此处添加项标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "任意多边形 16",
+        "type": 5,
+        "text": "单击此处添加项标题",
+        "left": 213.85,
+        "top": 138.4,
+        "width": 218.5,
+        "height": 62.1
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 41,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "单击此处添加项标题内容",
+      "bounds_pt": {
+        "id": 41,
+        "name": "任意多边形 40",
+        "type": 5,
+        "text": "单击此处添加项标题内容",
+        "left": 529.2,
+        "top": 166.55,
+        "width": 306.75,
+        "height": 80.3
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 9,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "此处添加项标题",
+      "bounds_pt": {
+        "id": 9,
+        "name": "任意多边形 8",
+        "type": 5,
+        "text": "此处添加项标题",
+        "left": 292.8,
+        "top": 202.25,
+        "width": 204.85,
+        "height": 48.25
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 52,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 52,
+        "name": "任意多边形 51",
+        "type": 5,
+        "text": "添加标题",
+        "left": 112.6,
+        "top": 228.8,
+        "width": 151.6,
+        "height": 50.2
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_05",
+      "shape_id": 4,
+      "shape_name": "field:item_title_05",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "单击此处添加项标题内容",
+      "bounds_pt": {
+        "id": 4,
+        "name": "任意多边形 3",
+        "type": 5,
+        "text": "单击此处添加项标题内容",
+        "left": 272.45,
+        "top": 256.05,
+        "width": 438.7,
+        "height": 115.1
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_06",
+      "shape_id": 22,
+      "shape_name": "field:item_title_06",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 22,
+        "name": "任意多边形 21",
+        "type": 5,
+        "text": "添加标题",
+        "left": 752.0,
+        "top": 259.8,
+        "width": 143.0,
+        "height": 49.35
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_07",
+      "shape_id": 16,
+      "shape_name": "field:item_title_07",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "此处添加项标题",
+      "bounds_pt": {
+        "id": 16,
+        "name": "任意多边形 15",
+        "type": 5,
+        "text": "此处添加项标题",
+        "left": 63.5,
+        "top": 315.75,
+        "width": 196.15,
+        "height": 65.35
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_08",
+      "shape_id": 15,
+      "shape_name": "field:item_title_08",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "此处添加项标题",
+      "bounds_pt": {
+        "id": 15,
+        "name": "任意多边形 14",
+        "type": 5,
+        "text": "此处添加项标题",
+        "left": 648.7,
+        "top": 331.5,
+        "width": 196.15,
+        "height": 65.35
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_09",
+      "shape_id": 10,
+      "shape_name": "field:item_title_09",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "此处添加项标题",
+      "bounds_pt": {
+        "id": 10,
+        "name": "任意多边形 9",
+        "type": 5,
+        "text": "此处添加项标题",
+        "left": 443.85,
+        "top": 374.8,
+        "width": 204.85,
+        "height": 48.25
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_10",
+      "shape_id": 7,
+      "shape_name": "field:item_title_10",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 7,
+        "name": "任意多边形 6",
+        "type": 5,
+        "text": "添加项标题",
+        "left": 219.15,
+        "top": 392.3,
+        "width": 151.6,
+        "height": 50.2
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_11",
+      "shape_id": 53,
+      "shape_name": "field:item_title_11",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "添加项标题内容",
+      "bounds_pt": {
+        "id": 53,
+        "name": "任意多边形 52",
+        "type": 5,
+        "text": "添加项标题内容",
+        "left": 300.2,
+        "top": 423.65,
+        "width": 236.05,
+        "height": 59.5
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_12",
+      "shape_id": 44,
+      "shape_name": "field:item_title_12",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 44,
+        "name": "任意多边形 43",
+        "type": 5,
+        "text": "添加标题",
+        "left": 693.3,
+        "top": 426.7,
+        "width": 151.6,
+        "height": 50.2
+      },
+      "semantic_role": "item_title"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

@@ -1,0 +1,148 @@
+{
+  "layout_id": "content-p076",
+  "source_page": 76,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 44,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 44,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加标题",
+        "left": 83.65,
+        "top": 136.3,
+        "width": 299.8,
+        "height": 75.45
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 2,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加标题",
+        "left": 575.4,
+        "top": 136.3,
+        "width": 299.8,
+        "height": 75.45
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 11,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 200,
+      "source_sample_chars": 200,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 11,
+        "name": "Rectangle 10",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+        "left": 83.67213,
+        "top": 214.74268,
+        "width": 346.11252,
+        "height": 250.3511
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 12,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 200,
+      "source_sample_chars": 200,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+      "bounds_pt": {
+        "id": 12,
+        "name": "Rectangle 11",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，根据需要可酌情增减文字，以便观者准确地理解您传达的思想。",
+        "left": 529.0743,
+        "top": 214.74268,
+        "width": 346.11252,
+        "height": 250.3511
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 10,
+      "shape_name": "图形 9",
+      "bounds_pt": {
+        "id": 10,
+        "name": "Graphic 9",
+        "type": 28,
+        "text": "",
+        "left": 387.36362,
+        "top": 145.5518,
+        "width": 42.56,
+        "height": 56.964962
+      },
+      "kind": "template-decoration",
+      "sha256": "86c2aa09d5e09ef0e2b6608fe4a81d42b5661afc8382e4e8c9da149171682708",
+      "replace_required": false
+    },
+    {
+      "shape_id": 4,
+      "shape_name": "图片 3",
+      "bounds_pt": {
+        "id": 4,
+        "name": "图片 3",
+        "type": 28,
+        "text": "",
+        "left": 529.05,
+        "top": 145.23433,
+        "width": 53.2,
+        "height": 53.2
+      },
+      "kind": "template-decoration",
+      "sha256": "18ecb3f8402862e4084c37f2073a3537e951956b750105b6440ff9bc469bf447",
+      "replace_required": false
+    }
+  ]
+}

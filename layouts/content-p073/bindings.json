@@ -1,0 +1,193 @@
+{
+  "layout_id": "content-p073",
+  "source_page": 73,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 8,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 8,
+        "name": "Rectangle 7",
+        "type": 1,
+        "text": "添加标题",
+        "left": 105.45,
+        "top": 145.3,
+        "width": 332.75,
+        "height": 34.3
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 10,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 10,
+        "name": "Rectangle 9",
+        "type": 1,
+        "text": "添加标题",
+        "left": 552.9,
+        "top": 145.3,
+        "width": 332.75,
+        "height": 34.3
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 9,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 50,
+      "source_text": "请单击此处输入你的正文具体内容，文字是您思想的提炼，为了最终演示发布的良好效果，可酌情增减你的文字。",
+      "bounds_pt": {
+        "id": 9,
+        "name": "Rectangle 8",
+        "type": 1,
+        "text": "请单击此处输入你的正文具体内容，文字是您思想的提炼，为了最终演示发布的良好效果，可酌情增减你的文字。",
+        "left": 105.5,
+        "top": 183.95,
+        "width": 332.65,
+        "height": 91.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 11,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 54,
+      "source_text": "请单击此处输入你的正文具体内容，文字是您思想的提炼，为了最终演示发布的良好效果，根据需要可酌情增减你的文字。",
+      "bounds_pt": {
+        "id": 11,
+        "name": "Rectangle 10",
+        "type": 1,
+        "text": "请单击此处输入你的正文具体内容，文字是您思想的提炼，为了最终演示发布的良好效果，根据需要可酌情增减你的文字。",
+        "left": 552.95,
+        "top": 183.95,
+        "width": 332.65,
+        "height": 91.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 15,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 15,
+        "name": "Rectangle 14",
+        "type": 1,
+        "text": "添加标题",
+        "left": 552.9,
+        "top": 346.3,
+        "width": 332.75,
+        "height": 34.3
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 12,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 12,
+        "name": "Rectangle 11",
+        "type": 1,
+        "text": "添加标题",
+        "left": 105.45,
+        "top": 353.9,
+        "width": 332.75,
+        "height": 34.3
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 16,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 50,
+      "source_text": "请单击此处输入你的正文具体内容，文字是您思想的提炼，为了最终演示发布的良好效果，可酌情增减你的文字。",
+      "bounds_pt": {
+        "id": 16,
+        "name": "Rectangle 15",
+        "type": 1,
+        "text": "请单击此处输入你的正文具体内容，文字是您思想的提炼，为了最终演示发布的良好效果，可酌情增减你的文字。",
+        "left": 552.95,
+        "top": 384.95,
+        "width": 332.65,
+        "height": 91.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 13,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 54,
+      "source_text": "请单击此处输入你的正文具体内容，文字是您思想的提炼，为了最终演示发布的良好效果，根据需要可酌情增减你的文字。",
+      "bounds_pt": {
+        "id": 13,
+        "name": "Rectangle 12",
+        "type": 1,
+        "text": "请单击此处输入你的正文具体内容，文字是您思想的提炼，为了最终演示发布的良好效果，根据需要可酌情增减你的文字。",
+        "left": 105.5,
+        "top": 392.55,
+        "width": 332.65,
+        "height": 91.1
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

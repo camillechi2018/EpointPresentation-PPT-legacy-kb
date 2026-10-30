@@ -1,0 +1,256 @@
+{
+  "layout_id": "content-p084",
+  "source_page": 84,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 2,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 54,
+      "source_text": "单击此处输入(您的)正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入(您的)智能图形项正文。",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Rectangle 1",
+        "type": 1,
+        "text": "单击此处输入(您的)正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入(您的)智能图形项正文。",
+        "left": 433.4,
+        "top": 128.45,
+        "width": 430.54993,
+        "height": 58.5
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 3,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 59,
+      "source_sample_chars": 59,
+      "source_text": "单击此处输入(您的)智能图形项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入(您的)智能图形项正文。",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Rectangle 2",
+        "type": 1,
+        "text": "单击此处输入(您的)智能图形项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入(您的)智能图形项正文。",
+        "left": 433.4,
+        "top": 203.05,
+        "width": 430.54993,
+        "height": 58.5
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 5,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 54,
+      "source_text": "单击此处输入(您的)正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入(您的)智能图形项正文。",
+      "bounds_pt": {
+        "id": 5,
+        "name": "Rectangle 4",
+        "type": 1,
+        "text": "单击此处输入(您的)正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入(您的)智能图形项正文。",
+        "left": 433.4,
+        "top": 276.35,
+        "width": 430.54993,
+        "height": 58.5
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 9,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 9,
+        "name": "Rectangle 8",
+        "type": 1,
+        "text": "添加标题",
+        "left": 56.1,
+        "top": 336.2,
+        "width": 114.75,
+        "height": 92.4
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 8,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 59,
+      "source_sample_chars": 59,
+      "source_text": "单击此处输入(您的)智能图形项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入(您的)智能图形项正文。",
+      "bounds_pt": {
+        "id": 8,
+        "name": "Rectangle 7",
+        "type": 1,
+        "text": "单击此处输入(您的)智能图形项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入(您的)智能图形项正文。",
+        "left": 433.4,
+        "top": 348.85,
+        "width": 430.54993,
+        "height": 58.5
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 7,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 54,
+      "source_text": "单击此处输入(您的)正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入(您的)智能图形项正文。",
+      "bounds_pt": {
+        "id": 7,
+        "name": "Rectangle 6",
+        "type": 1,
+        "text": "单击此处输入(您的)正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入(您的)智能图形项正文。",
+        "left": 433.4,
+        "top": 425.6,
+        "width": 430.54993,
+        "height": 58.5
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 12,
+      "shape_name": "图片 6",
+      "bounds_pt": {
+        "id": 12,
+        "name": "图片 6",
+        "type": 28,
+        "text": "",
+        "left": 348.55,
+        "top": 290.95,
+        "width": 37.4,
+        "height": 37.4
+      },
+      "kind": "template-decoration",
+      "sha256": "8e75a9b6b36f02aa7e43bb6a4aa5abc7cbbd3029ecc2e19b178e7d2f61a182c9",
+      "replace_required": false
+    },
+    {
+      "shape_id": 14,
+      "shape_name": "图片 15",
+      "bounds_pt": {
+        "id": 14,
+        "name": "图片 15",
+        "type": 28,
+        "text": "",
+        "left": 348.1,
+        "top": 441.2,
+        "width": 37.4,
+        "height": 37.4
+      },
+      "kind": "template-decoration",
+      "sha256": "d2ab0a243c1048b33cfd6740ef140b60feee7e14172debcbdd6bda5160e67702",
+      "replace_required": false
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "图片 17",
+      "bounds_pt": {
+        "id": 15,
+        "name": "图片 17",
+        "type": 28,
+        "text": "",
+        "left": 348.1,
+        "top": 216.95,
+        "width": 37.4,
+        "height": 37.4
+      },
+      "kind": "template-decoration",
+      "sha256": "5d512e365d10869d513ece1f2c3fa47c8b70e0b4094d081dbfdbd28ab158583c",
+      "replace_required": false
+    },
+    {
+      "shape_id": 13,
+      "shape_name": "图片 3",
+      "bounds_pt": {
+        "id": 13,
+        "name": "图片 3",
+        "type": 28,
+        "text": "",
+        "left": 84.35008,
+        "top": 274.35007,
+        "width": 54.05,
+        "height": 54.05
+      },
+      "kind": "template-decoration",
+      "sha256": "0b0dea08cdb24d71ef0fbe059fcfaa2230ab65776823ed48b6878e7589e10a98",
+      "replace_required": false
+    },
+    {
+      "shape_id": 11,
+      "shape_name": "图片 3",
+      "bounds_pt": {
+        "id": 11,
+        "name": "图片 3",
+        "type": 28,
+        "text": "",
+        "left": 348.1,
+        "top": 365.0,
+        "width": 37.4,
+        "height": 37.4
+      },
+      "kind": "template-decoration",
+      "sha256": "3c223d0524776ca3fa989e0e98a89126fa52b20ee3d04a6c539bd2bd6eb85baf",
+      "replace_required": false
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "图片 21",
+      "bounds_pt": {
+        "id": 6,
+        "name": "图片 21",
+        "type": 28,
+        "text": "",
+        "left": 348.1,
+        "top": 142.05,
+        "width": 37.5,
+        "height": 37.5
+      },
+      "kind": "template-decoration",
+      "sha256": "3cdf572ff78795bb50f6ff2a8e2c160a68ef45b39ee5422245c32951a9852b29",
+      "replace_required": false
+    }
+  ]
+}

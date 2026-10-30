@@ -1,0 +1,124 @@
+{
+  "layout_id": "content-p090",
+  "source_page": 90,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 6,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "单击添加项标题",
+      "bounds_pt": {
+        "id": 6,
+        "name": "TextBox 5",
+        "type": 17,
+        "text": "单击添加项标题",
+        "left": 109.6,
+        "top": 217.55,
+        "width": 299.7,
+        "height": 29.1
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 15,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 52,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想",
+      "bounds_pt": {
+        "id": 15,
+        "name": "文本框 34",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想",
+        "left": 109.55,
+        "top": 251.8,
+        "width": 299.7,
+        "height": 104.95
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 3,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "单击添加项标题",
+      "bounds_pt": {
+        "id": 3,
+        "name": "TextBox 2",
+        "type": 17,
+        "text": "单击添加项标题",
+        "left": 547.15,
+        "top": 287.35,
+        "width": 299.75,
+        "height": 29.1
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 4,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 52,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想",
+      "bounds_pt": {
+        "id": 4,
+        "name": "文本框 34",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想",
+        "left": 547.2,
+        "top": 321.6,
+        "width": 299.7,
+        "height": 104.95
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [
+    {
+      "shape_id": 12,
+      "text": "优势",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 11,
+      "text": "劣势",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

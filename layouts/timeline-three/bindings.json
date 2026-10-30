@@ -1,0 +1,60 @@
+{
+  "layout_id": "timeline-three",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "max_chars": 24
+    },
+    {
+      "field": "stage_1_title",
+      "shape_id": 17,
+      "max_chars": 10
+    },
+    {
+      "field": "stage_1_body",
+      "shape_id": 16,
+      "max_chars": 35
+    },
+    {
+      "field": "stage_1_date",
+      "shape_id": 25,
+      "max_chars": 10
+    },
+    {
+      "field": "stage_2_title",
+      "shape_id": 20,
+      "max_chars": 10
+    },
+    {
+      "field": "stage_2_body",
+      "shape_id": 19,
+      "max_chars": 35
+    },
+    {
+      "field": "stage_2_date",
+      "shape_id": 26,
+      "max_chars": 10
+    },
+    {
+      "field": "stage_3_title",
+      "shape_id": 22,
+      "max_chars": 10
+    },
+    {
+      "field": "stage_3_body",
+      "shape_id": 21,
+      "max_chars": 35
+    },
+    {
+      "field": "stage_3_date",
+      "shape_id": 27,
+      "max_chars": 10
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

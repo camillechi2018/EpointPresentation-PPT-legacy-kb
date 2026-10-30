@@ -1,0 +1,259 @@
+{
+  "layout_id": "content-p195",
+  "source_page": 195,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 32,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 32,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 141.65552,
+        "top": 349.8496,
+        "width": 112.010864,
+        "height": 30.355827
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 19,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 19,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 282.5544,
+        "top": 349.8496,
+        "width": 112.010864,
+        "height": 30.355827
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 20,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 20,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 423.4533,
+        "top": 349.8496,
+        "width": 112.010864,
+        "height": 30.355827
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 25,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 25,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 564.35223,
+        "top": 349.8496,
+        "width": 112.010864,
+        "height": 30.355827
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_05",
+      "shape_id": 33,
+      "shape_name": "field:item_title_05",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 33,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 705.25104,
+        "top": 349.8496,
+        "width": 112.010864,
+        "height": 30.355827
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 31,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 19,
+      "source_sample_chars": 19,
+      "source_text": "单击此处添加文本，简明扼要地阐述观点。",
+      "bounds_pt": {
+        "id": 31,
+        "name": "TextBox 30",
+        "type": 17,
+        "text": "单击此处添加文本，简明扼要地阐述观点。",
+        "left": 141.18599,
+        "top": 389.21875,
+        "width": 112.95,
+        "height": 73.2
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 18,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 19,
+      "source_sample_chars": 19,
+      "source_text": "单击此处添加文本，简明扼要地阐述观点。",
+      "bounds_pt": {
+        "id": 18,
+        "name": "TextBox 17",
+        "type": 17,
+        "text": "单击此处添加文本，简明扼要地阐述观点。",
+        "left": 282.08487,
+        "top": 389.21875,
+        "width": 112.95,
+        "height": 73.2
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 21,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 19,
+      "source_sample_chars": 19,
+      "source_text": "单击此处添加文本，简明扼要地阐述观点。",
+      "bounds_pt": {
+        "id": 21,
+        "name": "TextBox 20",
+        "type": 17,
+        "text": "单击此处添加文本，简明扼要地阐述观点。",
+        "left": 422.98376,
+        "top": 389.21875,
+        "width": 112.95,
+        "height": 73.2
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 26,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 19,
+      "source_sample_chars": 19,
+      "source_text": "单击此处添加文本，简明扼要地阐述观点。",
+      "bounds_pt": {
+        "id": 26,
+        "name": "TextBox 25",
+        "type": 17,
+        "text": "单击此处添加文本，简明扼要地阐述观点。",
+        "left": 563.8827,
+        "top": 389.21875,
+        "width": 112.95,
+        "height": 73.2
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 34,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 19,
+      "source_sample_chars": 19,
+      "source_text": "单击此处添加文本，简明扼要地阐述观点。",
+      "bounds_pt": {
+        "id": 34,
+        "name": "TextBox 33",
+        "type": 17,
+        "text": "单击此处添加文本，简明扼要地阐述观点。",
+        "left": 704.7815,
+        "top": 389.21875,
+        "width": 112.95,
+        "height": 73.2
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [
+    {
+      "shape_id": 29,
+      "text": "01",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 13,
+      "text": "02",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 24,
+      "text": "03",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 17,
+      "text": "04",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 30,
+      "text": "05",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

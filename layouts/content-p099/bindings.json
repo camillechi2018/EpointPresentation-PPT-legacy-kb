@@ -1,0 +1,189 @@
+{
+  "layout_id": "content-p099",
+  "source_page": 99,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "单击此处添加页面的标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加页面的标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 12,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "单击添加项标题内容",
+      "bounds_pt": {
+        "id": 12,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加项标题内容",
+        "left": 360.2,
+        "top": 145.0,
+        "width": 552.15,
+        "height": 26.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 9,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 63,
+      "source_sample_chars": 63,
+      "source_text": "单击此处编辑添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+      "bounds_pt": {
+        "id": 9,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处编辑添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+        "left": 360.2,
+        "top": 171.2,
+        "width": 552.15,
+        "height": 68.25
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 15,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "单击添加项标题内容",
+      "bounds_pt": {
+        "id": 15,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加项标题内容",
+        "left": 360.2,
+        "top": 267.8,
+        "width": 552.15,
+        "height": 26.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 14,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 63,
+      "source_sample_chars": 63,
+      "source_text": "单击此处编辑添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+      "bounds_pt": {
+        "id": 14,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处编辑添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+        "left": 360.2,
+        "top": 294.0,
+        "width": 552.15,
+        "height": 68.25
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 18,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "单击添加项标题内容",
+      "bounds_pt": {
+        "id": 18,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加项标题内容",
+        "left": 360.2,
+        "top": 390.6,
+        "width": 552.15,
+        "height": 26.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 17,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 63,
+      "source_sample_chars": 63,
+      "source_text": "单击此处编辑添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+      "bounds_pt": {
+        "id": 17,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处编辑添加正文，文字是您思想的提炼，为了最终演示发布的良好效果。根据需要可酌情增减文字，以便观者准确理解您所传达的信息。",
+        "left": 360.2,
+        "top": 416.8,
+        "width": 552.15,
+        "height": 68.25
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 30,
+        "shape_name": "field:image:30",
+        "required": true,
+        "bounds_pt": {
+          "id": 30,
+          "name": "Picture 29",
+          "type": 13,
+          "text": "",
+          "left": 27.25,
+          "top": 147.55,
+          "width": 295.3,
+          "height": 295.0
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 30,
+      "shape_name": "field:image:30",
+      "bounds_pt": {
+        "id": 30,
+        "name": "Picture 29",
+        "type": 13,
+        "text": "",
+        "left": 27.25,
+        "top": 147.55,
+        "width": 295.3,
+        "height": 295.0
+      },
+      "kind": "content-image",
+      "sha256": "226f68a02b48b05d3b525b6be565538f91451ff56da39b659bcfa3a5b2822b05",
+      "replace_required": true
+    }
+  ]
+}

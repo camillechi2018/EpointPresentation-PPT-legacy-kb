@@ -1,0 +1,35 @@
+{
+  "layout_id": "chart-comparison",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "max_chars": 22
+    },
+    {
+      "field": "chart_title",
+      "shape_id": 135,
+      "max_chars": 20
+    },
+    {
+      "field": "explanation",
+      "shape_id": 133,
+      "max_chars": 65
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 3,
+        "type": "COLUMN_CLUSTERED (51)"
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 139,
+        "shape_name": "field:image"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "layout_id": "integration-relations",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "max_chars": 24
+    },
+    {
+      "field": "boundary",
+      "shape_id": 4,
+      "max_chars": 18
+    },
+    {
+      "field": "identity",
+      "shape_id": 5,
+      "max_chars": 12
+    },
+    {
+      "field": "portal",
+      "shape_id": 6,
+      "max_chars": 12
+    },
+    {
+      "field": "service",
+      "shape_id": 7,
+      "max_chars": 12
+    },
+    {
+      "field": "knowledge",
+      "shape_id": 8,
+      "max_chars": 12
+    },
+    {
+      "field": "legend",
+      "shape_id": 17,
+      "max_chars": 85
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

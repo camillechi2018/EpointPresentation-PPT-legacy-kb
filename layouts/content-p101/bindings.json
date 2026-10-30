@@ -1,0 +1,89 @@
+{
+  "layout_id": "content-p101",
+  "source_page": 101,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "单击此处添\u000b加标题内容",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添\u000b加标题内容",
+        "left": 623.3,
+        "top": 50.45,
+        "width": 267.3,
+        "height": 153.6
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 5,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 182,
+      "source_sample_chars": 182,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字。\n\n单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字。",
+      "bounds_pt": {
+        "id": 5,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字。\r\r单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字。",
+        "left": 613.8,
+        "top": 221.75,
+        "width": 286.25,
+        "height": 269.4
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 12,
+        "shape_name": "field:image:12",
+        "required": true,
+        "bounds_pt": {
+          "id": 12,
+          "name": "Picture 11",
+          "type": 13,
+          "text": "",
+          "left": 84.15,
+          "top": 112.65,
+          "width": 498.25,
+          "height": 328.95
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 12,
+      "shape_name": "field:image:12",
+      "bounds_pt": {
+        "id": 12,
+        "name": "Picture 11",
+        "type": 13,
+        "text": "",
+        "left": 84.15,
+        "top": 112.65,
+        "width": 498.25,
+        "height": 328.95
+      },
+      "kind": "content-image",
+      "sha256": "06f1f61488227284babada310352c8fbc51133cb4327e6a36dcb33362dfb6f16",
+      "replace_required": true
+    }
+  ]
+}

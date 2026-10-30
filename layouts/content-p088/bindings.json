@@ -1,0 +1,84 @@
+{
+  "layout_id": "content-p088",
+  "source_page": 88,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 14,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 14,
+        "name": "标题",
+        "type": 17,
+        "text": "添加标题",
+        "left": 580.2,
+        "top": 162.9,
+        "width": 331.4,
+        "height": 29.4
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 21,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 157,
+      "source_sample_chars": 157,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想",
+      "bounds_pt": {
+        "id": 21,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想",
+        "left": 580.2,
+        "top": 227.69992,
+        "width": 331.4,
+        "height": 178.78102
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 13,
+        "type": "BAR_CLUSTERED (57)",
+        "plot_types": [
+          "BarPlot"
+        ],
+        "categories_max": 5,
+        "series_max": 1,
+        "requires_real_data": true
+      }
+    ],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

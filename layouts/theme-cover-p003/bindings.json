@@ -1,0 +1,46 @@
+{
+  "layout_id": "theme-cover-p003",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 4,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 12,
+      "bounds_pt": {
+        "id": 4,
+        "path": "3/4",
+        "name": "标题",
+        "type": 14,
+        "text": "3D简约风\u000b通用总结报告",
+        "left": 83.00016,
+        "top": 142.13402,
+        "width": 479.7966,
+        "height": 180.697
+      }
+    },
+    {
+      "field": "presenter",
+      "shape_id": 10,
+      "shape_name": "field:presenter",
+      "type": "text",
+      "max_chars": 3,
+      "bounds_pt": {
+        "id": 10,
+        "path": "3/10",
+        "name": "署名",
+        "type": 14,
+        "text": "汇报人：WPS",
+        "left": 134.93607,
+        "top": 364.1471,
+        "width": 226.77165,
+        "height": 42.519684
+      }
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

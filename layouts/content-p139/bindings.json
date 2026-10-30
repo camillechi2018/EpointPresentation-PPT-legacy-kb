@@ -1,0 +1,319 @@
+{
+  "layout_id": "content-p139",
+  "source_page": 139,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 11,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 11,
+        "name": "Rectangle 10",
+        "type": 1,
+        "text": "添加标题",
+        "left": 68.3822,
+        "top": 219.60796,
+        "width": 130.39055,
+        "height": 32.58386
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 14,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 14,
+        "name": "Rectangle 13",
+        "type": 1,
+        "text": "添加标题",
+        "left": 242.0711,
+        "top": 219.60796,
+        "width": 130.39055,
+        "height": 32.58386
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 16,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 16,
+        "name": "Rectangle 15",
+        "type": 1,
+        "text": "添加标题",
+        "left": 415.76,
+        "top": 219.60796,
+        "width": 130.39055,
+        "height": 32.58386
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 18,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 18,
+        "name": "Rectangle 17",
+        "type": 1,
+        "text": "添加标题",
+        "left": 588.7361,
+        "top": 219.60796,
+        "width": 130.39055,
+        "height": 32.58386
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_05",
+      "shape_id": 20,
+      "shape_name": "field:item_title_05",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 20,
+        "name": "Rectangle 19",
+        "type": 1,
+        "text": "添加标题",
+        "left": 762.42505,
+        "top": 219.60796,
+        "width": 130.39055,
+        "height": 32.58386
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 10,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 50,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，单击此处添加文本具体内容。",
+      "bounds_pt": {
+        "id": 10,
+        "name": "Rectangle 9",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，单击此处添加文本具体内容。",
+        "left": 68.3822,
+        "top": 259.18787,
+        "width": 130.39055,
+        "height": 112.28189
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 12,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 50,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，单击此处添加文本具体内容。",
+      "bounds_pt": {
+        "id": 12,
+        "name": "Rectangle 11",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，单击此处添加文本具体内容。",
+        "left": 242.0711,
+        "top": 259.18787,
+        "width": 130.39055,
+        "height": 112.28189
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 15,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 50,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，单击此处添加文本具体内容。",
+      "bounds_pt": {
+        "id": 15,
+        "name": "Rectangle 14",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，单击此处添加文本具体内容。",
+        "left": 415.76,
+        "top": 259.18787,
+        "width": 130.39055,
+        "height": 112.28189
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 3,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 50,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，单击此处添加文本具体内容。",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Rectangle 2",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，单击此处添加文本具体内容。",
+        "left": 588.7361,
+        "top": 259.18787,
+        "width": 130.39055,
+        "height": 112.28189
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 19,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 50,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，单击此处添加文本具体内容。",
+      "bounds_pt": {
+        "id": 19,
+        "name": "Rectangle 18",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，单击此处添加文本具体内容。",
+        "left": 762.42505,
+        "top": 259.18787,
+        "width": 130.39055,
+        "height": 112.28189
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 21,
+      "shape_name": "图片 3",
+      "bounds_pt": {
+        "id": 21,
+        "name": "图片 3",
+        "type": 28,
+        "text": "",
+        "left": 114.103226,
+        "top": 167.95772,
+        "width": 38.948345,
+        "height": 38.948345
+      },
+      "kind": "template-decoration",
+      "sha256": "1c82a6dda31265b5d030d2ed26e0c3b36eecbd6cbaab04fdd61aaa36b65cc930",
+      "replace_required": false
+    },
+    {
+      "shape_id": 23,
+      "shape_name": "图片 13",
+      "bounds_pt": {
+        "id": 23,
+        "name": "图片 13",
+        "type": 28,
+        "text": "",
+        "left": 807.94324,
+        "top": 167.5522,
+        "width": 39.35386,
+        "height": 39.35386
+      },
+      "kind": "template-decoration",
+      "sha256": "c81c672508646b904278c1584ba7348befb03685fb9173f6b5b1848bdc617fed",
+      "replace_required": false
+    },
+    {
+      "shape_id": 22,
+      "shape_name": "图片 6",
+      "bounds_pt": {
+        "id": 22,
+        "name": "图片 6",
+        "type": 28,
+        "text": "",
+        "left": 634.2543,
+        "top": 167.5522,
+        "width": 39.35386,
+        "height": 39.35386
+      },
+      "kind": "template-decoration",
+      "sha256": "9c1fc7d7a601dc049b7977b0c50978494c19204623a30110d5380676f03e6bba",
+      "replace_required": false
+    },
+    {
+      "shape_id": 24,
+      "shape_name": "图片 15",
+      "bounds_pt": {
+        "id": 24,
+        "name": "图片 15",
+        "type": 28,
+        "text": "",
+        "left": 287.58936,
+        "top": 167.5522,
+        "width": 39.35386,
+        "height": 39.35386
+      },
+      "kind": "template-decoration",
+      "sha256": "a483bf3b972e3c170ac1fac0221240d5003a33e65ae8901db83c31892aee9262",
+      "replace_required": false
+    },
+    {
+      "shape_id": 25,
+      "shape_name": "图片 17",
+      "bounds_pt": {
+        "id": 25,
+        "name": "图片 17",
+        "type": 28,
+        "text": "",
+        "left": 461.03574,
+        "top": 167.5522,
+        "width": 39.35386,
+        "height": 39.35386
+      },
+      "kind": "template-decoration",
+      "sha256": "5187fbb965f06646ccf71a09e3736d6b847c9ca7145bdbd4360650c033c12ce3",
+      "replace_required": false
+    }
+  ]
+}

@@ -1,0 +1,731 @@
+{
+  "theme": "teal-example",
+  "count": 48,
+  "assets": [
+    {
+      "id": "asset-74b1aed2e6ea5561",
+      "source_pages": [
+        4,
+        27,
+        41,
+        207
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-74b1aed2e6ea5561.svg",
+      "replacements": [
+        {
+          "from": "#4096FF",
+          "to": "#087F83",
+          "count": 1
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-ac894763a4072306",
+      "source_pages": [
+        67
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-ac894763a4072306.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 1
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-0557b9568433c799",
+      "source_pages": [
+        67
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-0557b9568433c799.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 1
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-9baaa4b47b04dad8",
+      "source_pages": [
+        67
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-9baaa4b47b04dad8.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 1
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-b9928d99b59f2562",
+      "source_pages": [
+        67
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-b9928d99b59f2562.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 1
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-ebcde649116298c6",
+      "source_pages": [
+        70
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-ebcde649116298c6.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 1
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-6f2910141bbaaf85",
+      "source_pages": [
+        70
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-6f2910141bbaaf85.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 1
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-bb0ca4d076bbd513",
+      "source_pages": [
+        70
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-bb0ca4d076bbd513.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 1
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-ad4d1ea7fac35a31",
+      "source_pages": [
+        74
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-ad4d1ea7fac35a31.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-abb166fd643ecdda",
+      "source_pages": [
+        74
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-abb166fd643ecdda.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-fe37cc143292daaa",
+      "source_pages": [
+        74
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-fe37cc143292daaa.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-3dd51ea27a781550",
+      "source_pages": [
+        74
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-3dd51ea27a781550.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-82bc6a987a7750e7",
+      "source_pages": [
+        76
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-82bc6a987a7750e7.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-665212723879adba",
+      "source_pages": [
+        84
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-665212723879adba.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-9f3a17dc16907224",
+      "source_pages": [
+        105
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-9f3a17dc16907224.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-0f33fdf4d51f538b",
+      "source_pages": [
+        105
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-0f33fdf4d51f538b.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-a174e013d29ae620",
+      "source_pages": [
+        105
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-a174e013d29ae620.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-2b2513bbf1fb8bbc",
+      "source_pages": [
+        105
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-2b2513bbf1fb8bbc.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-ea398a1be41e635b",
+      "source_pages": [
+        105
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-ea398a1be41e635b.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-8599eb6318be8f0b",
+      "source_pages": [
+        108,
+        181
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-8599eb6318be8f0b.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-b56b3a43bba95bfd",
+      "source_pages": [
+        125
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-b56b3a43bba95bfd.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-90a5f5e139571ac0",
+      "source_pages": [
+        125
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-90a5f5e139571ac0.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-6c9732e055d0f84a",
+      "source_pages": [
+        125
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-6c9732e055d0f84a.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-af8786a8b09e3092",
+      "source_pages": [
+        125
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-af8786a8b09e3092.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-7eea0d45f43672e1",
+      "source_pages": [
+        125
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-7eea0d45f43672e1.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-c16e64f281a88cc5",
+      "source_pages": [
+        134
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-c16e64f281a88cc5.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-e3cf0e46c336e20d",
+      "source_pages": [
+        134
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-e3cf0e46c336e20d.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-2a5bf71ed5c66b59",
+      "source_pages": [
+        134
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-2a5bf71ed5c66b59.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-1b004ce04819613a",
+      "source_pages": [
+        139
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-1b004ce04819613a.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-65bdd8788d0ae309",
+      "source_pages": [
+        139
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-65bdd8788d0ae309.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-dfa754360f1db545",
+      "source_pages": [
+        139
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-dfa754360f1db545.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-c89a464b81cfac89",
+      "source_pages": [
+        139
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-c89a464b81cfac89.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-3443fdb25eb7bd13",
+      "source_pages": [
+        152
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-3443fdb25eb7bd13.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-f968464d9d543a10",
+      "source_pages": [
+        152
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-f968464d9d543a10.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-acb0be6078b14801",
+      "source_pages": [
+        152
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-acb0be6078b14801.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-cacd4b3dd7ce3460",
+      "source_pages": [
+        164
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-cacd4b3dd7ce3460.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-42cbda3695b07aa9",
+      "source_pages": [
+        164
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-42cbda3695b07aa9.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-96a1668a3ead4255",
+      "source_pages": [
+        167
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-96a1668a3ead4255.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-dc6fa075c71b1ba4",
+      "source_pages": [
+        167
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-dc6fa075c71b1ba4.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-44d240a548959bca",
+      "source_pages": [
+        167
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-44d240a548959bca.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-a214fdaa6b6d14ef",
+      "source_pages": [
+        173
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-a214fdaa6b6d14ef.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-c781f84bb7e98ce6",
+      "source_pages": [
+        187
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-c781f84bb7e98ce6.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-5e9317211699212a",
+      "source_pages": [
+        187
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-5e9317211699212a.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-50a0298c4f52cdef",
+      "source_pages": [
+        187
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-50a0298c4f52cdef.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-2aefc9cc70f092bd",
+      "source_pages": [
+        189
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-2aefc9cc70f092bd.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-996f5b86a475e9f5",
+      "source_pages": [
+        199
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-996f5b86a475e9f5.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-48f4a98dbe90d3ea",
+      "source_pages": [
+        199
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-48f4a98dbe90d3ea.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    },
+    {
+      "id": "asset-7dc1288a1aa986c0",
+      "source_pages": [
+        199
+      ],
+      "file": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\模板提炼包-v0.10\\theme-assets\\variants\\teal-example\\asset-7dc1288a1aa986c0.svg",
+      "replacements": [
+        {
+          "from": "#376FFF",
+          "to": "#087F83",
+          "count": 2
+        }
+      ],
+      "status": "generated_pending_visual_review"
+    }
+  ],
+  "pptx_embedded_fallbacks_updated": false
+}

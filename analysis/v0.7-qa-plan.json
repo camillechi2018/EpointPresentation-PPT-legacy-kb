@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "library_version": "0.7.0",
+  "seed": 42,
+  "vary_layouts": false,
+  "pages": [
+    {
+      "page": 1,
+      "purpose": "封面",
+      "evidence": null,
+      "layout_id": "theme-cover-p013",
+      "source_page": 13,
+      "collection": "source-theme",
+      "role": "cover",
+      "candidate_count": 1,
+      "selection_reason": "指定版式",
+      "image_sources": [],
+      "data_source": null,
+      "filled_file": null
+    },
+    {
+      "page": 2,
+      "purpose": "目录",
+      "evidence": null,
+      "layout_id": "theme-agenda-p035",
+      "source_page": 35,
+      "collection": "source-theme",
+      "role": "agenda",
+      "candidate_count": 1,
+      "selection_reason": "指定版式",
+      "image_sources": [],
+      "data_source": null,
+      "filled_file": null
+    },
+    {
+      "page": 3,
+      "purpose": "章节",
+      "evidence": null,
+      "layout_id": "theme-chapter-p047",
+      "source_page": 47,
+      "collection": "source-theme",
+      "role": "chapter",
+      "candidate_count": 1,
+      "selection_reason": "指定版式",
+      "image_sources": [],
+      "data_source": null,
+      "filled_file": null
+    },
+    {
+      "page": 4,
+      "purpose": "结束",
+      "evidence": null,
+      "layout_id": "theme-closing-p213",
+      "source_page": 213,
+      "collection": "source-theme",
+      "role": "closing",
+      "candidate_count": 1,
+      "selection_reason": "指定版式",
+      "image_sources": [],
+      "data_source": null,
+      "filled_file": null
+    }
+  ],
+  "status": "planned_not_filled"
+}

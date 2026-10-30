@@ -1,0 +1,262 @@
+{
+  "layout_id": "content-p118",
+  "source_page": 118,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 9,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 9,
+        "name": "Title 8",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 18,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 18,
+        "name": "Oval 17",
+        "type": 1,
+        "text": "添加标题",
+        "left": 143.5,
+        "top": 205.15,
+        "width": 129.3,
+        "height": 129.3
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 25,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 25,
+        "name": "Oval 24",
+        "type": 1,
+        "text": "添加标题",
+        "left": 324.75,
+        "top": 205.15,
+        "width": 129.3,
+        "height": 129.3
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 2,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Oval 1",
+        "type": 1,
+        "text": "添加标题",
+        "left": 506.0,
+        "top": 205.15,
+        "width": 129.3,
+        "height": 129.3
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 24,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 24,
+        "name": "Oval 23",
+        "type": 1,
+        "text": "添加标题",
+        "left": 687.25,
+        "top": 205.15,
+        "width": 129.3,
+        "height": 129.3
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 27,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 18,
+      "source_sample_chars": 18,
+      "source_text": "单击此处添加正文，文字是您思想的提炼",
+      "bounds_pt": {
+        "id": 27,
+        "name": "Rectangle 26",
+        "type": 1,
+        "text": "单击此处添加正文，文字是您思想的提炼",
+        "left": 136.6,
+        "top": 385.0,
+        "width": 143.1,
+        "height": 114.45
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 28,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 14,
+      "source_sample_chars": 14,
+      "source_text": "单击此处添加你的文本具体内容",
+      "bounds_pt": {
+        "id": 28,
+        "name": "Rectangle 27",
+        "type": 1,
+        "text": "单击此处添加你的文本具体内容",
+        "left": 318.65,
+        "top": 385.0,
+        "width": 144.0,
+        "height": 114.45
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 22,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 18,
+      "source_sample_chars": 18,
+      "source_text": "单击此处添加正文，文字是您思想的提炼",
+      "bounds_pt": {
+        "id": 22,
+        "name": "Rectangle 21",
+        "type": 1,
+        "text": "单击此处添加正文，文字是您思想的提炼",
+        "left": 501.45,
+        "top": 385.0,
+        "width": 141.3,
+        "height": 114.45
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 23,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 14,
+      "source_sample_chars": 14,
+      "source_text": "单击此处添加你的文本具体内容",
+      "bounds_pt": {
+        "id": 23,
+        "name": "Rectangle 22",
+        "type": 1,
+        "text": "单击此处添加你的文本具体内容",
+        "left": 681.3,
+        "top": 385.0,
+        "width": 141.3,
+        "height": 114.45
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 32,
+      "shape_name": "图片 15",
+      "bounds_pt": {
+        "id": 32,
+        "name": "图片 15",
+        "type": 28,
+        "text": "",
+        "left": 197.42276,
+        "top": 236.7,
+        "width": 22.677166,
+        "height": 22.677166
+      },
+      "kind": "template-decoration",
+      "sha256": "116955f0ffda38ec3bf3c5de2c8c5e4bf85deeb0c97030e81afe214fec6b5c0b",
+      "replace_required": false
+    },
+    {
+      "shape_id": 36,
+      "shape_name": "图片 19",
+      "bounds_pt": {
+        "id": 36,
+        "name": "图片 19",
+        "type": 28,
+        "text": "",
+        "left": 378.9744,
+        "top": 235.35,
+        "width": 22.677166,
+        "height": 22.677166
+      },
+      "kind": "template-decoration",
+      "sha256": "af47b855da99ac5a22b30a495e7acd894aed189ae8428f42b872935f1a76253f",
+      "replace_required": false
+    },
+    {
+      "shape_id": 37,
+      "shape_name": "图片 11",
+      "bounds_pt": {
+        "id": 37,
+        "name": "图片 11",
+        "type": 28,
+        "text": "",
+        "left": 558.3999,
+        "top": 236.21268,
+        "width": 22.677166,
+        "height": 22.677166
+      },
+      "kind": "template-decoration",
+      "sha256": "ee542d2bd79dcfe23e05afbab3d54e8fa556bba9ae9d3b51d39b333b29d1b689",
+      "replace_required": false
+    },
+    {
+      "shape_id": 38,
+      "shape_name": "图片 12",
+      "bounds_pt": {
+        "id": 38,
+        "name": "图片 12",
+        "type": 28,
+        "text": "",
+        "left": 739.65,
+        "top": 235.78394,
+        "width": 22.677166,
+        "height": 22.677166
+      },
+      "kind": "template-decoration",
+      "sha256": "3972f24323dda74321cf8daf1673543b01fd86e7d736848d21affa8acd78a31c",
+      "replace_required": false
+    }
+  ]
+}

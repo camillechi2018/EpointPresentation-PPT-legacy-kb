@@ -1,0 +1,64 @@
+{
+  "layout_id": "theme-cover-p005",
+  "fields": [
+    {
+      "field": "brand",
+      "shape_id": 6,
+      "shape_name": "field:brand",
+      "type": "text",
+      "max_chars": 4,
+      "bounds_pt": {
+        "id": 6,
+        "path": "5/6",
+        "name": "公司名",
+        "type": 14,
+        "text": "金山办公软件有限公司",
+        "left": 133.56166,
+        "top": 98.45118,
+        "width": 226.77165,
+        "height": 39.68504
+      }
+    },
+    {
+      "field": "title",
+      "shape_id": 4,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 15,
+      "bounds_pt": {
+        "id": 4,
+        "path": "5/4",
+        "name": "标题",
+        "type": 14,
+        "text": "极简工作汇报通用\r20XX年度",
+        "left": 133.75,
+        "top": 159.05,
+        "width": 444.3,
+        "height": 219.95
+      }
+    },
+    {
+      "field": "presenter",
+      "shape_id": 10,
+      "shape_name": "field:presenter",
+      "type": "text",
+      "max_chars": 3,
+      "bounds_pt": {
+        "id": 10,
+        "path": "5/10",
+        "name": "署名",
+        "type": 14,
+        "text": "汇报人：WPS",
+        "left": 133.55,
+        "top": 399.4,
+        "width": 226.85,
+        "height": 39.7
+      }
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

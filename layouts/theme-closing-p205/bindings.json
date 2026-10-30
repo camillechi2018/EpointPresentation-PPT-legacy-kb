@@ -1,0 +1,64 @@
+{
+  "layout_id": "theme-closing-p205",
+  "fields": [
+    {
+      "field": "date",
+      "shape_id": 3,
+      "shape_name": "field:date",
+      "type": "text",
+      "max_chars": 10,
+      "bounds_pt": {
+        "id": 3,
+        "path": "205/3",
+        "name": "日期",
+        "type": 14,
+        "text": "202X/01/01",
+        "left": 73.7,
+        "top": 140.0,
+        "width": 435.0,
+        "height": 63.7
+      }
+    },
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 4,
+      "bounds_pt": {
+        "id": 2,
+        "path": "205/2",
+        "name": "标题",
+        "type": 14,
+        "text": "感谢观看",
+        "left": 70.582596,
+        "top": 211.90393,
+        "width": 434.99976,
+        "height": 110.45276
+      }
+    },
+    {
+      "field": "presenter",
+      "shape_id": 4,
+      "shape_name": "field:presenter",
+      "type": "text",
+      "max_chars": 3,
+      "bounds_pt": {
+        "id": 4,
+        "path": "205/4",
+        "name": "Text Placeholder 3",
+        "type": 14,
+        "text": "汇报人：WPS",
+        "left": 81.07087,
+        "top": 330.5571,
+        "width": 267.87402,
+        "height": 42.519684
+      }
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

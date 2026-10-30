@@ -1,0 +1,124 @@
+{
+  "layout_id": "content-p196",
+  "source_page": 196,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 10,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击添加项目标题",
+      "bounds_pt": {
+        "id": 10,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加项目标题",
+        "left": 71.05,
+        "top": 175.0,
+        "width": 386.25,
+        "height": 34.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 9,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 32,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+      "bounds_pt": {
+        "id": 9,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+        "left": 71.05,
+        "top": 210.85,
+        "width": 386.25,
+        "height": 83.65
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 13,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击添加项目标题",
+      "bounds_pt": {
+        "id": 13,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加项目标题",
+        "left": 71.05,
+        "top": 334.7,
+        "width": 386.25,
+        "height": 34.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 12,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 36,
+      "source_text": "单击此处编辑添加正文内容，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+      "bounds_pt": {
+        "id": 12,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处编辑添加正文内容，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+        "left": 71.05,
+        "top": 370.55,
+        "width": 386.25,
+        "height": 83.65
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 11,
+        "type": "LINE (4)",
+        "plot_types": [
+          "LinePlot"
+        ],
+        "categories_max": 4,
+        "series_max": 3,
+        "requires_real_data": true
+      }
+    ],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

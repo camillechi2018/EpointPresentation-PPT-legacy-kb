@@ -1,0 +1,353 @@
+{
+  "layout_id": "content-p062",
+  "source_page": 62,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "value_01",
+      "shape_id": 43,
+      "shape_name": "field:value_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 43,
+        "name": "TextBox 42",
+        "type": 17,
+        "text": "20XX",
+        "left": 101.31661,
+        "top": 186.05031,
+        "width": 101.61551,
+        "height": 19.888662
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "value_02",
+      "shape_id": 44,
+      "shape_name": "field:value_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 44,
+        "name": "TextBox 43",
+        "type": 17,
+        "text": "20XX",
+        "left": 283.7037,
+        "top": 186.05031,
+        "width": 101.61551,
+        "height": 19.888662
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "value_03",
+      "shape_id": 45,
+      "shape_name": "field:value_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 45,
+        "name": "TextBox 44",
+        "type": 17,
+        "text": "20XX",
+        "left": 469.7801,
+        "top": 186.05031,
+        "width": 101.61551,
+        "height": 19.888662
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "value_04",
+      "shape_id": 29,
+      "shape_name": "field:value_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 29,
+        "name": "TextBox 28",
+        "type": 17,
+        "text": "20XX",
+        "left": 653.0618,
+        "top": 186.05031,
+        "width": 101.61551,
+        "height": 19.888662
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 19,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 19,
+        "name": "TextBox 18",
+        "type": 17,
+        "text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。\r",
+        "left": 101.31661,
+        "top": 207.8881,
+        "width": 141.43552,
+        "height": 67.74976
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 38,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 38,
+        "name": "TextBox 37",
+        "type": 17,
+        "text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。\r",
+        "left": 282.1173,
+        "top": 207.8881,
+        "width": 141.43552,
+        "height": 67.74976
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 39,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 39,
+        "name": "TextBox 38",
+        "type": 17,
+        "text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。\r",
+        "left": 467.88126,
+        "top": 207.8881,
+        "width": 141.43552,
+        "height": 67.74976
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 28,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 28,
+        "name": "TextBox 27",
+        "type": 17,
+        "text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。\r",
+        "left": 651.91296,
+        "top": 207.8881,
+        "width": 141.43552,
+        "height": 67.74976
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "value_05",
+      "shape_id": 46,
+      "shape_name": "field:value_05",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 46,
+        "name": "TextBox 45",
+        "type": 17,
+        "text": "20XX",
+        "left": 193.79811,
+        "top": 358.39432,
+        "width": 101.61551,
+        "height": 19.888662
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "value_06",
+      "shape_id": 47,
+      "shape_name": "field:value_06",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 47,
+        "name": "TextBox 46",
+        "type": 17,
+        "text": "20XX",
+        "left": 377.88174,
+        "top": 358.39432,
+        "width": 101.61551,
+        "height": 19.888662
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "value_07",
+      "shape_id": 48,
+      "shape_name": "field:value_07",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 48,
+        "name": "TextBox 47",
+        "type": 17,
+        "text": "20XX",
+        "left": 562.4512,
+        "top": 358.53717,
+        "width": 101.61551,
+        "height": 19.888662
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "value_08",
+      "shape_id": 33,
+      "shape_name": "field:value_08",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 33,
+        "name": "TextBox 32",
+        "type": 17,
+        "text": "20XX",
+        "left": 746.48315,
+        "top": 358.53717,
+        "width": 101.61551,
+        "height": 19.888662
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 24,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 24,
+        "name": "TextBox 23",
+        "type": 17,
+        "text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。\r",
+        "left": 191.51064,
+        "top": 381.79245,
+        "width": 141.43552,
+        "height": 67.74976
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_06",
+      "shape_id": 31,
+      "shape_name": "field:body_06",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 31,
+        "name": "TextBox 30",
+        "type": 17,
+        "text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。\r",
+        "left": 376.72763,
+        "top": 381.79245,
+        "width": 141.43552,
+        "height": 67.74976
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_07",
+      "shape_id": 35,
+      "shape_name": "field:body_07",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 35,
+        "name": "TextBox 34",
+        "type": 17,
+        "text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。\r",
+        "left": 560.7594,
+        "top": 381.6496,
+        "width": 141.43552,
+        "height": 67.74976
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_08",
+      "shape_id": 32,
+      "shape_name": "field:body_08",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 32,
+        "name": "TextBox 31",
+        "type": 17,
+        "text": "单击输入项正文，文字是您思想的提炼，请言简意赅的阐述观点。\r",
+        "left": 744.7913,
+        "top": 381.6496,
+        "width": 141.43552,
+        "height": 67.74976
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

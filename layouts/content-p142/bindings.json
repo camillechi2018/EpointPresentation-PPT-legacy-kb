@@ -1,0 +1,100 @@
+{
+  "layout_id": "content-p142",
+  "source_page": 142,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 123,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 51,
+      "source_sample_chars": 51,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字以便观者准确地理解您传达的思想",
+      "bounds_pt": {
+        "id": 123,
+        "name": "矩形: 圆角 4",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字以便观者准确地理解您传达的思想",
+        "left": 569.95,
+        "top": 343.35,
+        "width": 331.45,
+        "height": 132.85
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 127,
+        "type": "LINE_MARKERS (65)",
+        "plot_types": [
+          "LinePlot"
+        ],
+        "categories_max": 4,
+        "series_max": 2,
+        "requires_real_data": true
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 125,
+        "shape_name": "field:image:125",
+        "required": true,
+        "bounds_pt": {
+          "id": 125,
+          "name": "Picture 124",
+          "type": 13,
+          "text": "",
+          "left": 569.95,
+          "top": 130.2,
+          "width": 331.45,
+          "height": 197.0
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 125,
+      "shape_name": "field:image:125",
+      "bounds_pt": {
+        "id": 125,
+        "name": "Picture 124",
+        "type": 13,
+        "text": "",
+        "left": 569.95,
+        "top": 130.2,
+        "width": 331.45,
+        "height": 197.0
+      },
+      "kind": "content-image",
+      "sha256": "94a565a6a4cff66e1a247bf0403ed244ffc7b06b245eb36a687957fb2ec1ebb5",
+      "replace_required": true
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "layout_id": "content-p075",
+  "source_page": 75,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "value_01",
+      "shape_id": 23,
+      "shape_name": "field:value_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 23,
+        "name": "五边形 22",
+        "type": 1,
+        "text": "20XX",
+        "left": 685.65,
+        "top": 126.8,
+        "width": 125.75,
+        "height": 40.8
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "value_02",
+      "shape_id": 22,
+      "shape_name": "field:value_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 22,
+        "name": "五边形 21",
+        "type": 1,
+        "text": "20XX",
+        "left": 473.2,
+        "top": 180.2,
+        "width": 125.75,
+        "height": 40.8
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 12,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 12,
+        "name": "TextBox 11",
+        "type": 17,
+        "text": "添加项标题",
+        "left": 724.9824,
+        "top": 186.55,
+        "width": 159.55,
+        "height": 31.25
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 13,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 41,
+      "source_sample_chars": 41,
+      "source_text": "单击此处添加文本具体内容，尽量简明扼要地阐述您的内容观点。根据需要可酌情增减文字。",
+      "bounds_pt": {
+        "id": 13,
+        "name": "TextBox 12",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，尽量简明扼要地阐述您的内容观点。根据需要可酌情增减文字。",
+        "left": 724.9824,
+        "top": 225.15,
+        "width": 159.55,
+        "height": 127.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "value_03",
+      "shape_id": 21,
+      "shape_name": "field:value_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 21,
+        "name": "五边形 20",
+        "type": 1,
+        "text": "20XX",
+        "left": 260.4,
+        "top": 233.6,
+        "width": 125.75,
+        "height": 40.8
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 6,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 6,
+        "name": "TextBox 5",
+        "type": 17,
+        "text": "添加项标题",
+        "left": 512.7825,
+        "top": 239.9,
+        "width": 159.55,
+        "height": 31.25
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "value_04",
+      "shape_id": 20,
+      "shape_name": "field:value_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "20XX",
+      "bounds_pt": {
+        "id": 20,
+        "name": "五边形 19",
+        "type": 1,
+        "text": "20XX",
+        "left": 47.9,
+        "top": 287.9,
+        "width": 125.75,
+        "height": 40.8
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 7,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 44,
+      "source_text": "单击此处添加文本具体内容，请尽量简明扼要地阐述您的内容观点。根据需要可酌情增减你的文字。",
+      "bounds_pt": {
+        "id": 7,
+        "name": "TextBox 6",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，请尽量简明扼要地阐述您的内容观点。根据需要可酌情增减你的文字。",
+        "left": 512.7825,
+        "top": 278.5,
+        "width": 159.55,
+        "height": 127.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 4,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 4,
+        "name": "TextBox 3",
+        "type": 17,
+        "text": "添加项标题",
+        "left": 299.93243,
+        "top": 293.3,
+        "width": 159.55,
+        "height": 31.25
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 24,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 24,
+        "name": "TextBox 23",
+        "type": 17,
+        "text": "添加项标题",
+        "left": 87.13244,
+        "top": 346.65,
+        "width": 159.55,
+        "height": 31.25
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 5,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 41,
+      "source_sample_chars": 41,
+      "source_text": "单击此处添加文本具体内容，尽量简明扼要地阐述您的内容观点。根据需要可酌情增减文字。",
+      "bounds_pt": {
+        "id": 5,
+        "name": "TextBox 4",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，尽量简明扼要地阐述您的内容观点。根据需要可酌情增减文字。",
+        "left": 299.93243,
+        "top": 333.0,
+        "width": 159.55,
+        "height": 127.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 25,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 44,
+      "source_text": "单击此处添加文本具体内容，请尽量简明扼要地阐述您的内容观点。根据需要可酌情增减你的文字。",
+      "bounds_pt": {
+        "id": 25,
+        "name": "TextBox 24",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，请尽量简明扼要地阐述您的内容观点。根据需要可酌情增减你的文字。",
+        "left": 87.13244,
+        "top": 386.4,
+        "width": 159.55,
+        "height": 127.1
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

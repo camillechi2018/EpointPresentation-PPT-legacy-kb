@@ -1,0 +1,251 @@
+{
+  "layout_id": "content-p112",
+  "source_page": 112,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 8,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 37,
+      "source_sample_chars": 37,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。单击此处添加文本具体内容",
+      "bounds_pt": {
+        "id": 8,
+        "name": "Parallelogram 7",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。单击此处添加文本具体内容",
+        "left": 285.2,
+        "top": 112.95,
+        "width": 216.85,
+        "height": 159.8
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 11,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 37,
+      "source_sample_chars": 37,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。单击此处添加文本具体内容",
+      "bounds_pt": {
+        "id": 11,
+        "name": "Parallelogram 10",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。单击此处添加文本具体内容",
+        "left": 684.65,
+        "top": 112.95,
+        "width": 216.85,
+        "height": 159.8
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 7,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 37,
+      "source_sample_chars": 37,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。单击此处添加文本具体内容",
+      "bounds_pt": {
+        "id": 7,
+        "name": "Parallelogram 6",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。单击此处添加文本具体内容",
+        "left": 56.95,
+        "top": 316.25,
+        "width": 216.85,
+        "height": 159.8
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 9,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 37,
+      "source_sample_chars": 37,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。单击此处添加文本具体内容",
+      "bounds_pt": {
+        "id": 9,
+        "name": "Parallelogram 8",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。单击此处添加文本具体内容",
+        "left": 456.2,
+        "top": 316.25,
+        "width": 216.85008,
+        "height": 159.8
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 10,
+        "shape_name": "field:image:10",
+        "required": true,
+        "bounds_pt": {
+          "id": 10,
+          "name": "Picture 9",
+          "type": 13,
+          "text": "",
+          "left": 79.8,
+          "top": 112.95,
+          "width": 222.45,
+          "height": 203.5
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 16,
+        "shape_name": "field:image:16",
+        "required": true,
+        "bounds_pt": {
+          "id": 16,
+          "name": "Picture 15",
+          "type": 13,
+          "text": "",
+          "left": 256.65,
+          "top": 273.45,
+          "width": 222.45,
+          "height": 202.6
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 19,
+        "shape_name": "field:image:19",
+        "required": true,
+        "bounds_pt": {
+          "id": 19,
+          "name": "Picture 18",
+          "type": 13,
+          "text": "",
+          "left": 479.4,
+          "top": 112.95,
+          "width": 222.45,
+          "height": 202.65
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 22,
+        "shape_name": "field:image:22",
+        "required": true,
+        "bounds_pt": {
+          "id": 22,
+          "name": "Picture 21",
+          "type": 13,
+          "text": "",
+          "left": 656.45,
+          "top": 273.45,
+          "width": 222.45,
+          "height": 202.65
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 10,
+      "shape_name": "field:image:10",
+      "bounds_pt": {
+        "id": 10,
+        "name": "Picture 9",
+        "type": 13,
+        "text": "",
+        "left": 79.8,
+        "top": 112.95,
+        "width": 222.45,
+        "height": 203.5
+      },
+      "kind": "content-image",
+      "sha256": "1fbf130b9f3c7ed47770f117c50ddce1332d0d277bab7cf967983ac735a2084c",
+      "replace_required": true
+    },
+    {
+      "shape_id": 16,
+      "shape_name": "field:image:16",
+      "bounds_pt": {
+        "id": 16,
+        "name": "Picture 15",
+        "type": 13,
+        "text": "",
+        "left": 256.65,
+        "top": 273.45,
+        "width": 222.45,
+        "height": 202.6
+      },
+      "kind": "content-image",
+      "sha256": "c3020f2c175512e14b6f79401bbd81ead9f1146a254075d7c54577799628b049",
+      "replace_required": true
+    },
+    {
+      "shape_id": 19,
+      "shape_name": "field:image:19",
+      "bounds_pt": {
+        "id": 19,
+        "name": "Picture 18",
+        "type": 13,
+        "text": "",
+        "left": 479.4,
+        "top": 112.95,
+        "width": 222.45,
+        "height": 202.65
+      },
+      "kind": "content-image",
+      "sha256": "c9f8d0e4f4f05fc26f271c50e37739a42bfdfc1057181e5fc5b493c58522f0ae",
+      "replace_required": true
+    },
+    {
+      "shape_id": 22,
+      "shape_name": "field:image:22",
+      "bounds_pt": {
+        "id": 22,
+        "name": "Picture 21",
+        "type": 13,
+        "text": "",
+        "left": 656.45,
+        "top": 273.45,
+        "width": 222.45,
+        "height": 202.65
+      },
+      "kind": "content-image",
+      "sha256": "86ac3fc677f102f37197ee9739c28b87f7011efb7289b5191533d5cc3fed76c6",
+      "replace_required": true
+    }
+  ]
+}

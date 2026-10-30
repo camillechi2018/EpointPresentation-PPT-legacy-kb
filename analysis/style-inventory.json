@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0",
+  "source_file": "完整模版示例v2.pptx",
+  "sha256": "0D1203882A99F3FCE94C0E7300F9E55D96224FB67D90C93BF7553A724BA2893C",
+  "slides_scanned": 217,
+  "method": "OOXML slide XML explicit srgbClr, font tags and run-size attributes; inherited/master colors and raster-image pixels are not resolved",
+  "explicit_colors": {
+    "#FFFFFF": 1536,
+    "#000000": 62,
+    "#376FFF": 58,
+    "#F8F8F8": 18,
+    "#262626": 16,
+    "#44546A": 16,
+    "#F5F8FF": 12,
+    "#333333": 12,
+    "#102544": 12,
+    "#152351": 12,
+    "#AFC6FF": 9,
+    "#595959": 8,
+    "#1B1E22": 7,
+    "#DDDDDD": 5,
+    "#A5BEFF": 4,
+    "#C3D4FF": 4,
+    "#BFBFBF": 4,
+    "#D7E2FF": 4,
+    "#666666": 4,
+    "#E24848": 1
+  },
+  "color_context": {
+    "shape": {
+      "#FFFFFF": 179,
+      "#000000": 19,
+      "#F8F8F8": 6,
+      "#DDDDDD": 4
+    },
+    "other": {
+      "#FFFFFF": 434,
+      "#376FFF": 56,
+      "#000000": 2,
+      "#E24848": 1
+    },
+    "line": {
+      "#FFFFFF": 185,
+      "#F5F8FF": 12,
+      "#AFC6FF": 9,
+      "#A5BEFF": 4,
+      "#C3D4FF": 4,
+      "#BFBFBF": 4,
+      "#D7E2FF": 4,
+      "#376FFF": 2,
+      "#DDDDDD": 1
+    },
+    "text": {
+      "#FFFFFF": 738,
+      "#000000": 41,
+      "#262626": 16,
+      "#44546A": 16,
+      "#333333": 12,
+      "#102544": 12,
+      "#F8F8F8": 12,
+      "#152351": 12,
+      "#595959": 8,
+      "#1B1E22": 7,
+      "#666666": 4
+    }
+  },
+  "explicit_font_tags": [
+    {
+      "script": "ea",
+      "family": "+mn-ea",
+      "count": 3467
+    },
+    {
+      "script": "cs",
+      "family": "+mn-cs",
+      "count": 3348
+    },
+    {
+      "script": "latin",
+      "family": "+mn-lt",
+      "count": 3339
+    },
+    {
+      "script": "latin",
+      "family": "+mn-ea",
+      "count": 2363
+    },
+    {
+      "script": "cs",
+      "family": "+mn-ea",
+      "count": 1341
+    },
+    {
+      "script": "cs",
+      "family": "思源黑体 CN Light",
+      "count": 232
+    },
+    {
+      "script": "ea",
+      "family": "+mj-ea",
+      "count": 167
+    },
+    {
+      "script": "cs",
+      "family": "微软雅黑",
+      "count": 136
+    },
+    {
+      "script": "latin",
+      "family": "+mj-ea",
+      "count": 131
+    },
+    {
+      "script": "latin",
+      "family": "思源黑体 CN Heavy",
+      "count": 116
+    },
+    {
+      "script": "ea",
+      "family": "思源黑体 CN Heavy",
+      "count": 116
+    },
+    {
+      "script": "latin",
+      "family": "思源黑体 CN Light",
+      "count": 100
+    },
+    {
+      "script": "ea",
+      "family": "思源黑体 CN Light",
+      "count": 100
+    },
+    {
+      "script": "latin",
+      "family": "+mj-lt",
+      "count": 72
+    },
+    {
+      "script": "latin",
+      "family": "思源黑体 CN Medium",
+      "count": 68
+    },
+    {
+      "script": "ea",
+      "family": "思源黑体 CN Medium",
+      "count": 68
+    },
+    {
+      "script": "cs",
+      "family": "思源黑体 CN Medium",
+      "count": 64
+    },
+    {
+      "script": "cs",
+      "family": "MiSans Normal",
+      "count": 56
+    },
+    {
+      "script": "cs",
+      "family": "+mj-ea",
+      "count": 46
+    },
+    {
+      "script": "ea",
+      "family": "+mj-lt",
+      "count": 44
+    },
+    {
+      "script": "latin",
+      "family": "Arial",
+      "count": 43
+    },
+    {
+      "script": "ea",
+      "family": "微软雅黑",
+      "count": 37
+    },
+    {
+      "script": "cs",
+      "family": "MiSans",
+      "count": 24
+    },
+    {
+      "script": "latin",
+      "family": "思源黑体 CN Bold",
+      "count": 23
+    },
+    {
+      "script": "ea",
+      "family": "思源黑体 CN Bold",
+      "count": 23
+    },
+    {
+      "script": "latin",
+      "family": "+中文正文",
+      "count": 21
+    },
+    {
+      "script": "latin",
+      "family": "Calibri",
+      "count": 18
+    },
+    {
+      "script": "cs",
+      "family": "+mn-lt",
+      "count": 16
+    },
+    {
+      "script": "cs",
+      "family": "+mj-cs",
+      "count": 16
+    },
+    {
+      "script": "ea",
+      "family": "思源黑体 CN Regular",
+      "count": 13
+    },
+    {
+      "script": "latin",
+      "family": "思源黑体 CN Regular",
+      "count": 12
+    },
+    {
+      "script": "cs",
+      "family": "Arial",
+      "count": 11
+    },
+    {
+      "script": "cs",
+      "family": "OPPOSans M",
+      "count": 10
+    },
+    {
+      "script": "latin",
+      "family": "等线",
+      "count": 9
+    },
+    {
+      "script": "latin",
+      "family": "HarmonyOS Sans SC",
+      "count": 8
+    },
+    {
+      "script": "ea",
+      "family": "HarmonyOS Sans SC",
+      "count": 8
+    },
+    {
+      "script": "latin",
+      "family": "Roboto Medium",
+      "count": 7
+    },
+    {
+      "script": "ea",
+      "family": "Roboto Medium",
+      "count": 7
+    },
+    {
+      "script": "cs",
+      "family": "Roboto Medium",
+      "count": 7
+    },
+    {
+      "script": "cs",
+      "family": "思源黑体 CN Heavy",
+      "count": 6
+    },
+    {
+      "script": "cs",
+      "family": "江城圆体 400W",
+      "count": 5
+    },
+    {
+      "script": "latin",
+      "family": "Lato Regular",
+      "count": 4
+    },
+    {
+      "script": "ea",
+      "family": "Lato Regular",
+      "count": 4
+    },
+    {
+      "script": "cs",
+      "family": "Lato Regular",
+      "count": 4
+    },
+    {
+      "script": "latin",
+      "family": "微软雅黑",
+      "count": 2
+    },
+    {
+      "script": "latin",
+      "family": "Roboto Regular",
+      "count": 1
+    }
+  ],
+  "theme1_fonts": [
+    {
+      "group": "majorFont",
+      "script": "latin",
+      "family": "Arial"
+    },
+    {
+      "group": "majorFont",
+      "script": "ea",
+      "family": "思源黑体 CN Heavy"
+    },
+    {
+      "group": "majorFont",
+      "script": "cs",
+      "family": ""
+    },
+    {
+      "group": "minorFont",
+      "script": "latin",
+      "family": "Arial"
+    },
+    {
+      "group": "minorFont",
+      "script": "ea",
+      "family": "思源黑体 CN Heavy"
+    },
+    {
+      "group": "minorFont",
+      "script": "cs",
+      "family": ""
+    }
+  ],
+  "explicit_point_sizes": {
+    "18.0": 3392,
+    "14.0": 800,
+    "20.0": 487,
+    "16.0": 385,
+    "12.0": 381,
+    "24.0": 284,
+    "28.0": 114,
+    "32.0": 69,
+    "22.0": 64,
+    "26.0": 64,
+    "15.0": 56,
+    "13.0": 50,
+    "40.0": 38,
+    "36.0": 34,
+    "30.0": 30,
+    "17.0": 28,
+    "54.0": 18,
+    "66.0": 12,
+    "13.5": 12,
+    "19.0": 11,
+    "72.0": 10,
+    "160.0": 8,
+    "35.0": 8,
+    "115.0": 8,
+    "60.0": 7,
+    "27.0": 6,
+    "38.0": 6,
+    "21.0": 6,
+    "10.0": 5,
+    "44.0": 4,
+    "23.0": 4,
+    "20.5": 4,
+    "15.7": 4,
+    "48.0": 2,
+    "58.0": 2
+  }
+}

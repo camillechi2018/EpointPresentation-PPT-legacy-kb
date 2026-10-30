@@ -1,0 +1,331 @@
+{
+  "layout_id": "content-p106",
+  "source_page": 106,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 7,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 7,
+        "name": "Title 6",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 54.80315,
+        "top": 31.055511,
+        "width": 850.3937,
+        "height": 62.362206
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 12,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 14,
+      "source_sample_chars": 14,
+      "source_text": "单击此处添加\n智能图形项标题",
+      "bounds_pt": {
+        "id": 12,
+        "name": "Rectangle 11",
+        "type": 1,
+        "text": "单击此处添加\r智能图形项标题",
+        "left": 60.4,
+        "top": 290.67725,
+        "width": 176.25008,
+        "height": 64.722755
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 15,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 14,
+      "source_sample_chars": 14,
+      "source_text": "单击此处添加\n智能图形项标题",
+      "bounds_pt": {
+        "id": 15,
+        "name": "Rectangle 14",
+        "type": 1,
+        "text": "单击此处添加\r智能图形项标题",
+        "left": 281.19992,
+        "top": 290.67725,
+        "width": 176.25008,
+        "height": 64.722755
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 19,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 14,
+      "source_sample_chars": 14,
+      "source_text": "单击此处添加\n智能图形项标题",
+      "bounds_pt": {
+        "id": 19,
+        "name": "Rectangle 18",
+        "type": 1,
+        "text": "单击此处添加\r智能图形项标题",
+        "left": 501.9999,
+        "top": 290.72723,
+        "width": 176.25,
+        "height": 64.722755
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 22,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 14,
+      "source_sample_chars": 14,
+      "source_text": "单击此处添加\n智能图形项标题",
+      "bounds_pt": {
+        "id": 22,
+        "name": "Rectangle 21",
+        "type": 1,
+        "text": "单击此处添加\r智能图形项标题",
+        "left": 722.8,
+        "top": 290.72723,
+        "width": 176.25008,
+        "height": 64.722755
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 6,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 38,
+      "source_text": "单击此处输入正文，文字是思想的提炼，请言简意赅的阐述观点，单击此处输入项正文",
+      "bounds_pt": {
+        "id": 6,
+        "name": "Rectangle 5",
+        "type": 1,
+        "text": "单击此处输入正文，文字是思想的提炼，请言简意赅的阐述观点，单击此处输入项正文",
+        "left": 60.4,
+        "top": 365.65,
+        "width": 176.25,
+        "height": 127.4
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 14,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 38,
+      "source_text": "单击此处输入正文，文字是思想的提炼，请言简意赅的阐述观点，单击此处输入项正文",
+      "bounds_pt": {
+        "id": 14,
+        "name": "Rectangle 13",
+        "type": 1,
+        "text": "单击此处输入正文，文字是思想的提炼，请言简意赅的阐述观点，单击此处输入项正文",
+        "left": 281.2,
+        "top": 365.65,
+        "width": 176.25,
+        "height": 127.4
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 16,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 38,
+      "source_text": "单击此处输入正文，文字是思想的提炼，请言简意赅的阐述观点，单击此处输入项正文",
+      "bounds_pt": {
+        "id": 16,
+        "name": "Rectangle 15",
+        "type": 1,
+        "text": "单击此处输入正文，文字是思想的提炼，请言简意赅的阐述观点，单击此处输入项正文",
+        "left": 502.0,
+        "top": 365.7,
+        "width": 176.25,
+        "height": 127.25
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 20,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 38,
+      "source_text": "单击此处输入正文，文字是思想的提炼，请言简意赅的阐述观点，单击此处输入项正文",
+      "bounds_pt": {
+        "id": 20,
+        "name": "Rectangle 19",
+        "type": 1,
+        "text": "单击此处输入正文，文字是思想的提炼，请言简意赅的阐述观点，单击此处输入项正文",
+        "left": 722.8,
+        "top": 365.7,
+        "width": 176.25,
+        "height": 127.25
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 13,
+        "shape_name": "field:image:13",
+        "required": true,
+        "bounds_pt": {
+          "id": 13,
+          "name": "Picture 12",
+          "type": 13,
+          "text": "",
+          "left": 75.65,
+          "top": 140.35,
+          "width": 145.7,
+          "height": 145.75
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 17,
+        "shape_name": "field:image:17",
+        "required": true,
+        "bounds_pt": {
+          "id": 17,
+          "name": "Picture 16",
+          "type": 13,
+          "text": "",
+          "left": 296.5,
+          "top": 140.35,
+          "width": 145.7,
+          "height": 145.75
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 21,
+        "shape_name": "field:image:21",
+        "required": true,
+        "bounds_pt": {
+          "id": 21,
+          "name": "Picture 20",
+          "type": 13,
+          "text": "",
+          "left": 517.25,
+          "top": 140.4,
+          "width": 145.7,
+          "height": 145.75
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 11,
+        "shape_name": "field:image:11",
+        "required": true,
+        "bounds_pt": {
+          "id": 11,
+          "name": "Picture 10",
+          "type": 13,
+          "text": "",
+          "left": 738.05,
+          "top": 140.4,
+          "width": 145.7,
+          "height": 145.75
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 13,
+      "shape_name": "field:image:13",
+      "bounds_pt": {
+        "id": 13,
+        "name": "Picture 12",
+        "type": 13,
+        "text": "",
+        "left": 75.65,
+        "top": 140.35,
+        "width": 145.7,
+        "height": 145.75
+      },
+      "kind": "content-image",
+      "sha256": "be86a0212d3af1b8d98e3e667255aa701ecdd18c149757d6bccfdca804c7952d",
+      "replace_required": true
+    },
+    {
+      "shape_id": 17,
+      "shape_name": "field:image:17",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Picture 16",
+        "type": 13,
+        "text": "",
+        "left": 296.5,
+        "top": 140.35,
+        "width": 145.7,
+        "height": 145.75
+      },
+      "kind": "content-image",
+      "sha256": "7e8375ea87bae68495c055d8b99c2a44b4cbb792c0c21fb7954bf4436b258da5",
+      "replace_required": true
+    },
+    {
+      "shape_id": 21,
+      "shape_name": "field:image:21",
+      "bounds_pt": {
+        "id": 21,
+        "name": "Picture 20",
+        "type": 13,
+        "text": "",
+        "left": 517.25,
+        "top": 140.4,
+        "width": 145.7,
+        "height": 145.75
+      },
+      "kind": "content-image",
+      "sha256": "204e85cf8267b457d51744757377f20e8f2c7c05563c4d9e5a4fd05c88808d74",
+      "replace_required": true
+    },
+    {
+      "shape_id": 11,
+      "shape_name": "field:image:11",
+      "bounds_pt": {
+        "id": 11,
+        "name": "Picture 10",
+        "type": 13,
+        "text": "",
+        "left": 738.05,
+        "top": 140.4,
+        "width": 145.7,
+        "height": 145.75
+      },
+      "kind": "content-image",
+      "sha256": "1b00b934954a1d4a8f4695b5149d051ddfa600e101cb9015a252b1d608f51a0f",
+      "replace_required": true
+    }
+  ]
+}

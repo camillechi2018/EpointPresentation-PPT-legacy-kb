@@ -1,0 +1,64 @@
+{
+  "layout_id": "theme-chapter-p040",
+  "fields": [
+    {
+      "field": "number",
+      "shape_id": 39,
+      "shape_name": "field:number",
+      "type": "text",
+      "max_chars": 2,
+      "bounds_pt": {
+        "id": 39,
+        "path": "40/28/39",
+        "name": "TextBox 38",
+        "type": 17,
+        "text": "01",
+        "left": 76.6,
+        "top": 178.65,
+        "width": 253.25,
+        "height": 201.05
+      }
+    },
+    {
+      "field": "title",
+      "shape_id": 40,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 4,
+      "bounds_pt": {
+        "id": 40,
+        "path": "40/28/40",
+        "name": "TextBox 39",
+        "type": 17,
+        "text": "课程提纲",
+        "left": 295.55,
+        "top": 210.2,
+        "width": 337.6,
+        "height": 72.6
+      }
+    },
+    {
+      "field": "subtitle",
+      "shape_id": 30,
+      "shape_name": "field:subtitle",
+      "type": "text",
+      "max_chars": 14,
+      "bounds_pt": {
+        "id": 30,
+        "path": "40/28/30",
+        "name": "TextBox 29",
+        "type": 17,
+        "text": "COURSE OUTLINE",
+        "left": 296.0,
+        "top": 300.15,
+        "width": 292.85,
+        "height": 36.25
+      }
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

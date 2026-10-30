@@ -1,0 +1,86 @@
+{
+  "layout_id": "theme-agenda-p037",
+  "fields": [
+    {
+      "field": "section_1",
+      "shape_id": 6,
+      "shape_name": "field:section_1",
+      "type": "text",
+      "max_chars": 12,
+      "bounds_pt": {
+        "id": 6,
+        "path": "37/6",
+        "name": "TextBox 5",
+        "type": 17,
+        "text": "单击此处添加\r目录项标题",
+        "left": 268.07504,
+        "top": 227.5,
+        "width": 162.35,
+        "height": 75.1
+      },
+      "source_number": 1
+    },
+    {
+      "field": "section_2",
+      "shape_id": 11,
+      "shape_name": "field:section_2",
+      "type": "text",
+      "max_chars": 12,
+      "bounds_pt": {
+        "id": 11,
+        "path": "37/11",
+        "name": "TextBox 10",
+        "type": 17,
+        "text": "单击此处添加\r目录项标题",
+        "left": 626.72504,
+        "top": 227.5,
+        "width": 162.35,
+        "height": 75.1
+      },
+      "source_number": 2
+    },
+    {
+      "field": "section_3",
+      "shape_id": 13,
+      "shape_name": "field:section_3",
+      "type": "text",
+      "max_chars": 12,
+      "bounds_pt": {
+        "id": 13,
+        "path": "37/13",
+        "name": "TextBox 12",
+        "type": 17,
+        "text": "单击此处添加\r目录项标题",
+        "left": 268.07504,
+        "top": 357.45,
+        "width": 162.35,
+        "height": 75.1
+      },
+      "source_number": 3
+    },
+    {
+      "field": "section_4",
+      "shape_id": 17,
+      "shape_name": "field:section_4",
+      "type": "text",
+      "max_chars": 12,
+      "bounds_pt": {
+        "id": 17,
+        "path": "37/17",
+        "name": "TextBox 16",
+        "type": 17,
+        "text": "单击此处添加\r目录项标题",
+        "left": 626.72504,
+        "top": 357.45,
+        "width": 162.35,
+        "height": 75.1
+      },
+      "source_number": 4
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "layout_id": "content-p138",
+  "source_page": 138,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 13,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "单击添加项标题",
+      "bounds_pt": {
+        "id": 13,
+        "name": "Oval 12",
+        "type": 1,
+        "text": "单击添加项标题",
+        "left": 419.25,
+        "top": 162.45,
+        "width": 121.1,
+        "height": 121.1
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 28,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 28,
+        "name": "圆角矩形 27",
+        "type": 1,
+        "text": "添加标题",
+        "left": 120.0,
+        "top": 277.4,
+        "width": 119.35,
+        "height": 31.65
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 54,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 54,
+        "name": "圆角矩形 53",
+        "type": 1,
+        "text": "添加标题",
+        "left": 726.25,
+        "top": 276.75,
+        "width": 119.35,
+        "height": 31.65
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 8,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 16,
+      "source_sample_chars": 16,
+      "source_text": "单击此处输入你的\u000b智能图形项正文",
+      "bounds_pt": {
+        "id": 8,
+        "name": "Rectangle 7",
+        "type": 1,
+        "text": "单击此处输入你的\u000b智能图形项正文",
+        "left": 104.15,
+        "top": 316.95,
+        "width": 151.05,
+        "height": 85.8
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 10,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 16,
+      "source_sample_chars": 16,
+      "source_text": "单击此处输入你的\u000b智能图形项正文",
+      "bounds_pt": {
+        "id": 10,
+        "name": "Rectangle 9",
+        "type": 1,
+        "text": "单击此处输入你的\u000b智能图形项正文",
+        "left": 710.4,
+        "top": 316.95,
+        "width": 151.05,
+        "height": 85.8
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 6,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 6,
+        "name": "圆角矩形 5",
+        "type": 1,
+        "text": "添加标题",
+        "left": 310.3,
+        "top": 390.05,
+        "width": 119.35,
+        "height": 31.65
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_05",
+      "shape_id": 14,
+      "shape_name": "field:item_title_05",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 14,
+        "name": "圆角矩形 13",
+        "type": 1,
+        "text": "添加标题",
+        "left": 529.15,
+        "top": 393.5,
+        "width": 119.35,
+        "height": 31.65
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 3,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 16,
+      "source_sample_chars": 16,
+      "source_text": "单击此处输入你的\u000b智能图形项正文",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Rectangle 2",
+        "type": 1,
+        "text": "单击此处输入你的\u000b智能图形项正文",
+        "left": 294.45,
+        "top": 431.65,
+        "width": 151.05,
+        "height": 85.8
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 7,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 16,
+      "source_sample_chars": 16,
+      "source_text": "单击此处输入你的\u000b智能图形项正文",
+      "bounds_pt": {
+        "id": 7,
+        "name": "Rectangle 6",
+        "type": 1,
+        "text": "单击此处输入你的\u000b智能图形项正文",
+        "left": 513.3,
+        "top": 431.65,
+        "width": 151.05,
+        "height": 85.8
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

@@ -1,0 +1,65 @@
+{
+  "layout_id": "metrics-cards",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "max_chars": 24
+    },
+    {
+      "field": "metric_1_name",
+      "shape_id": 4,
+      "max_chars": 14
+    },
+    {
+      "field": "metric_1_value",
+      "shape_id": 5,
+      "max_chars": 10
+    },
+    {
+      "field": "metric_1_unit",
+      "shape_id": 6,
+      "max_chars": 25
+    },
+    {
+      "field": "metric_2_name",
+      "shape_id": 8,
+      "max_chars": 14
+    },
+    {
+      "field": "metric_2_value",
+      "shape_id": 9,
+      "max_chars": 10
+    },
+    {
+      "field": "metric_2_unit",
+      "shape_id": 10,
+      "max_chars": 25
+    },
+    {
+      "field": "metric_3_name",
+      "shape_id": 12,
+      "max_chars": 14
+    },
+    {
+      "field": "metric_3_value",
+      "shape_id": 13,
+      "max_chars": 10
+    },
+    {
+      "field": "metric_3_unit",
+      "shape_id": 14,
+      "max_chars": 25
+    },
+    {
+      "field": "source",
+      "shape_id": 15,
+      "max_chars": 90
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

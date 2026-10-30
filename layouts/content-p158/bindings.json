@@ -1,0 +1,114 @@
+{
+  "layout_id": "content-p158",
+  "source_page": 158,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "subtitle_01",
+      "shape_id": 3,
+      "shape_name": "field:subtitle_01",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "单击此处编辑副标题",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Text Placeholder 2",
+        "type": 14,
+        "text": "单击此处编辑副标题",
+        "left": 47.9,
+        "top": 112.55,
+        "width": 863.65,
+        "height": 30.05
+      },
+      "semantic_role": "subtitle"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 7,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 36,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字",
+      "bounds_pt": {
+        "id": 7,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字",
+        "left": 107.45,
+        "top": 429.5,
+        "width": 314.3,
+        "height": 56.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 8,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 36,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字",
+      "bounds_pt": {
+        "id": 8,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字",
+        "left": 548.15,
+        "top": 429.5,
+        "width": 314.3,
+        "height": 56.1
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 6,
+        "type": "COLUMN_STACKED (52)",
+        "plot_types": [
+          "BarPlot"
+        ],
+        "categories_max": 4,
+        "series_max": 3,
+        "requires_real_data": true
+      },
+      {
+        "shape_id": 75,
+        "type": "DOUGHNUT_EXPLODED (80)",
+        "plot_types": [
+          "DoughnutPlot"
+        ],
+        "categories_max": 3,
+        "series_max": 1,
+        "requires_real_data": true
+      }
+    ],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

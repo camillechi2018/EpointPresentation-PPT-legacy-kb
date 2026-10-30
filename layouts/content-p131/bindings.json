@@ -1,0 +1,205 @@
+{
+  "layout_id": "content-p131",
+  "source_page": 131,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 9,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "单击添加项标题",
+      "bounds_pt": {
+        "id": 9,
+        "name": "Rectangle 8",
+        "type": 1,
+        "text": "单击添加项标题",
+        "left": 79.15,
+        "top": 208.35,
+        "width": 218.9,
+        "height": 34.85
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 14,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "单击添加项标题",
+      "bounds_pt": {
+        "id": 14,
+        "name": "Rectangle 13",
+        "type": 1,
+        "text": "单击添加项标题",
+        "left": 367.95,
+        "top": 208.35,
+        "width": 218.9,
+        "height": 34.85
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 2,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "单击添加项标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Rectangle 1",
+        "type": 1,
+        "text": "单击添加项标题",
+        "left": 662.0,
+        "top": 208.35,
+        "width": 218.9,
+        "height": 34.85
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 7,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 114,
+      "source_sample_chars": 114,
+      "source_text": "单击此处添加文本，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容",
+      "bounds_pt": {
+        "id": 7,
+        "name": "Rectangle 6",
+        "type": 1,
+        "text": "单击此处添加文本，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容",
+        "left": 85.2,
+        "top": 257.5,
+        "width": 205.3,
+        "height": 183.9
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 10,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 118,
+      "source_sample_chars": 118,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容",
+      "bounds_pt": {
+        "id": 10,
+        "name": "Rectangle 9",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容",
+        "left": 377.4,
+        "top": 257.5,
+        "width": 205.3,
+        "height": 183.9
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 16,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 114,
+      "source_sample_chars": 114,
+      "source_text": "单击此处添加文本，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容",
+      "bounds_pt": {
+        "id": 16,
+        "name": "Rectangle 15",
+        "type": 1,
+        "text": "单击此处添加文本，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容",
+        "left": 669.6,
+        "top": 257.5,
+        "width": 205.3,
+        "height": 183.9
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 24,
+      "shape_name": "图形 23",
+      "bounds_pt": {
+        "id": 24,
+        "name": "Graphic 23",
+        "type": 28,
+        "text": "",
+        "left": 178.75,
+        "top": 141.0,
+        "width": 25.55,
+        "height": 25.55
+      },
+      "kind": "template-decoration",
+      "sha256": "ae0bba12cde8fbf4cc6818ae3b53bf5dc9ff687b9fc007ae1e5ff9c7bffd8a0a",
+      "replace_required": false
+    },
+    {
+      "shape_id": 26,
+      "shape_name": "图形 25",
+      "bounds_pt": {
+        "id": 26,
+        "name": "Graphic 25",
+        "type": 28,
+        "text": "",
+        "left": 464.6,
+        "top": 141.0,
+        "width": 25.5,
+        "height": 25.5
+      },
+      "kind": "template-decoration",
+      "sha256": "ccbd961024dd24c88d303e53aaf476417944fc29508f785a50c43e0b8ed404ff",
+      "replace_required": false
+    },
+    {
+      "shape_id": 27,
+      "shape_name": "图形 26",
+      "bounds_pt": {
+        "id": 27,
+        "name": "Graphic 26",
+        "type": 28,
+        "text": "",
+        "left": 760.0,
+        "top": 142.45,
+        "width": 22.8,
+        "height": 22.8
+      },
+      "kind": "template-decoration",
+      "sha256": "ead2b9f7d30aad046bca0b465b77951d0af201c083e4ed0cc8fee35dac63a96c",
+      "replace_required": false
+    }
+  ]
+}

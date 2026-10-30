@@ -1,0 +1,257 @@
+{
+  "layout_id": "content-p164",
+  "source_page": 164,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 20,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 20,
+        "name": "标题",
+        "type": 17,
+        "text": "添加项标题",
+        "left": 47.8,
+        "top": 208.3,
+        "width": 264.4,
+        "height": 40.45
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 19,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 12,
+      "source_text": "单击此处添加项目正文内容",
+      "bounds_pt": {
+        "id": 19,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加项目正文内容",
+        "left": 47.8,
+        "top": 254.5,
+        "width": 264.4,
+        "height": 46.05
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 22,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "添加项标题",
+      "bounds_pt": {
+        "id": 22,
+        "name": "标题",
+        "type": 17,
+        "text": "添加项标题",
+        "left": 47.8,
+        "top": 374.95,
+        "width": 264.4,
+        "height": 40.45
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 4,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 29,
+      "source_sample_chars": 29,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅阐述内容。",
+      "bounds_pt": {
+        "id": 4,
+        "name": "TextBox 3",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅阐述内容。",
+        "left": 401.9,
+        "top": 401.95,
+        "width": 175.3,
+        "height": 74.95
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 6,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 31,
+      "source_sample_chars": 31,
+      "source_text": "单击此处编辑正文内容，文字是您思想的提炼，请言简意赅阐述内容。",
+      "bounds_pt": {
+        "id": 6,
+        "name": "TextBox 5",
+        "type": 17,
+        "text": "单击此处编辑正文内容，文字是您思想的提炼，请言简意赅阐述内容。",
+        "left": 688.0,
+        "top": 401.95,
+        "width": 175.3,
+        "height": 74.95
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 21,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处添加项目正文",
+      "bounds_pt": {
+        "id": 21,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加项目正文",
+        "left": 47.8,
+        "top": 421.15,
+        "width": 264.4,
+        "height": 46.05
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 13,
+        "shape_name": "field:image:13",
+        "required": true,
+        "bounds_pt": {
+          "id": 13,
+          "name": "Picture 12",
+          "type": 13,
+          "text": "",
+          "left": 684.55,
+          "top": 134.65,
+          "width": 226.1,
+          "height": 357.3
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 24,
+        "shape_name": "field:image:24",
+        "required": true,
+        "bounds_pt": {
+          "id": 24,
+          "name": "Picture 23",
+          "type": 13,
+          "text": "",
+          "left": 395.6,
+          "top": 134.65,
+          "width": 226.1,
+          "height": 357.3
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 13,
+      "shape_name": "field:image:13",
+      "bounds_pt": {
+        "id": 13,
+        "name": "Picture 12",
+        "type": 13,
+        "text": "",
+        "left": 684.55,
+        "top": 134.65,
+        "width": 226.1,
+        "height": 357.3
+      },
+      "kind": "content-image",
+      "sha256": "7b90389830baa40d33b953b31bb06ca4853eeb9ad596a14fd1ecc2bf0eb80bad",
+      "replace_required": true
+    },
+    {
+      "shape_id": 24,
+      "shape_name": "field:image:24",
+      "bounds_pt": {
+        "id": 24,
+        "name": "Picture 23",
+        "type": 13,
+        "text": "",
+        "left": 395.6,
+        "top": 134.65,
+        "width": 226.1,
+        "height": 357.3
+      },
+      "kind": "content-image",
+      "sha256": "3c36b71ee5d0350444e605eccfdb3eb75a74707a5eac0acd8c83becedab3c4db",
+      "replace_required": true
+    },
+    {
+      "shape_id": 8,
+      "shape_name": "图片 7",
+      "bounds_pt": {
+        "id": 8,
+        "name": "图片 7",
+        "type": 28,
+        "text": "",
+        "left": 56.6,
+        "top": 173.4,
+        "width": 19.85,
+        "height": 19.85
+      },
+      "kind": "template-decoration",
+      "sha256": "6a4c87f3166e801cc7e97d309c563b60bdf296497c2fb557d96fcc4aff568e0c",
+      "replace_required": false
+    },
+    {
+      "shape_id": 12,
+      "shape_name": "图片 11",
+      "bounds_pt": {
+        "id": 12,
+        "name": "图片 11",
+        "type": 28,
+        "text": "",
+        "left": 56.6,
+        "top": 340.05,
+        "width": 19.85,
+        "height": 19.85
+      },
+      "kind": "template-decoration",
+      "sha256": "6bddbf021cdc0fe5385e5c8f6e214a84fdd7fe3815fb8ec7f88a7679e5a4dd3e",
+      "replace_required": false
+    }
+  ]
+}

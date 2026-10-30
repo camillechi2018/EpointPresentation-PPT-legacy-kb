@@ -1,0 +1,353 @@
+{
+  "layout_id": "content-p057",
+  "source_page": 57,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 25,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 25,
+        "name": "Title 24",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 5,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "输入你的正文",
+      "bounds_pt": {
+        "id": 5,
+        "name": "Rectangle 4",
+        "type": 1,
+        "text": "输入你的正文",
+        "left": 72.35,
+        "top": 123.35,
+        "width": 170.1,
+        "height": 72.15
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 13,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "输入你的正文",
+      "bounds_pt": {
+        "id": 13,
+        "name": "Rectangle 12",
+        "type": 1,
+        "text": "输入你的正文",
+        "left": 634.45,
+        "top": 144.2,
+        "width": 170.10008,
+        "height": 72.15
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 8,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "输入你的正文",
+      "bounds_pt": {
+        "id": 8,
+        "name": "Rectangle 7",
+        "type": 1,
+        "text": "输入你的正文",
+        "left": 255.25,
+        "top": 184.55,
+        "width": 170.1,
+        "height": 72.15
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 3,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 3,
+        "name": "圆角矩形 2",
+        "type": 1,
+        "text": "添加标题",
+        "left": 98.05,
+        "top": 206.0,
+        "width": 118.8,
+        "height": 32.95
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 11,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "输入你的正文",
+      "bounds_pt": {
+        "id": 11,
+        "name": "Rectangle 10",
+        "type": 1,
+        "text": "输入你的正文",
+        "left": 446.35,
+        "top": 193.8,
+        "width": 170.1,
+        "height": 72.15
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 9,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 9,
+        "name": "圆角矩形 8",
+        "type": 1,
+        "text": "添加标题",
+        "left": 660.15,
+        "top": 229.7,
+        "width": 118.8,
+        "height": 32.95
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 21,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 21,
+        "name": "圆角矩形 20",
+        "type": 1,
+        "text": "添加标题",
+        "left": 280.95,
+        "top": 268.05,
+        "width": 118.8,
+        "height": 32.95
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 6,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 6,
+        "name": "圆角矩形 5",
+        "type": 1,
+        "text": "添加标题",
+        "left": 472.05,
+        "top": 276.15,
+        "width": 118.8,
+        "height": 32.95
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_05",
+      "shape_id": 12,
+      "shape_name": "field:item_title_05",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 12,
+        "name": "圆角矩形 11",
+        "type": 1,
+        "text": "添加标题",
+        "left": 753.2,
+        "top": 309.75,
+        "width": 118.8,
+        "height": 32.95
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_06",
+      "shape_id": 30,
+      "shape_name": "field:item_title_06",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 30,
+        "name": "圆角矩形 29",
+        "type": 1,
+        "text": "添加标题",
+        "left": 182.35,
+        "top": 366.4,
+        "width": 118.8,
+        "height": 32.95
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 20,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "输入你的正文",
+      "bounds_pt": {
+        "id": 20,
+        "name": "Rectangle 19",
+        "type": 1,
+        "text": "输入你的正文",
+        "left": 727.55,
+        "top": 350.8,
+        "width": 170.1,
+        "height": 65.8
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_07",
+      "shape_id": 34,
+      "shape_name": "field:item_title_07",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 34,
+        "name": "圆角矩形 33",
+        "type": 1,
+        "text": "添加标题",
+        "left": 567.6,
+        "top": 383.05,
+        "width": 118.8,
+        "height": 32.95
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_06",
+      "shape_id": 17,
+      "shape_name": "field:body_06",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "输入你的正文",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Rectangle 16",
+        "type": 1,
+        "text": "输入你的正文",
+        "left": 156.7,
+        "top": 408.0,
+        "width": 170.1,
+        "height": 65.8
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_08",
+      "shape_id": 15,
+      "shape_name": "field:item_title_08",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 15,
+        "name": "圆角矩形 14",
+        "type": 1,
+        "text": "添加标题",
+        "left": 376.5,
+        "top": 404.5,
+        "width": 118.8,
+        "height": 32.95
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_07",
+      "shape_id": 19,
+      "shape_name": "field:body_07",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "输入你的正文",
+      "bounds_pt": {
+        "id": 19,
+        "name": "Rectangle 18",
+        "type": 1,
+        "text": "输入你的正文",
+        "left": 541.9,
+        "top": 425.6,
+        "width": 170.1,
+        "height": 65.8
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_08",
+      "shape_id": 18,
+      "shape_name": "field:body_08",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "输入你的正文",
+      "bounds_pt": {
+        "id": 18,
+        "name": "Rectangle 17",
+        "type": 1,
+        "text": "输入你的正文",
+        "left": 350.8,
+        "top": 445.9,
+        "width": 170.1,
+        "height": 55.85
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

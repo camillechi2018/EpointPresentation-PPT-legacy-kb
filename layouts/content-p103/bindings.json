@@ -1,0 +1,120 @@
+{
+  "layout_id": "content-p103",
+  "source_page": 103,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 3,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Title 2",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 5,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "单击此处添加标题内容",
+      "bounds_pt": {
+        "id": 5,
+        "name": "Text Placeholder 4",
+        "type": 14,
+        "text": "单击此处添加标题内容",
+        "left": 80.35,
+        "top": 149.3,
+        "width": 413.2,
+        "height": 30.05
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 11,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 52,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想",
+      "bounds_pt": {
+        "id": 11,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想",
+        "left": 79.65,
+        "top": 184.8,
+        "width": 413.9,
+        "height": 68.2
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 21,
+        "type": "BAR_CLUSTERED (57)",
+        "plot_types": [
+          "BarPlot"
+        ],
+        "categories_max": 4,
+        "series_max": 2,
+        "requires_real_data": true
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "field:image:6",
+        "required": true,
+        "bounds_pt": {
+          "id": 6,
+          "name": "图片对象",
+          "type": 13,
+          "text": "",
+          "left": 560.9,
+          "top": 132.0,
+          "width": 296.0,
+          "height": 342.3
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 6,
+      "shape_name": "field:image:6",
+      "bounds_pt": {
+        "id": 6,
+        "name": "图片对象",
+        "type": 13,
+        "text": "",
+        "left": 560.9,
+        "top": 132.0,
+        "width": 296.0,
+        "height": 342.3
+      },
+      "kind": "content-image",
+      "sha256": "ce5045d7cbd12f171dac5f89e8605adbd517e3e879f85e19601741dd61ea5041",
+      "replace_required": true
+    }
+  ]
+}

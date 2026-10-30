@@ -1,0 +1,211 @@
+{
+  "layout_id": "content-p107",
+  "source_page": 107,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 5,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 5,
+        "name": "Title 4",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 39,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 39,
+        "name": "圆角矩形",
+        "type": 1,
+        "text": "添加标题",
+        "left": 301.8,
+        "top": 180.8,
+        "width": 138.6,
+        "height": 45.2
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 16,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 51,
+      "source_sample_chars": 51,
+      "source_text": "添加文本具体内容，可酌情增减文字，以便观者准确地理解您传达的思想添加文本具体内容，简明扼要地阐述观点。",
+      "bounds_pt": {
+        "id": 16,
+        "name": "矩形",
+        "type": 1,
+        "text": "添加文本具体内容，可酌情增减文字，以便观者准确地理解您传达的思想添加文本具体内容，简明扼要地阐述观点。",
+        "left": 466.1,
+        "top": 175.05,
+        "width": 439.1,
+        "height": 56.7
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 40,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 40,
+        "name": "圆角矩形",
+        "type": 1,
+        "text": "添加标题",
+        "left": 340.35,
+        "top": 249.4,
+        "width": 138.6,
+        "height": 45.2
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 24,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 52,
+      "source_text": "添加文本具体内容，可酌情增减文字，以便观者准确地理解您传达的思想。添加文本具体内容，简明扼要地阐述观点。",
+      "bounds_pt": {
+        "id": 24,
+        "name": "矩形",
+        "type": 1,
+        "text": "添加文本具体内容，可酌情增减文字，以便观者准确地理解您传达的思想。添加文本具体内容，简明扼要地阐述观点。",
+        "left": 505.75,
+        "top": 243.65,
+        "width": 399.15,
+        "height": 56.7
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 6,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 6,
+        "name": "圆角矩形",
+        "type": 1,
+        "text": "添加标题",
+        "left": 340.4,
+        "top": 318.0,
+        "width": 138.6,
+        "height": 45.2
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 2,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 52,
+      "source_text": "添加文本具体内容，可酌情增减文字，以便观者准确地理解您传达的思想。添加文本具体内容，简明扼要地阐述观点。",
+      "bounds_pt": {
+        "id": 2,
+        "name": "矩形",
+        "type": 1,
+        "text": "添加文本具体内容，可酌情增减文字，以便观者准确地理解您传达的思想。添加文本具体内容，简明扼要地阐述观点。",
+        "left": 505.8,
+        "top": 312.25,
+        "width": 398.75,
+        "height": 56.7
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 41,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 41,
+        "name": "圆角矩形",
+        "type": 1,
+        "text": "添加标题",
+        "left": 302.55,
+        "top": 386.6,
+        "width": 138.6,
+        "height": 45.2
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 18,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 51,
+      "source_sample_chars": 51,
+      "source_text": "添加文本具体内容，可酌情增减文字，以便观者准确地理解您传达的思想添加文本具体内容，简明扼要地阐述观点。",
+      "bounds_pt": {
+        "id": 18,
+        "name": "矩形",
+        "type": 1,
+        "text": "添加文本具体内容，可酌情增减文字，以便观者准确地理解您传达的思想添加文本具体内容，简明扼要地阐述观点。",
+        "left": 466.85,
+        "top": 380.85,
+        "width": 437.75,
+        "height": 56.7
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 14,
+      "shape_name": "图片 9",
+      "bounds_pt": {
+        "id": 14,
+        "name": "图片 9",
+        "type": 28,
+        "text": "",
+        "left": 181.27504,
+        "top": 269.97504,
+        "width": 72.0,
+        "height": 72.0
+      },
+      "kind": "template-decoration",
+      "sha256": "87d97d8ce69576b1bbd47c8068aa17b415175ea657745aa9f87af365f72d5dc8",
+      "replace_required": false
+    }
+  ]
+}

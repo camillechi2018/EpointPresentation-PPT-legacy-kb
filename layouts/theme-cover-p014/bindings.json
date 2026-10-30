@@ -1,0 +1,46 @@
+{
+  "layout_id": "theme-cover-p014",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 5,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "bounds_pt": {
+        "id": 5,
+        "path": "14/5",
+        "name": "标题",
+        "type": 14,
+        "text": "极简大气汇报模板",
+        "left": 97.51181,
+        "top": 197.98268,
+        "width": 764.7874,
+        "height": 83.62205
+      }
+    },
+    {
+      "field": "presenter",
+      "shape_id": 6,
+      "shape_name": "field:presenter",
+      "type": "text",
+      "max_chars": 3,
+      "bounds_pt": {
+        "id": 6,
+        "path": "14/6",
+        "name": "Text Placeholder 5",
+        "type": 14,
+        "text": "汇报人：WPS",
+        "left": 346.063,
+        "top": 331.0,
+        "width": 267.87402,
+        "height": 45.25
+      }
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}

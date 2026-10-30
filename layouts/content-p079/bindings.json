@@ -1,0 +1,109 @@
+{
+  "layout_id": "content-p079",
+  "source_page": 79,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 28,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "单击添加标题",
+      "bounds_pt": {
+        "id": 28,
+        "name": "标题",
+        "type": 17,
+        "text": "单击添加标题",
+        "left": 104.7,
+        "top": 227.0,
+        "width": 327.1181,
+        "height": 53.7
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 29,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 78,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+      "bounds_pt": {
+        "id": 29,
+        "name": "正文",
+        "type": 17,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。\r",
+        "left": 104.7,
+        "top": 288.25,
+        "width": 327.1,
+        "height": 145.7
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 23,
+        "shape_name": "field:image:23",
+        "required": true,
+        "bounds_pt": {
+          "id": 23,
+          "name": "Picture 22",
+          "type": 13,
+          "text": "",
+          "left": 469.6,
+          "top": 130.65,
+          "width": 427.8,
+          "height": 278.65
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 23,
+      "shape_name": "field:image:23",
+      "bounds_pt": {
+        "id": 23,
+        "name": "Picture 22",
+        "type": 13,
+        "text": "",
+        "left": 469.6,
+        "top": 130.65,
+        "width": 427.8,
+        "height": 278.65
+      },
+      "kind": "content-image",
+      "sha256": "e4c7752e246b8a882b3bc3c4fadd5d8d271f689498e7240e892279f6f1e26e53",
+      "replace_required": true
+    }
+  ]
+}

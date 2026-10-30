@@ -1,0 +1,219 @@
+{
+  "layout_id": "content-p105",
+  "source_page": 105,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 15,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 36,
+      "source_text": "单击此处添加文本简明扼要地阐述您的观点。可酌情增减文字以便观者理解思想明",
+      "bounds_pt": {
+        "id": 15,
+        "name": "Hexagon 14",
+        "type": 1,
+        "text": "单击此处添加文本简明扼要地阐述您的观点。可酌情增减文字以便观者理解思想明",
+        "left": 71.9,
+        "top": 169.35,
+        "width": 178.01575,
+        "height": 154.25
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 17,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 36,
+      "source_text": "单击此处添加文本简明扼要地阐述您的观点。可酌情增减文字以便观者理解思想明",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Hexagon 16",
+        "type": 1,
+        "text": "单击此处添加文本简明扼要地阐述您的观点。可酌情增减文字以便观者理解思想明",
+        "left": 391.35,
+        "top": 169.3,
+        "width": 178.01575,
+        "height": 154.25
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 24,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 36,
+      "source_text": "单击此处添加文本简明扼要地阐述您的观点。可酌情增减文字以便观者理解思想明",
+      "bounds_pt": {
+        "id": 24,
+        "name": "Hexagon 23",
+        "type": 1,
+        "text": "单击此处添加文本简明扼要地阐述您的观点。可酌情增减文字以便观者理解思想明",
+        "left": 710.8,
+        "top": 169.35,
+        "width": 178.01575,
+        "height": 154.25
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 16,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 36,
+      "source_text": "单击此处添加文本简明扼要地阐述您的观点。可酌情增减文字以便观者理解思想明",
+      "bounds_pt": {
+        "id": 16,
+        "name": "Hexagon 15",
+        "type": 1,
+        "text": "单击此处添加文本简明扼要地阐述您的观点。可酌情增减文字以便观者理解思想明",
+        "left": 231.6,
+        "top": 261.55,
+        "width": 178.01575,
+        "height": 154.25
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 23,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 36,
+      "source_text": "单击此处添加文本简明扼要地阐述您的观点。可酌情增减文字以便观者理解思想明",
+      "bounds_pt": {
+        "id": 23,
+        "name": "Hexagon 22",
+        "type": 1,
+        "text": "单击此处添加文本简明扼要地阐述您的观点。可酌情增减文字以便观者理解思想明",
+        "left": 551.0,
+        "top": 261.55,
+        "width": 178.01575,
+        "height": 154.25
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 30,
+      "shape_name": "图片 4",
+      "bounds_pt": {
+        "id": 30,
+        "name": "图片 4",
+        "type": 28,
+        "text": "",
+        "left": 304.5,
+        "top": 156.55,
+        "width": 35.85,
+        "height": 35.85
+      },
+      "kind": "template-decoration",
+      "sha256": "e0e055bdc54c9a966ef71893783f8662ef49a23787a1df3528b96fbed8d1f0d2",
+      "replace_required": false
+    },
+    {
+      "shape_id": 32,
+      "shape_name": "图片 21",
+      "bounds_pt": {
+        "id": 32,
+        "name": "图片 21",
+        "type": 28,
+        "text": "",
+        "left": 786.1,
+        "top": 397.55,
+        "width": 32.0,
+        "height": 32.0
+      },
+      "kind": "template-decoration",
+      "sha256": "bfd482a91d30a83fb4f46b830518ed75a8ca08a7eecf9244f0010a8550d20ed2",
+      "replace_required": false
+    },
+    {
+      "shape_id": 33,
+      "shape_name": "图片 5",
+      "bounds_pt": {
+        "id": 33,
+        "name": "图片 5",
+        "type": 28,
+        "text": "",
+        "left": 621.7,
+        "top": 154.95,
+        "width": 38.2,
+        "height": 38.2
+      },
+      "kind": "template-decoration",
+      "sha256": "df467023effca62fb53b2293c05a1f6a844258165687bd25b8aecd5580718518",
+      "replace_required": false
+    },
+    {
+      "shape_id": 34,
+      "shape_name": "图片 13",
+      "bounds_pt": {
+        "id": 34,
+        "name": "图片 13",
+        "type": 28,
+        "text": "",
+        "left": 464.5,
+        "top": 396.7,
+        "width": 33.85,
+        "height": 33.85
+      },
+      "kind": "template-decoration",
+      "sha256": "b354aa8146cd515fca1927f66eea1de973d31dde8d1f30134150108acfe4f349",
+      "replace_required": false
+    },
+    {
+      "shape_id": 35,
+      "shape_name": "图片 8",
+      "bounds_pt": {
+        "id": 35,
+        "name": "图片 8",
+        "type": 28,
+        "text": "",
+        "left": 142.47566,
+        "top": 394.81946,
+        "width": 36.850395,
+        "height": 36.850395
+      },
+      "kind": "template-decoration",
+      "sha256": "c36d513045916de6eb05f1ad7606cc74243fe2038d90562fc12ab0c581019a59",
+      "replace_required": false
+    }
+  ]
+}

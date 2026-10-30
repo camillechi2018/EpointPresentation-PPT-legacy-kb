@@ -1,0 +1,365 @@
+{
+  "layout_id": "content-p120",
+  "source_page": 120,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 2,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "旅游路线规划",
+      "bounds_pt": {
+        "id": 2,
+        "name": "Title 1",
+        "type": 14,
+        "text": "旅游路线规划",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "label_01",
+      "shape_id": 43,
+      "shape_name": "field:label_01",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "景点4",
+      "bounds_pt": {
+        "id": 43,
+        "name": "TextBox 42",
+        "type": 17,
+        "text": "景点4",
+        "left": 734.2,
+        "top": 144.15,
+        "width": 167.35,
+        "height": 29.35
+      },
+      "semantic_role": "label"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 42,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 20,
+      "source_sample_chars": 20,
+      "source_text": "单击此处添加文本，简明扼要地阐述您的观点",
+      "bounds_pt": {
+        "id": 42,
+        "name": "TextBox 41",
+        "type": 17,
+        "text": "单击此处添加文本，简明扼要地阐述您的观点",
+        "left": 734.2,
+        "top": 177.55,
+        "width": 167.35,
+        "height": 50.4
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "label_02",
+      "shape_id": 27,
+      "shape_name": "field:label_02",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "景点2",
+      "bounds_pt": {
+        "id": 27,
+        "name": "TextBox 26",
+        "type": 17,
+        "text": "景点2",
+        "left": 267.65,
+        "top": 206.75,
+        "width": 167.35,
+        "height": 29.35
+      },
+      "semantic_role": "label"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 26,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 20,
+      "source_sample_chars": 20,
+      "source_text": "单击此处添加文本，简明扼要地阐述您的观点",
+      "bounds_pt": {
+        "id": 26,
+        "name": "TextBox 25",
+        "type": 17,
+        "text": "单击此处添加文本，简明扼要地阐述您的观点",
+        "left": 267.65,
+        "top": 240.15,
+        "width": 167.35,
+        "height": 50.4
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "label_03",
+      "shape_id": 37,
+      "shape_name": "field:label_03",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "景点3",
+      "bounds_pt": {
+        "id": 37,
+        "name": "TextBox 36",
+        "type": 17,
+        "text": "景点3",
+        "left": 492.3,
+        "top": 322.85,
+        "width": 167.35,
+        "height": 29.35
+      },
+      "semantic_role": "label"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 36,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 20,
+      "source_sample_chars": 20,
+      "source_text": "单击此处添加文本，简明扼要地阐述您的观点",
+      "bounds_pt": {
+        "id": 36,
+        "name": "TextBox 35",
+        "type": 17,
+        "text": "单击此处添加文本，简明扼要地阐述您的观点",
+        "left": 492.3,
+        "top": 356.25,
+        "width": 167.35,
+        "height": 50.4
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "label_04",
+      "shape_id": 22,
+      "shape_name": "field:label_04",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "景点1",
+      "bounds_pt": {
+        "id": 22,
+        "name": "TextBox 21",
+        "type": 17,
+        "text": "景点1",
+        "left": 58.35,
+        "top": 416.5,
+        "width": 167.3,
+        "height": 29.35
+      },
+      "semantic_role": "label"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 21,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 20,
+      "source_sample_chars": 20,
+      "source_text": "单击此处添加文本，简明扼要地阐述您的观点",
+      "bounds_pt": {
+        "id": 21,
+        "name": "TextBox 20",
+        "type": 17,
+        "text": "单击此处添加文本，简明扼要地阐述您的观点",
+        "left": 58.35,
+        "top": 449.9,
+        "width": 167.35,
+        "height": 50.4
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "field:image:3",
+        "required": true,
+        "bounds_pt": {
+          "id": 3,
+          "name": "Picture 2",
+          "type": 13,
+          "text": "",
+          "left": 61.5,
+          "top": 200.25,
+          "width": 171.05,
+          "height": 124.0
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 44,
+        "shape_name": "field:image:44",
+        "required": true,
+        "bounds_pt": {
+          "id": 44,
+          "name": "Picture 43",
+          "type": 13,
+          "text": "",
+          "left": 285.25,
+          "top": 372.7,
+          "width": 171.05,
+          "height": 124.0
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 46,
+        "shape_name": "field:image:46",
+        "required": true,
+        "bounds_pt": {
+          "id": 46,
+          "name": "Picture 45",
+          "type": 13,
+          "text": "",
+          "left": 482.65,
+          "top": 118.25,
+          "width": 171.05,
+          "height": 124.0
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 48,
+        "shape_name": "field:image:48",
+        "required": true,
+        "bounds_pt": {
+          "id": 48,
+          "name": "Picture 47",
+          "type": 13,
+          "text": "",
+          "left": 735.8,
+          "top": 319.05,
+          "width": 171.05,
+          "height": 124.0
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 49,
+        "shape_name": "field:image:49",
+        "required": true,
+        "bounds_pt": {
+          "id": 49,
+          "name": "Picture 48",
+          "type": 13,
+          "text": "",
+          "left": 16.3,
+          "top": 348.2,
+          "width": 86.4,
+          "height": 79.55
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 3,
+      "shape_name": "field:image:3",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Picture 2",
+        "type": 13,
+        "text": "",
+        "left": 61.5,
+        "top": 200.25,
+        "width": 171.05,
+        "height": 124.0
+      },
+      "kind": "content-image",
+      "sha256": "bd4fb0c8baad73fd9c365301b2dfb4395e93df00ac4a3e1f4825ae9d1d79bc96",
+      "replace_required": true
+    },
+    {
+      "shape_id": 44,
+      "shape_name": "field:image:44",
+      "bounds_pt": {
+        "id": 44,
+        "name": "Picture 43",
+        "type": 13,
+        "text": "",
+        "left": 285.25,
+        "top": 372.7,
+        "width": 171.05,
+        "height": 124.0
+      },
+      "kind": "content-image",
+      "sha256": "cc27670de5237bebcbe72d2e10fe7d4a8465fddee46b272bfa6ecf874ed59ad3",
+      "replace_required": true
+    },
+    {
+      "shape_id": 46,
+      "shape_name": "field:image:46",
+      "bounds_pt": {
+        "id": 46,
+        "name": "Picture 45",
+        "type": 13,
+        "text": "",
+        "left": 482.65,
+        "top": 118.25,
+        "width": 171.05,
+        "height": 124.0
+      },
+      "kind": "content-image",
+      "sha256": "112996e50252323796ad75b9fafe391cde11d377bb4ef4b2c92cd9a608da3a39",
+      "replace_required": true
+    },
+    {
+      "shape_id": 48,
+      "shape_name": "field:image:48",
+      "bounds_pt": {
+        "id": 48,
+        "name": "Picture 47",
+        "type": 13,
+        "text": "",
+        "left": 735.8,
+        "top": 319.05,
+        "width": 171.05,
+        "height": 124.0
+      },
+      "kind": "content-image",
+      "sha256": "721640128d92f068a8ec10ea2c75fb3820ba5893ac4c454a502d5c85d77172d3",
+      "replace_required": true
+    },
+    {
+      "shape_id": 49,
+      "shape_name": "field:image:49",
+      "bounds_pt": {
+        "id": 49,
+        "name": "Picture 48",
+        "type": 13,
+        "text": "",
+        "left": 16.3,
+        "top": 348.2,
+        "width": 86.4,
+        "height": 79.55
+      },
+      "kind": "content-image",
+      "sha256": "cfa0eb773ddf51374e716908ce558311e746a46a1806026499d4eee253ed81e0",
+      "replace_required": true
+    }
+  ]
+}

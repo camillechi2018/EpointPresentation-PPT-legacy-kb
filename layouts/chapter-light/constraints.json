@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0",
+  "layout_id": "chapter-light",
+  "match_shape_names": ["field:title", "field:number", "field:subtitle"],
+  "rules": [
+    {"type": "text_region", "shape_name": "field:title", "width_pt": 540, "single_line": true},
+    {"type": "decoration_after_text", "shape_id": 62, "anchor_shape_name": "field:title", "gap_pt": 12, "right_margin_pt": 36}
+  ]
+}

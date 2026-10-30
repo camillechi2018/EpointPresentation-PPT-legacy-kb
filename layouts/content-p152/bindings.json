@@ -1,0 +1,165 @@
+{
+  "layout_id": "content-p152",
+  "source_page": 152,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 3,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 131,
+      "source_sample_chars": 131,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+      "bounds_pt": {
+        "id": 3,
+        "name": "Rectangle 2",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+        "left": 423.43457,
+        "top": 118.23748,
+        "width": 475.46866,
+        "height": 107.19819
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 6,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 6,
+        "name": "圆: 空心 4",
+        "type": 1,
+        "text": "单击此处添加标题",
+        "left": 61.09685,
+        "top": 203.89528,
+        "width": 217.03094,
+        "height": 217.03094
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 7,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 117,
+      "source_sample_chars": 117,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。简明扼要地阐述您的观点",
+      "bounds_pt": {
+        "id": 7,
+        "name": "Rectangle 6",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。简明扼要地阐述您的观点",
+        "left": 423.43457,
+        "top": 258.81165,
+        "width": 475.46866,
+        "height": 107.19819
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 8,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 131,
+      "source_sample_chars": 131,
+      "source_text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+      "bounds_pt": {
+        "id": 8,
+        "name": "Rectangle 7",
+        "type": 1,
+        "text": "单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。根据需要可酌情增减文字，以便观者准确地理解您传达的思想。单击此处添加文本具体内容，简明扼要地阐述您的观点。",
+        "left": 423.43457,
+        "top": 399.38574,
+        "width": 475.46866,
+        "height": 107.19819
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 11,
+      "shape_name": "图片 4",
+      "bounds_pt": {
+        "id": 11,
+        "name": "图片 4",
+        "type": 28,
+        "text": "",
+        "left": 332.607,
+        "top": 159.08063,
+        "width": 25.51181,
+        "height": 25.51181
+      },
+      "kind": "template-decoration",
+      "sha256": "690d7691c881e45e6f1b498f86ef5207b4b94d6b6dcd748855f141ac0a4efc08",
+      "replace_required": false
+    },
+    {
+      "shape_id": 19,
+      "shape_name": "图片 7",
+      "bounds_pt": {
+        "id": 19,
+        "name": "图片 7",
+        "type": 28,
+        "text": "",
+        "left": 333.5045,
+        "top": 300.55228,
+        "width": 23.71685,
+        "height": 23.71685
+      },
+      "kind": "template-decoration",
+      "sha256": "4658d9373689268a44cc9016b88c5f6cef8cfdcd3aba24d572ce17817b2bbdc2",
+      "replace_required": false
+    },
+    {
+      "shape_id": 20,
+      "shape_name": "图片 23",
+      "bounds_pt": {
+        "id": 20,
+        "name": "图片 23",
+        "type": 28,
+        "text": "",
+        "left": 333.50458,
+        "top": 441.12646,
+        "width": 23.716772,
+        "height": 23.716772
+      },
+      "kind": "template-decoration",
+      "sha256": "ac9204d1f447646716c4c984af710e66bf781e5280a18d5fecfee77530150bae",
+      "replace_required": false
+    }
+  ]
+}

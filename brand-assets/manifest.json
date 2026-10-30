@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "source": "模板\\logo",
+  "embedding_default": "png",
+  "assets": [
+    {
+      "variant": "full",
+      "appearance": "color",
+      "svg": "logo.svg",
+      "png": "logo.png",
+      "svg_sha256": "4245bf98e06c00ef7351e0d24018b5edfd363a455a11af2040bcd439d7f611e2",
+      "png_sha256": "fc7c0355681062dc1736d071660d71cfe83a7abbfc5542e52d9688f9425789ad"
+    },
+    {
+      "variant": "full",
+      "appearance": "white",
+      "svg": "logo-white.svg",
+      "png": "logo-white.png",
+      "svg_sha256": "8a88f37c17458a889c9acb62c224e148f62e1a164256be9e71a7611c1b3e7570",
+      "png_sha256": "725c8c5847c340f97a0c7663ed9926eec8d97ea2b1d1e37264bd16a3f879ec68"
+    },
+    {
+      "variant": "full",
+      "appearance": "black",
+      "svg": "logo-black.svg",
+      "png": "logo-black.png",
+      "svg_sha256": "3087bfd2ccae4b8689f9cd388ae23ea7925e8e0084b3d0b2c1365765219a01a7",
+      "png_sha256": "6201eea404825b7769f00988057b481e923a06a4c909c81afaac1b80373e66a2"
+    },
+    {
+      "variant": "epoint",
+      "appearance": "color",
+      "svg": "logo-epoint.svg",
+      "png": "logo-epoint.png",
+      "svg_sha256": "be7e16f7e501055e93c41a42fa122cc535b4b96bc324d7f3ba03d351f354b223",
+      "png_sha256": "98bdfb596a8d3c94a56f4355b2fb1740afc4baf9f33690054a0625dc22f77fee"
+    },
+    {
+      "variant": "epoint",
+      "appearance": "white",
+      "svg": "logo-epoint-white.svg",
+      "png": "logo-epoint-white.png",
+      "svg_sha256": "f73f24d2c60416f5c6bc9ea8693863761241189cf7ecbec80bf941fdfe3e2679",
+      "png_sha256": "597e80df0b0c0eb0ef7c79af0fc2ad41eb6ef9e4c3f0dd6e1cd87fa8cccf7ca0"
+    },
+    {
+      "variant": "epoint",
+      "appearance": "black",
+      "svg": "logo-epoint-black.svg",
+      "png": "logo-epoint-black.png",
+      "svg_sha256": "a073b9efe7c66f10aace77068a095bb96bd32746a88b0d386719c8c84ef61278",
+      "png_sha256": "e781111c60c5ef9dc61d04bf9ee317e446a763c2fead208992180484f6545acc"
+    }
+  ]
+}

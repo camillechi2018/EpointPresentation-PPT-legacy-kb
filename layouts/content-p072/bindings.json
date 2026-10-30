@@ -1,0 +1,133 @@
+{
+  "layout_id": "content-p072",
+  "source_page": 72,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 6,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 12,
+      "source_text": "单击此处编辑添加项目标题",
+      "bounds_pt": {
+        "id": 6,
+        "name": "矩形: 圆角 1",
+        "type": 1,
+        "text": "单击此处编辑添加项目标题",
+        "left": 239.4,
+        "top": 132.2,
+        "width": 481.2,
+        "height": 49.35
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 34,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加正文",
+      "bounds_pt": {
+        "id": 34,
+        "name": "Rectangle 33",
+        "type": 1,
+        "text": "单击此处添加正文",
+        "left": 165.35,
+        "top": 238.2,
+        "width": 171.8,
+        "height": 26.75
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 39,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加正文",
+      "bounds_pt": {
+        "id": 39,
+        "name": "Rectangle 38",
+        "type": 1,
+        "text": "单击此处添加正文",
+        "left": 621.7,
+        "top": 237.3,
+        "width": 171.8,
+        "height": 26.75
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 35,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 128,
+      "source_sample_chars": 128,
+      "source_text": "单击添加正文，文字是您思想的提炼，为了最终演示发布的良好效果，请言简的阐述观点。根据需要可酌情增减文字，以便观者可以准确理解您所传达的信息。单击此处输入正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点，根据需要可酌情增减文字。",
+      "bounds_pt": {
+        "id": 35,
+        "name": "Rounded Rectangle 34",
+        "type": 1,
+        "text": "单击添加正文，文字是您思想的提炼，为了最终演示发布的良好效果，请言简的阐述观点。根据需要可酌情增减文字，以便观者可以准确理解您所传达的信息。单击此处输入正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点，根据需要可酌情增减文字。",
+        "left": 47.75,
+        "top": 275.2,
+        "width": 407.0,
+        "height": 217.7
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 40,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 118,
+      "source_sample_chars": 118,
+      "source_text": "单击添加正文，文字是您思想的提炼，为了最终演示发布的良好效果，请言简意赅的阐述观点。根据需要可酌情增减文字，以便观者可以准确理解您所传达的信息。单击此处输入正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点。",
+      "bounds_pt": {
+        "id": 40,
+        "name": "Rounded Rectangle 39",
+        "type": 1,
+        "text": "单击添加正文，文字是您思想的提炼，为了最终演示发布的良好效果，请言简意赅的阐述观点。根据需要可酌情增减文字，以便观者可以准确理解您所传达的信息。单击此处输入正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点。",
+        "left": 504.1,
+        "top": 275.2,
+        "width": 407.0,
+        "height": 217.7
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

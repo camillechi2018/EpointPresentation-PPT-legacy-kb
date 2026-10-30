@@ -1,0 +1,143 @@
+{
+  "layout_id": "content-p146",
+  "source_page": 146,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 19,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 20,
+      "source_sample_chars": 20,
+      "source_text": "单击此处输入您的项正文文字是您思想的提炼",
+      "bounds_pt": {
+        "id": 19,
+        "name": "Oval 18",
+        "type": 1,
+        "text": "单击此处输入您的项正文文字是您思想的提炼",
+        "left": 125.65,
+        "top": 179.6,
+        "width": 278.5,
+        "height": 278.55
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 18,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 20,
+      "source_sample_chars": 20,
+      "source_text": "单击此处输入您的项正文文字是您思想的提炼",
+      "bounds_pt": {
+        "id": 18,
+        "name": "Oval 17",
+        "type": 1,
+        "text": "单击此处输入您的项正文文字是您思想的提炼",
+        "left": 555.7,
+        "top": 179.6,
+        "width": 278.5,
+        "height": 278.55
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 44,
+        "shape_name": "field:image:44",
+        "required": true,
+        "bounds_pt": {
+          "id": 44,
+          "name": "Picture 43",
+          "type": 13,
+          "text": "",
+          "left": 209.25,
+          "top": 106.85,
+          "width": 111.4,
+          "height": 111.4
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      },
+      {
+        "shape_id": 48,
+        "shape_name": "field:image:48",
+        "required": true,
+        "bounds_pt": {
+          "id": 48,
+          "name": "Picture 47",
+          "type": 13,
+          "text": "",
+          "left": 639.25,
+          "top": 106.85,
+          "width": 111.4,
+          "height": 111.4
+        },
+        "fit": "cover",
+        "source_sample_only": true
+      }
+    ]
+  },
+  "source_picture_objects": [
+    {
+      "shape_id": 44,
+      "shape_name": "field:image:44",
+      "bounds_pt": {
+        "id": 44,
+        "name": "Picture 43",
+        "type": 13,
+        "text": "",
+        "left": 209.25,
+        "top": 106.85,
+        "width": 111.4,
+        "height": 111.4
+      },
+      "kind": "content-image",
+      "sha256": "93b0bfb433167aa1065c5a9100a65a69e2a67e358ef673a5c0d61036ad00e842",
+      "replace_required": true
+    },
+    {
+      "shape_id": 48,
+      "shape_name": "field:image:48",
+      "bounds_pt": {
+        "id": 48,
+        "name": "Picture 47",
+        "type": 13,
+        "text": "",
+        "left": 639.25,
+        "top": 106.85,
+        "width": 111.4,
+        "height": 111.4
+      },
+      "kind": "content-image",
+      "sha256": "d59129814ce62f75a741c385a290d43a6c5a1e00f9afea8b405ce91873741a72",
+      "replace_required": true
+    }
+  ]
+}

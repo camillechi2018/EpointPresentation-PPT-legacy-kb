@@ -1,0 +1,193 @@
+{
+  "layout_id": "content-p065",
+  "source_page": 65,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 17,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "单击此处添加标题",
+      "bounds_pt": {
+        "id": 17,
+        "name": "Title 16",
+        "type": 14,
+        "text": "单击此处添加标题",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "item_title_01",
+      "shape_id": 7,
+      "shape_name": "field:item_title_01",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 7,
+        "name": "任意多边形: 形状 6",
+        "type": 1,
+        "text": "添加标题",
+        "left": 103.07787,
+        "top": 127.21158,
+        "width": 303.49432,
+        "height": 38.57756
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_02",
+      "shape_id": 12,
+      "shape_name": "field:item_title_02",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 12,
+        "name": "任意多边形: 形状 11",
+        "type": 1,
+        "text": "添加标题",
+        "left": 553.82605,
+        "top": 127.21158,
+        "width": 303.49432,
+        "height": 38.57756
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 6,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 57,
+      "source_sample_chars": 57,
+      "source_text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入你的项正文，文字是您思想的提炼。",
+      "bounds_pt": {
+        "id": 6,
+        "name": "Rounded Rectangle 5",
+        "type": 1,
+        "text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入你的项正文，文字是您思想的提炼。",
+        "left": 54.4,
+        "top": 136.65,
+        "width": 399.7,
+        "height": 141.73228
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 11,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 63,
+      "source_sample_chars": 63,
+      "source_text": "单击此处输入你的项正文内容，文字是您思想的提炼，请尽量言简意赅的阐述内容观点。单击此处输入你的项正文内容，文字是您思想的提炼。",
+      "bounds_pt": {
+        "id": 11,
+        "name": "Rounded Rectangle 10",
+        "type": 1,
+        "text": "单击此处输入你的项正文内容，文字是您思想的提炼，请尽量言简意赅的阐述内容观点。单击此处输入你的项正文内容，文字是您思想的提炼。",
+        "left": 505.7,
+        "top": 136.65,
+        "width": 399.7,
+        "height": 141.73228
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "item_title_03",
+      "shape_id": 20,
+      "shape_name": "field:item_title_03",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 20,
+        "name": "任意多边形: 形状 19",
+        "type": 1,
+        "text": "添加标题",
+        "left": 103.07787,
+        "top": 306.1192,
+        "width": 303.49432,
+        "height": 38.57756
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "item_title_04",
+      "shape_id": 27,
+      "shape_name": "field:item_title_04",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "添加标题",
+      "bounds_pt": {
+        "id": 27,
+        "name": "任意多边形: 形状 26",
+        "type": 1,
+        "text": "添加标题",
+        "left": 553.62604,
+        "top": 306.1192,
+        "width": 303.49432,
+        "height": 38.57756
+      },
+      "semantic_role": "item_title"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 19,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 63,
+      "source_sample_chars": 63,
+      "source_text": "单击此处输入你的项正文内容，文字是您思想的提炼，请尽量言简意赅的阐述内容观点。单击此处输入你的项正文内容，文字是您思想的提炼。",
+      "bounds_pt": {
+        "id": 19,
+        "name": "Rounded Rectangle 18",
+        "type": 1,
+        "text": "单击此处输入你的项正文内容，文字是您思想的提炼，请尽量言简意赅的阐述内容观点。单击此处输入你的项正文内容，文字是您思想的提炼。",
+        "left": 54.4,
+        "top": 315.55765,
+        "width": 399.7,
+        "height": 141.73228
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 24,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 57,
+      "source_sample_chars": 57,
+      "source_text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入你的项正文，文字是您思想的提炼。",
+      "bounds_pt": {
+        "id": 24,
+        "name": "Rounded Rectangle 23",
+        "type": 1,
+        "text": "单击此处输入你的项正文，文字是您思想的提炼，请尽量言简意赅的阐述观点。单击此处输入你的项正文，文字是您思想的提炼。",
+        "left": 505.5,
+        "top": 315.55765,
+        "width": 399.7,
+        "height": 141.73228
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

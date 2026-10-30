@@ -1,0 +1,379 @@
+{
+  "layout_id": "content-p128",
+  "source_page": 128,
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 51,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 12,
+      "source_text": "单击此处添加文档标题内容",
+      "bounds_pt": {
+        "id": 51,
+        "name": "Title 50",
+        "type": 14,
+        "text": "单击此处添加文档标题内容",
+        "left": 47.90551,
+        "top": 47.90551,
+        "width": 863.71655,
+        "height": 55.559055
+      },
+      "semantic_role": "title"
+    },
+    {
+      "field": "body_01",
+      "shape_id": 18,
+      "shape_name": "field:body_01",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 32,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+      "bounds_pt": {
+        "id": 18,
+        "name": "TextBox 17",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+        "left": 138.9,
+        "top": 132.35,
+        "width": 314.15,
+        "height": 52.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_02",
+      "shape_id": 59,
+      "shape_name": "field:body_02",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 32,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+      "bounds_pt": {
+        "id": 59,
+        "name": "TextBox 58",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+        "left": 561.8,
+        "top": 153.75,
+        "width": 314.15,
+        "height": 52.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_03",
+      "shape_id": 44,
+      "shape_name": "field:body_03",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 32,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+      "bounds_pt": {
+        "id": 44,
+        "name": "TextBox 43",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+        "left": 138.9,
+        "top": 184.4,
+        "width": 314.15,
+        "height": 52.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_04",
+      "shape_id": 60,
+      "shape_name": "field:body_04",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 32,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+      "bounds_pt": {
+        "id": 60,
+        "name": "TextBox 59",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+        "left": 561.8,
+        "top": 205.8,
+        "width": 314.15,
+        "height": 52.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_05",
+      "shape_id": 45,
+      "shape_name": "field:body_05",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 32,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+      "bounds_pt": {
+        "id": 45,
+        "name": "TextBox 44",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+        "left": 138.9,
+        "top": 236.5,
+        "width": 314.15,
+        "height": 52.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_06",
+      "shape_id": 61,
+      "shape_name": "field:body_06",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 32,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+      "bounds_pt": {
+        "id": 61,
+        "name": "TextBox 60",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+        "left": 561.8,
+        "top": 257.9,
+        "width": 314.15,
+        "height": 52.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_07",
+      "shape_id": 46,
+      "shape_name": "field:body_07",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 32,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+      "bounds_pt": {
+        "id": 46,
+        "name": "TextBox 45",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+        "left": 138.9,
+        "top": 288.6,
+        "width": 314.15,
+        "height": 52.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "value_01",
+      "shape_id": 67,
+      "shape_name": "field:value_01",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "10",
+      "bounds_pt": {
+        "id": 67,
+        "name": "TextBox 66",
+        "type": 17,
+        "text": "10",
+        "left": 505.35,
+        "top": 310.15,
+        "width": 49.4,
+        "height": 52.15
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "body_08",
+      "shape_id": 62,
+      "shape_name": "field:body_08",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 32,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+      "bounds_pt": {
+        "id": 62,
+        "name": "TextBox 61",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+        "left": 561.8,
+        "top": 310.0,
+        "width": 314.15,
+        "height": 52.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_09",
+      "shape_id": 47,
+      "shape_name": "field:body_09",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 32,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+      "bounds_pt": {
+        "id": 47,
+        "name": "TextBox 46",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+        "left": 138.9,
+        "top": 340.75,
+        "width": 314.15,
+        "height": 52.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "value_02",
+      "shape_id": 68,
+      "shape_name": "field:value_02",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "11",
+      "bounds_pt": {
+        "id": 68,
+        "name": "TextBox 67",
+        "type": 17,
+        "text": "11",
+        "left": 505.35,
+        "top": 362.25,
+        "width": 49.4,
+        "height": 52.15
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "body_10",
+      "shape_id": 63,
+      "shape_name": "field:body_10",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 32,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+      "bounds_pt": {
+        "id": 63,
+        "name": "TextBox 62",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+        "left": 561.8,
+        "top": 362.15,
+        "width": 314.15,
+        "height": 52.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "body_11",
+      "shape_id": 48,
+      "shape_name": "field:body_11",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 32,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+      "bounds_pt": {
+        "id": 48,
+        "name": "TextBox 47",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+        "left": 138.9,
+        "top": 392.85,
+        "width": 314.15,
+        "height": 52.1
+      },
+      "semantic_role": "body"
+    },
+    {
+      "field": "value_03",
+      "shape_id": 69,
+      "shape_name": "field:value_03",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "12",
+      "bounds_pt": {
+        "id": 69,
+        "name": "TextBox 68",
+        "type": 17,
+        "text": "12",
+        "left": 505.35,
+        "top": 414.4,
+        "width": 49.4,
+        "height": 52.15
+      },
+      "semantic_role": "value"
+    },
+    {
+      "field": "body_12",
+      "shape_id": 64,
+      "shape_name": "field:body_12",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 32,
+      "source_text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+      "bounds_pt": {
+        "id": 64,
+        "name": "TextBox 63",
+        "type": 17,
+        "text": "单击此处添加正文，文字是您思想的提炼，请言简意赅的阐述您的观点。",
+        "left": 561.8,
+        "top": 414.25,
+        "width": 314.15,
+        "height": 52.1
+      },
+      "semantic_role": "body"
+    }
+  ],
+  "fixed_texts": [
+    {
+      "shape_id": 17,
+      "text": "01",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 58,
+      "text": "07",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 50,
+      "text": "02",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 65,
+      "text": "08",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 52,
+      "text": "03",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 66,
+      "text": "09",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 53,
+      "text": "04",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 54,
+      "text": "05",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    },
+    {
+      "shape_id": 55,
+      "text": "06",
+      "purpose": "结构编号或分析模型固定标签，可在副本中手动编辑"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "source_picture_objects": []
+}

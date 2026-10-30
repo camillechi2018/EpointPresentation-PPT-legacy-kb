@@ -1,0 +1,64 @@
+{
+  "layout_id": "theme-closing-p207",
+  "fields": [
+    {
+      "field": "title",
+      "shape_id": 4,
+      "shape_name": "field:title",
+      "type": "text",
+      "max_chars": 6,
+      "bounds_pt": {
+        "id": 4,
+        "path": "207/4",
+        "name": "标题",
+        "type": 14,
+        "text": "感谢您的观看",
+        "left": 415.56693,
+        "top": 114.13433,
+        "width": 445.18198,
+        "height": 177.80496
+      }
+    },
+    {
+      "field": "subtitle",
+      "shape_id": 5,
+      "shape_name": "field:subtitle",
+      "type": "text",
+      "max_chars": 22,
+      "bounds_pt": {
+        "id": 5,
+        "path": "207/5",
+        "name": "副标题",
+        "type": 14,
+        "text": "Thank you for watching",
+        "left": 415.56693,
+        "top": 303.27786,
+        "width": 445.18198,
+        "height": 41.55071
+      }
+    },
+    {
+      "field": "presenter",
+      "shape_id": 10,
+      "shape_name": "field:presenter",
+      "type": "text",
+      "max_chars": 3,
+      "bounds_pt": {
+        "id": 10,
+        "path": "207/10",
+        "name": "署名",
+        "type": 14,
+        "text": "汇报人：WPS",
+        "left": 615.4162,
+        "top": 361.79544,
+        "width": 232.81094,
+        "height": 35.244095
+      }
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  }
+}
